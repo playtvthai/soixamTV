@@ -1,0 +1,33 @@
+[
+  {
+    "icon": "fa-solid fa-house",
+    "title":"Trang chủ",
+    "url":"/index.html"
+  },
+  {
+    "icon": "fa-solid fa-location-dot",
+    "title":"TH Nội Địa",
+    "url":"/TVLocal/index.html"
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "title":"TH Quốc Tế",
+    "url":"/TVInternational/index.html"
+  },
+  {
+    "icon": "fa-solid fa-earth-asia",
+    "title":"TH khu vực ĐNA",
+    "url":"/TVAsean/index.html"
+  },
+  {
+    "icon": "",
+    "title":"",
+    "url":""
+  },
+  {
+    "icon": "",
+    "title":"",
+    "url":""
+  }
+]
+
