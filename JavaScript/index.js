@@ -25,7 +25,7 @@ function stream(videoSrc) {
   
         
  function play(idStream, tag) {
-   fetch(`https://lmg159z.github.io/soixamTV/index.html/json/${tag}.json`)
+   fetch(`https://lmg159z.github.io/soixamTV/json/${tag}.json`)
   .then(response => {
     if (!response.ok) {
       throw new Error(`Lỗi HTTP: ${response.status}`);
