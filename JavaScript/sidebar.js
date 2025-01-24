@@ -1,7 +1,7 @@
 const menu = document.getElementById("menu")
 
 
-const menuJson = "../json/sidebar.json";
+const menuJson = "https://lmg159z.github.io/soixamTV//json/sidebar.json";
 
 fetch(menuJson)
   .then(response => {
