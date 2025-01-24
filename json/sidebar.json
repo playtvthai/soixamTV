@@ -2,12 +2,12 @@
   {
     "icon": "fa-solid fa-house",
     "title":"Trang chủ",
-    "url":"../index.html"
+    "url":"https://lmg159z.github.io/soixamTV/index.html"
   },
   {
     "icon": "fa-solid fa-location-dot",
     "title":"TH Nội Địa",
-    "url":"../TVLocal/index.html"
+    "url":"https://lmg159z.github.io/soixamTV/TVLocal/index.html"
   },
   {
     "icon": "fa-solid fa-globe",
@@ -17,7 +17,7 @@
   {
     "icon": "fa-solid fa-earth-asia",
     "title":"TH khu vực ĐNA",
-    "url":"../TVAsean/index.html"
+    "url":"https://lmg159z.github.io/soixamTV/TVAsean/index.html"
   },
   {
     "icon": "",
