@@ -7,12 +7,7 @@ fetch(url)
     }
     return response.json(); // Chuyển dữ liệu phản hồi thành JSON
   })
-  .then(data => {
-  //  console.log(data);
-  //  console.log(typeof([]))
-    logo(data)
-   
-     })
+  .then(data => {logo(data)})
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
   });

@@ -1,4 +1,4 @@
-const url = "/xoisamTV/json/logo_G.json";
+const url = "./json/logo_G.json";
 
 fetch(url)
   .then(response => {
@@ -7,12 +7,7 @@ fetch(url)
     }
     return response.json(); // Chuyển dữ liệu phản hồi thành JSON
   })
-  .then(data => {
-  //  console.log(data);
-  //  console.log(typeof([]))
-    logo(data)
-   
-     })
+  .then(data => {logo(data)})
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
   });
@@ -32,8 +27,8 @@ function logo(logoChannel) {
        class="logo-item"
        onclick="play('${num.id}','TVLocal')"
      >
-     <img class="logo" alt="${num.id}"  src="/xoisamTV/wordspage/image/logo/${num.logo}" />
-     <img class="logo_cuntry" alt="${num.id}"  src="/xoisamTV/wordspage/image/flag/${num.nation}.png" />
+     <img class="logo" alt="${num.id}"  src="./wordspage/image/logo/${num.logo}" />
+     <img class="logo_cuntry" alt="${num.id}"  src="./wordspage/image/flag/${num.nation}.png" />
       </div>
     `
     );
