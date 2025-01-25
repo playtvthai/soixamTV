@@ -1,5 +1,5 @@
 const menu = document.getElementById("menu")
-const menuJson = "../json/sidebar.json";
+const menuJson = `${GL_domain}json/sidebar.json`;
 fetch(menuJson)
   .then(response => {
     if (!response.ok) {
