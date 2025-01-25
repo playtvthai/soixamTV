@@ -1,1 +1,1 @@
-var GL_domain = "https://lmg159z.github.io/soixamTV/TVLocal/"
+var GL_domain = "/"
