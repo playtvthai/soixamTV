@@ -1,0 +1,470 @@
+[
+    {
+        "id": "angiang",
+        "name": "Đài PTTH An Giang",
+        "logo": "ATV_logo_2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "baclieu",
+        "name": "Đài PTTH Bạc Liêu",
+        "logo": "BLTV_BacLieu_2018.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "bacgiang",
+        "name": "Đài PTTH Bắc Giang",
+        "logo": "BGTV_2023.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "backang",
+        "name": "Đài PTTH Bắc Kạn",
+        "logo": "TBK_HD_logo_2023.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "bacninh",
+        "name": "Đài PTTH Bắc Ninh",
+        "logo": "Bac_Ninh_2023.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "bentre",
+        "name": "Đài PTTH Bến Tre",
+        "logo": "BenTre_logo_2023.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "binhduong1",
+        "name": "Đài PTTH Bình Dương 1",
+        "logo": "BTV1_HD_logo_2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "binhduong2",
+        "name": "Đài PTTH Bình Dương 2",
+        "logo": "BTV2_HD_logo.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "binhdinh",
+        "name": "Đài PTTH Bình Định",
+        "logo": "BinhDinh_logo.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "binhphuoc1",
+        "name": "Đài PTTH Bình Phước 1",
+        "logo": "BPTV1_HD_logo_2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "binhphuoc2",
+        "name": "Đài PTTH Bình Phước 2",
+        "logo": "BPTV2_HD_logo_2023.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "binhthuan",
+        "name": "Đài PTTH Bình Thuận",
+        "logo": "BTV_HD_BinhThuan_2021.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "brvt",
+        "name": "Đài PTTH Bà Rịa Vũng Tàu",
+        "logo": "BRT_VungTau.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "camau",
+        "name": "Đài PTTH Cà Mau",
+        "logo": "CTV_HD_CaMau_2024.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "danang1",
+        "name": "Đài PTTH Đà Nẵng 1",
+        "logo": "DaNangTV1_HD.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "danang2",
+        "name": "Đài PTTH Đà Nẵng 2",
+        "logo": "DaNangTV2_HD.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "daklak",
+        "name": "Đài PTTH Đăk Lắk",
+        "logo": "DRT_HD_DakLak.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "daknong",
+        "name": "Đài PTTH Đăk Nông",
+        "logo": "PTD_HD_DakNong.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "dienbien",
+        "name": "Đài PTTH Điện Biên",
+        "logo": "DTV_HD_DienBien.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "dongthap1",
+        "name": "Đài PTTH Đồng Tháp 1",
+        "logo": "THDT1_DongThap.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "dongthap2",
+        "name": "Đài PTTH Đồng Tháp 2",
+        "logo": "THDT2_DongThap.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "gialai",
+        "name": "Đài PTTH Gia Lai",
+        "logo": "THGL_HD_Gia_Lai.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "hagiang",
+        "name": "Đài PTTH Hà Giang",
+        "logo": "HGTV_HD_HaGiang.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "hanam",
+        "name": "Đài PTTH Hà Nam",
+        "logo": "THHN_HD_HaNam.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "hanoi1",
+        "name": "Đài PTTH Hà Nội 1",
+        "logo": "HanoiTV1_HD_HaNoi.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "hanoi2",
+        "name": "Đài PTTH Hà Nội 2",
+        "logo": "HanoiTV2_HD_HaNoi.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "hatinh",
+        "name": "Đài PTTH Hà Tĩnh",
+        "logo": "HTTV_HD_HaTinh.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "haiduong",
+        "name": "Đài PTTH Hải Dương",
+        "logo": "THD_HaiDuong.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "haiphong1",
+        "name": "Đài PTTH Hải Phòng 1",
+        "logo": "THP_HD_HaiPhong.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "haugiang",
+        "name": "Đài PTTH Hậu Giang",
+        "logo": "HGTV_HauGiang.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "hue",
+        "name": "Đài PTTH Huế",
+        "logo": "TRT_HD.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "hungyen",
+        "name": "Đài PTTH Hưng Yên",
+        "logo": "HY_logo_2021_(Hungyentv_Go).png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "khanhhoa",
+        "name": "Đài PTTH Khánh Hoà",
+        "logo": "KTV_Khanh_Hoa_logo_2017-2018.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "kiengiang1",
+        "name": "Đài PTTH Kiên Giang 1",
+        "logo": "KG-PTTH_2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "kiengiang2",
+        "name": "Đài PTTH Kiên Giang 2",
+        "logo": "KG1-PTTH_2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "kontum",
+        "name": "Đài PTTH Kon Tum",
+        "logo": "KRT_Kon_Tum.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "laichau",
+        "name": "Đài PTTH Lai Châu",
+        "logo": "LTV_HD_LC_logo_06-06-2022.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "langson",
+        "name": "Đài PTTH Lạng Sơn",
+        "logo": "LSTV_HD_logo.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "laocai",
+        "name": "Đài PTTH Lào Cai",
+        "logo": "THLC_2023-2024.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "lamdong",
+        "name": "Đài PTTH Lâm Đồng",
+        "logo": "LTV_HD_Lam_Dong_10-03-2023.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "longan",
+        "name": "Đài PTTH Long An",
+        "logo": "LA34_Long_An_TV_logo_2022.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "namdinh",
+        "name": "Đài PTTH Nam Định",
+        "logo": "NTV_HD_Nam_dinh_logo.png",
+         "nation": "vietnam"
+    },
+     {
+        "id": "news",
+        "name": "Vnews",
+         "logo": "",
+        "nation": "vietnam"
+    },
+    {
+        "id": "nghean",
+        "name": "Đài PTTH Nghệ An",
+        "logo": "NTV_HD_Nghe_An_2019.png",
+        "nation": "vietnam"
+    },
+     {
+        "id": "ninhbinh",
+        "name": "Đài PTTH Ninh Bình",
+        "logo": "NTV_HD_Ninh_Binh.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "ninhthuan",
+        "name": "Đài PTTH Ninh Thuận",
+        "logo": "NTV_HD_Ninh_Thuan_logo_2023.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "phutho",
+        "name": "Đài PTTH Phú Thọ",
+        "logo": "PTV_HD_logo_2023.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "phuyen",
+        "name": "Đài PTTH Phú Yên",
+        "logo": "Logo_PTP_website.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "quangbinh",
+        "name": "Đài PTTH Quảng Bình",
+        "logo": "QBTV_HD_logo.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "quangnam",
+        "name": "Đài PTTH Quảng Nam",
+        "logo": "QRT_HD_02-2021.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "quangngai",
+        "name": "Đài PTTH Quảng Ngãi",
+        "logo": "PTQ_Quảng_Ngai.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "quangninh1",
+        "name": "Đài PTTH Quảng Ninh 1",
+        "logo": "QTV1_HD_2019.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "quangninh3",
+        "name": "Đài PTTH Quảng Ninh 3",
+        "logo": "QTV2_logo_2003.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "quangtri",
+        "name": "Đài PTTH Quảng Trị",
+        "logo": "QRTV_logo_14-01-2025.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "soctrang1",
+        "name": "Đài PTTH Sóc Trăng 1",
+        "logo": "STV1_HD_logo.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "soctrang2",
+        "name": "Đài PTTH Sóc Trăng 2",
+        "logo": "STV2_HD_2019.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "sonla",
+        "name": "Đài PTTH Sơn La",
+        "logo": "STV_HD_Son_La.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "tayninh",
+        "name": "Đài PTTH Tây Ninh",
+        "logo": "TTV11_TayNinhTV_2020.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "thaibinh",
+        "name": "Đài PTTH Thái Bình",
+        "logo": "TBTV_HD_2018.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "thainguyen",
+        "name": "Đài PTTH Thái Nguyên",
+        "logo": "TN_logo_2018_(TN2).png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "thanhhoa",
+        "name": "Đài PTTH Thanh Hoá",
+        "logo": "Logo_TTV_Thanh_Hoa.png",
+         "nation": "vietnam"
+    },
+     {
+        "id": "tiengiang",
+        "name": "Đài PTTH Tiền Giang",
+        "logo": "THTG_HD_logo_2023_2.png",
+        "nation": "vietnam"
+    },
+   {
+     "id": "cantho",
+      "name": "Đài PTTH TP.Cần Thơ",
+      "logo": "Logo_THTPCT_HD_2022.png",
+      "nation": "vietnam"
+    },
+    {
+        "id": "tuyenquang",
+        "name": "Đài PTTH Tuyên Quang",
+        "logo": "TTV_HD_Tuyen_Quang_logo_.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3601",
+        "name": "TV360 1",
+        "logo": "TV360_plus_1.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3602",
+        "name": "TV360 2",
+        "logo": "TV360plus2.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "tv3603",
+        "name": "TV360 3",
+        "logo": "TV360_plus_3.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3604",
+        "name": "TV360 4",
+        "logo": "TV360plus4.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3605",
+        "name": "TV360 5",
+        "logo": "TV360_plus_5.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3606",
+        "name": "TV360 6",
+        "logo": "TV360_plus_6.png",
+         "nation": "vietnam"
+    },
+     {
+        "id": "tv3607",
+        "name": "TV360 7",
+        "logo": "TV360_plus_7.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "tv3608",
+        "name": "TV360 8",
+        "logo": "TV360_plus_8.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "vinhlong1",
+        "name": "Đài PTTH Vĩnh Long 1",
+        "logo": "THVL1_HD_logo_04-02-2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "vinhlong2",
+        "name": "Đài PTTH Vĩnh Long 2",
+        "logo": "THVL2_HD_logo_04-02-2024.png",
+        "nation": "vietnam"
+    },
+    {
+        "id": "vinhlong3",
+        "name": "Đài PTTH Vĩnh Long 3",
+        "logo": "THVL3_HD_logo_04-02-2024.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "vinhlong4",
+        "name": "Đài PTTH Vĩnh Long 4",
+        "logo": "THVL4_HD_logo_04-02-2024.png",
+         "nation": "vietnam"
+    },
+    {
+        "id": "vinhphuc",
+        "name": "Đài PTTH Vĩnh Phúc",
+        "logo": "VP_HD_Vinh_Phuc_2022.png",
+        "nation": "vietnam"
+    },
+    {
+    "id": "hoabinh",
+    "name": "Đài PTTH Hoà Bình",
+    "logo": "HBTV_HoaBinh.png",
+    "nation": "vietnam"
+}
+]

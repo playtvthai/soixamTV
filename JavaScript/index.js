@@ -1,8 +1,4 @@
- var video = document.getElementById('myVideo');
-
- 
-const apiStream = "../json/iptv.json/";
-  
+var video = document.getElementById('myVideo');
 function stream(videoSrc) {
   if (Hls.isSupported()) {
     var hls = new Hls();
@@ -13,19 +9,18 @@ function stream(videoSrc) {
             });
   } else if (
     video.canPlayType('application/vnd.apple.mpegurl')
-   ) {
-            // Fallback cho các trình duyệt hỗ trợ native HLS
-  video.src = videoSrc;
+   )
+   {  video.src = videoSrc;
   video.play();
   video.autoplay()
   video.muted() = False
   }
-     
 }  
   
-        
+////////////////////////////
+
  function play(idStream, tag) {
-   fetch(`https://lmg159z.github.io/soixamTV/json/${tag}.json`)
+   fetch(`${GL_domain}json/streamLink/${tag}.json`)
   .then(response => {
     if (!response.ok) {
       throw new Error(`Lỗi HTTP: ${response.status}`);
@@ -43,3 +38,4 @@ function stream(videoSrc) {
  }
  
  
+var a = 17363636

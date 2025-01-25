@@ -2,32 +2,37 @@
   {
     "icon": "fa-solid fa-house",
     "title":"Trang chủ",
-    "url":"https://lmg159z.github.io/soixamTV/index.html"
+    "url":"index.html"
   },
   {
     "icon": "fa-solid fa-location-dot",
-    "title":"TH Nội Địa",
-    "url":"https://lmg159z.github.io/soixamTV/TVLocal/index.html"
+    "title":"TH thiết yếu",
+    "url":"PL_THTY"
   },
   {
     "icon": "fa-solid fa-globe",
     "title":"TH Quốc Tế",
-    "url":"../TVInternational/index.html"
+    "url":"TVInternational/index.html"
+  },
+  {
+    "icon": "fa-solid fa-globe",
+    "title":"TH Quốc Tế Tại VN",
+    "url":"PL_QToVN"
   },
   {
     "icon": "fa-solid fa-earth-asia",
     "title":"TH khu vực ĐNA",
-    "url":"https://lmg159z.github.io/soixamTV/TVAsean/index.html"
+    "url":"TVAsean/index.html"
   },
   {
     "icon": "",
-    "title":"",
-    "url":""
+    "title":"VTV & VTVCAP",
+    "url":"PL_VTV_VTVC"
   },
   {
     "icon": "",
-    "title":"",
-    "url":""
+    "title":"HTV & HTVCAP",
+    "url":"PL_HTV_HTVC"
   }
 ]
 

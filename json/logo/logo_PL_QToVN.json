@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Asian_Food_Channel",
+    "name": "Asian Food Channel",
+    "logo": "https://i.imgur.com/hnKYaz4.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "Da_Vinci_Learning",
+    "name": "Da Vinci Learning",
+    "logo": "https://i.imgur.com/BaWeTRA.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "CNBC",
+    "name": "CNBC",
+    "logo": "https://i.imgur.com/n7wpbPA.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "KBS_World",
+    "name": "KBS World",
+    "logo": "https://i.imgur.com/p9l05oV.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "NHK_World_HD",
+    "name": "NHK World HD",
+    "logo": "https://i.imgur.com/jay8vmW.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "DW",
+    "name": "DW",
+    "logo": "https://i.imgur.com/6Lyp9ek.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "Arirang",
+    "name": "Arirang",
+    "logo": "https://i.imgur.com/fOZbl4G.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "Channel_NewsAsia",
+    "name": "Channel NewsAsia",
+    "logo": "https://i.imgur.com/Ojig5wo.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "France_24",
+    "name": "France 24",
+    "logo": "https://i.imgur.com/HVXCGWm.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "TV5_Monde",
+    "name": "TV5 Monde",
+    "logo": "https://i.imgur.com/69Rr8Ay.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "Outdoor_Channel",
+    "name": "Outdoor Channel",
+    "logo": "https://i.imgur.com/VO7PRty.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "Kix",
+    "name": "Kix",
+    "logo": "https://i.imgur.com/RwqyVRB.png",
+    "nation": "vietnam"
+  }
+]

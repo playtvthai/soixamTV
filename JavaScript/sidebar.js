@@ -1,8 +1,5 @@
 const menu = document.getElementById("menu")
-
-
-const menuJson = "https://lmg159z.github.io/soixamTV//json/sidebar.json";
-
+const menuJson = "../json/sidebar.json";
 fetch(menuJson)
   .then(response => {
     if (!response.ok) {
@@ -16,42 +13,22 @@ fetch(menuJson)
     ` 
     <a data-aos="fade-up"
      data-aos-duration="1000" 
-     href="${num.url}"><i><i class="${num.icon}"></i></i>${num.title}</a>
+     href="${GL_domain}${num.url}"><i><i class="${num.icon}"></i></i>${num.title}</a>
     `
     );
-  //console.log(menuHTML.join(""))
   menu.innerHTML =`
                   
                  <div class="menu">
                   ${menuHTML.join("")}
                 </div> `
-  //  console.log(typeof([]))
-  
    
      })
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
   });
-
-
-
-/*
-
-   <div class="menu">
-     <a data-aos="fade-up"
-     data-aos-duration="1000" 
-     href="#"><i><i class="fa-solid fa-house"></i></i> Home</a>
-  </div>
-
-
-*/
-
-
-
 document.getElementById('menuIcon').addEventListener('click', function () {
     const menu = document.getElementById('menu');
     const icon = this.querySelector('i');
-
     if (menu.style.display === 'none' || menu.style.display === '') {
         menu.style.display = 'flex';
         icon.classList.remove('fa-bars');
