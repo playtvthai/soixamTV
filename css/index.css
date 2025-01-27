@@ -56,7 +56,7 @@ table {
 
 
  
- @media (max-width: 768px) {
+ @media (max-width: 1000px) {
    body {
  margin: 0;
  font-family: Arial, sans-serif;
