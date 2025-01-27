@@ -46,7 +46,18 @@ table {
 
 
 
-body {
+ 
+ @media (min-width: 768px) {
+   body{
+  display:none;
+  }
+}
+
+
+
+ 
+ @media (max-width: 768px) {
+   body {
  margin: 0;
  font-family: Arial, sans-serif;
  background-color: #001326; /* Màu nền tối */
@@ -190,6 +201,4 @@ body {
   }
 
 
-
-
-
+ }

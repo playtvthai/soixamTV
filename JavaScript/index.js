@@ -10,10 +10,11 @@ function stream(videoSrc) {
   } else if (
     video.canPlayType('application/vnd.apple.mpegurl')
    )
-   {  video.src = videoSrc;
-  video.play();
-  video.autoplay()
-  video.muted() = False
+   { 
+    video.src = videoSrc;
+    video.play();
+    video.autoplay = True
+    video.muted = False
   }
 }  
   

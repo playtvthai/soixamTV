@@ -1,0 +1,20 @@
+[
+  {
+    "id": "KCine",
+    "name": "K+ Cine",
+    "logo": "Kplus_Cine.png",
+    "nation": ""
+  },
+  {
+    "id": "KAction",
+    "name": "K+ Action",
+    "logo": "Kplus_Action.png",
+    "nation": ""
+  },
+  {
+    "id": "KKids",
+    "name": "K+ Kids",
+    "logo": "Kplus_Kids.png",
+    "nation": ""
+  }
+]

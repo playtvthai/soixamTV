@@ -1,0 +1,15 @@
+{
+  "KCine": {
+    "name": "K+ Cine",
+    "streamLink": "https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8"
+  },
+"KAction": {
+  "name": "K+ Action",
+  "streamLink": "https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8"
+},
+"KKids": {
+  "name": "K+ Kids",
+  "streamLink": "https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8"
+}
+  
+}

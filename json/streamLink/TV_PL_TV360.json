@@ -1,0 +1,39 @@
+{
+  
+    "tv3601": {
+    "name": "TV360 1",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzU0ODEsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.mJ8HlOJ8_wv7Heu2JllEHNr0XidT6xvdZrSw0AYFJV8&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3602": {
+    "name": "TV360 2",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcwMDIsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.Tnh2Q1JTI0Cx-yyZVpxHQ9Cgd2pVDaERrKHO_zfjkfI&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3603": {
+    "name": "TV360 3",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcwNDEsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.uxR-lju0aVEFpZWL3yvUK9cdZHqukGaDtUTHDFbyJe0&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3604": {
+    "name": "TV360 4",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/201/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcwNjIsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tM3U4In0.v_TR_6vSy7fqBI1q7abZy425Dh6jKzw_ND5RG3VyU_M&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3605": {
+    "name": "TV360 5",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/367/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcxMTMsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tM3U4In0.u1nrhRRpTYodbgv-4zKF1QItGQdumWbKTSl5Uvyhzjk&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3606": {
+    "name": "TV360 6",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcyMTIsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tM3U4In0.tw7H4q8rhZ2Zfk2GW7hP-tED8d94VbmpLefQ3mXTTmQ&minrate=0&maxrate=6000000&uid=19680"
+  },
+    "tv3607": {
+    "name": "TV360 7",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcxMzQsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tM3U4In0.0X7O_0z5G9DgAPzRqF5ZjQu3Ara5knu1bOtT1G9bZ0Q&minrate=0&maxrate=6000000&uid=19680"
+  },
+  "tv3608": {
+    "name": "TV360 8",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5MzcxNTgsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tM3U4In0.nLSd9hPBVOorvpYil1L50Zb5EMsw9mRb9uBVpYtWJTo&minrate=0&maxrate=6000000&uid=19680"
+  },
+  "tv3609": {
+    "name": "TV360 9",
+    "streamLink": "https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3Mzc5Mzc1NTcsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.kZxEB62OfJgeM-2O0u3aNVdUOaia7tYsDUjOhpgUuI8&minrate=0&maxrate=6000000&uid=19680"
+  }
+}

@@ -49,19 +49,19 @@
    },
     "vtvconbibi": {
     "name": "VTVC ON BIBI",
-      "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh"
+      "streamLink":""
   },
     "vtvconcine": {
     "name": "VTVC ON CINE",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":""
   },
    "vtvcondrama": {
     "name": "VTVC ON DRAMA",
-     "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh"
+     "streamLink":""
   },
   "vtvconechanel": {
      "name": "VTVC ON E CHANEL",
-      "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh"
+      "streamLink":"http://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8"
   },
   "vtvcongolf": {
     "name": "VTVC ON GOLF",
@@ -69,31 +69,31 @@
    },
   "vtvconhomeshopping": {
     "name":"VTVC ON HOME SHOPPING",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":""
   },
     "vtvconinfo": {
     "name": "VTVC ON INFO",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":""
    },
     "vtvconkids": {
     "name": "VTVC ON KIDS",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":""
    },
    "vtvconlife": {
     "name": "VTVC ON LIFE",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":""
   },
     "vtvconmusic": {
     "name": "VTVC ON MUSIC",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh"
+    "streamLink": ""
   },
    "vtvcono2tv": {
      "name": "VTVC ON O2TV",
-     "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh"
+     "streamLink":""
   },
   "vtvconphimviet": {
     "name": "VTVC ON PHIM VIỆT",
-    "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh"
+    "streamLink":"http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
    },
   "vtvconsport": {
      "name": "VTVC ON SPORT",
@@ -109,14 +109,18 @@
   },
   "vtvconstyle": {
     "name": "VTVC ON STYLE",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh"
+    "streamLink": ""
   },
   "vtvcontreanding": {
     "name": "VTVC ON TREANDING",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh"
+    "streamLink": ""
   },
   "vtvconviegt": {
     "name": "VTVC ON VIE GIẢI TRÍ",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh"
+    "streamLink": "http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
+  },
+  "vtvcmovies": {
+    "name": "VTVC ON MOVIES",
+    "streamLink": "https://509942876.r.vtvcdn.com/onplus/VAN_HOA/m20_index.m3u8"
   }
 }

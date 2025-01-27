@@ -174,9 +174,15 @@
      "nation": "vietnam"
     },
     {
-     "id":"vtvconviegt",
-     "name": "VTVC ON VIE GIẢI TRÍ",
-     "logo":"ON_Vie_GiaiTri.png",
-    "nation":"vietnam"
+      "id": "vtvconviegt",
+      "name": "VTVC ON VIE GIẢI TRÍ",
+      "logo": "ON_Vie_GiaiTri.png",
+      "nation": "vietnam"
+    },
+    {
+      "id": "vtvcmovies",
+      "name": "VTVC ON MOVIES",
+      "logo": "ON_Movies.png",
+      "nation": "vietnam"
     }
 ]

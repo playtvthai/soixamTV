@@ -47,8 +47,7 @@ function logo(logoChannel, main ) {
        onclick="play('${num.id}','${main}')"
      >
      <img class="logo" alt="${num.id}"  src="${(num.logo.includes("http") ? num.logo : `${GL_domain}wordspage/image/logo/${num.logo}`)}" />
-     <img class="logo_cuntry" alt="${num.id}"  src="${GL_domain}wordspage/image/flag/${num.nation}.png" />
-      </div>
+     </div>
     `
     );
   //console.log(squaredNumbers.join(""))
@@ -57,3 +56,5 @@ function logo(logoChannel, main ) {
  
 
 
+ // <img class="logo_cuntry" alt="${num.id}"  src="${GL_domain}wordspage/image/flag/${num.nation}.png" />
+   

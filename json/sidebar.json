@@ -20,6 +20,11 @@
     "url":"PL_QToVN"
   },
   {
+    "icon": "fa-solid fa-globe",
+    "title":"Thể Thao Quốc Tế",
+    "url":"PL_QT_SPORT"
+  },
+  {
     "icon": "fa-solid fa-earth-asia",
     "title":"TH khu vực ĐNA",
     "url":"TVAsean/index.html"
@@ -33,6 +38,16 @@
     "icon": "",
     "title":"HTV & HTVCAP",
     "url":"PL_HTV_HTVC"
+  },
+  {
+    "icon": "fa-solid fa-k",
+    "title":"K Plus",
+    "url":"PL_Kplus"
+  },
+  {
+    "icon": "fa-solid fa-stream",
+    "title":"Live TV360",
+    "url":"PL_TV360"
   }
 ]
 
