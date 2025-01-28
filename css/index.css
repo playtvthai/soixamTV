@@ -47,7 +47,7 @@ table {
 
 
  
- @media (min-width: 768px) {
+ @media (min-width: 1000px) {
    body{
   display:none;
   }
@@ -56,7 +56,7 @@ table {
 
 
  
- @media (max-width: 1000px) {
+ @media (max-width: 768px) {
    body {
  margin: 0;
  font-family: Arial, sans-serif;
