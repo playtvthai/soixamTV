@@ -1,434 +1,286 @@
 {
-  "30AGolfKingdomUnitedStates": {
+  "UnitedStates30AGolfKingdom": {
     "name": "30A Golf Kingdom",
     "streamLink": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
   },
-  "AbuDhabiSports1UnitedArabEmirates": {
-    "name": "Abu Dhabi Sports 1",
-    "streamLink": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
-  },
-  "Action24Greece": {
+  "GreeceAction24": {
     "name": "Action 24",
     "streamLink": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
   },
-  "AdventureSportsTVUnitedStates": {
-    "name": "Adventure Sports TV",
-    "streamLink": "https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8"
-  },
-  "AfroSportNigeriaNigeria": {
+  "NigeriaAfroSportNigeria": {
     "name": "AfroSport Nigeria",
     "streamLink": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
   },
-  "AsharqNewsPortraitSaudiArabia": {
-    "name": "Asharq News Portrait",
-    "streamLink": "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8"
-  },
-  "AstrahanRuSportRussia": {
+  "RussiaAstrahanRuSport": {
     "name": "Astrahan.Ru Sport",
     "streamLink": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
   },
-  "BahrainSports1Bahrain": {
+  "BahrainBahrainSports1": {
     "name": "Bahrain Sports 1",
     "streamLink": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
   },
-  "BahrainSports2Bahrain": {
+  "BahrainBahrainSports2": {
     "name": "Bahrain Sports 2",
     "streamLink": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
   },
-  "beINSportsHaberTurkey": {
-    "name": "beIN Sports Haber",
-    "streamLink": "https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8"
-  },
-  "beINSPORTSXTRAUnitedStates": {
-    "name": "beIN SPORTS XTRA",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340"
-  },
-  "BEKSportsWestUnitedStates": {
+  "UnitedStatesBEKSportsWest": {
     "name": "BEK Sports West",
     "streamLink": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
   },
-  "Belarus5Belarus": {
+  "BelarusBelarus5": {
     "name": "Belarus-5",
     "streamLink": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
   },
-  "Belarus5InternetBelarus": {
+  "BelarusBelarus5Internet": {
     "name": "Belarus-5 Internet",
     "streamLink": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
   },
-  "BellatorMMAUnitedStates": {
-    "name": "Bellator MMA",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803"
-  },
-  "BigTenNetworkUnitedStates": {
+  "UnitedStatesBigTenNetwork": {
     "name": "Big Ten Network",
     "streamLink": "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
   },
-  "BilliardTVUnitedStates": {
-    "name": "Billiard TV",
-    "streamLink": "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8"
-  },
-  "BoksTVRussia": {
+  "RussiaBoksTV": {
     "name": "Boks TV",
     "streamLink": "http://stream01.vnet.am/BoksTv/mono.m3u8"
   },
-  "CampusLoreUnitedStates": {
+  "UnitedStatesCampusLore": {
     "name": "CampusLore",
     "streamLink": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8"
   },
-  "CanaldoInterBrazil": {
+  "BrazilCanaldoInter": {
     "name": "Canal do Inter",
     "streamLink": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
   },
-  "CBSSportsHQUnitedStates": {
-    "name": "CBS Sports HQ",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d"
-  },
-  "CBSSportsNetworkUSAUnitedStates": {
+  "UnitedStatesCBSSportsNetworkUSA": {
     "name": "CBS Sports Network USA",
     "streamLink": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
   },
-  "CDNDeportesDominicanRepublic": {
+  "DominicanRepublicCDNDeportes": {
     "name": "CDN Deportes",
     "streamLink": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
   },
-  "ChampionTVColombia": {
+  "ColombiaChampionTV": {
     "name": "Champion TV",
     "streamLink": "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
   },
-  "CityNewsCalgaryCanada": {
+  "CanadaCityNewsCalgary": {
     "name": "CityNews Calgary",
     "streamLink": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
   },
-    "CityNewsTorontoCanada": {
+  "CanadaCityNewsToronto": {
     "name": "CityNews Toronto",
     "streamLink": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
   },
-  "CityNewsVancouverCanada": {
+  "CanadaCityNewsVancouver": {
     "name": "CityNews Vancouver",
     "streamLink": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
   },
-  "CnArDeportesArgentina": {
-    "name": "CnAr Deportes",
-    "streamLink": "https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8"
-  },
-  "ColimdoTVDominicanRepublic": {
+  "DominicanRepublicColimdoTV": {
     "name": "Colimdo TV",
     "streamLink": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
   },
-  "CombateBrazil": {
-    "name": "Combate",
-    "streamLink": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
-  },
-    "CTSportCzechRepublic": {
-    "name": "CT Sport",
-    "streamLink": "http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8"
-  },
-  "DubaiRacingUnitedArabEmirates": {
+  "UnitedArabEmiratesDubaiRacing": {
     "name": "Dubai Racing",
     "streamLink": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
   },
-   "DubaiRacing2UnitedArabEmirates": {
+  "UnitedArabEmiratesDubaiRacing2": {
     "name": "Dubai Racing 2",
-    "streamLink":"https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
+    "streamLink": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
   },
-  "DubaiRacing3UnitedArabEmirates": {
-      "name": "Dubai Racing 3",
-    "streamLink":"https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
+  "UnitedArabEmiratesDubaiRacing3": {
+    "name": "Dubai Racing 3",
+    "streamLink": "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
   },
-    "DubaiSports1UnitedArabEmirates": {
+  "UnitedArabEmiratesDubaiSports1": {
     "name": "Dubai Sports 1",
     "streamLink": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
   },
-  "DubaiSports2UnitedArabEmirates": {
+  "UnitedArabEmiratesDubaiSports2": {
     "name": "Dubai Sports 2",
-     "streamLink":"https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+    "streamLink": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
   },
-  "DubaiSports3UnitedArabEmirates": {
+  "UnitedArabEmiratesDubaiSports3": {
     "name": "Dubai Sports 3",
-     "streamLink":"https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+    "streamLink": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
   },
-  "eSportsMaxTVVenezuela": {
-    "name": "eSports Max TV",
-    "streamLink": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
-  },
-  "EuronewsPortugueseFrance": {
-    "name": "Euronews Portuguese",
-    "streamLink": "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
-  },
-  "FastFunBoxNetherlands": {
+  "NetherlandsFastFunBox": {
     "name": "Fast&FunBox",
     "streamLink": "http://ott-cdn.ucom.am/s79/index.m3u8"
   },
-    "FightNetworkCanada": {
+  "CanadaFightNetwork": {
     "name": "Fight Network",
-     "streamLink":"https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+    "streamLink": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
   },
-   "FightBoxNetherlands": {
+  "NetherlandsFightBox": {
     "name": "FightBox",
-    "streamLink":"http://stream01.vnet.am/Fightbox/mono.m3u8"
+    "streamLink": "http://stream01.vnet.am/Fightbox/mono.m3u8"
   },
-   "FITE247UnitedStates": {
-    "name": "FITE 24/7",
-     "streamLink":"https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8"
+  "CanadaGamePlus": {
+    "name": "Game+",
+    "streamLink": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
   },
-  "FoxSportsUnitedStates": {
-    "name": "Fox Sports",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54"
+  "ItalyHorseTVHD": {
+    "name": "Horse TV HD",
+    "streamLink": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
   },
-  "FoxSports1UnitedStates": {
-     "name":"Fox Sports 1",
-      "streamLink":"http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
+  "UnitedStatesImpactPlus": {
+    "name": "Impact Plus!",
+    "streamLink": "https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8"
   },
-  "GamePlusCanada": {
-     "name":"Game+",
-      "streamLink":"https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-  },
-  "GloryKickboxingUnitedStates": {
-    "name": "Glory Kickboxing",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown,includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8"
-  },
-  "GSTVTurkey": {
-    "name": "GS TV",
-    "streamLink": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8"
-  },
-   "HardKnocksCanada": {
-    "name": "Hard Knocks",
-     "streamLink":"https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8"
-  },
-  "HorseTVHDItaly": {
-      "name":"Horse TV HD",
-      "streamLink":"https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
-    },
-   "HTSporTVTurkey": {
-      "name":"HTSpor TV",
-      "streamLink":"https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=675956db19f9bb686edda21d15d911e8&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch"
-    },
-     "ImpactPlusUnitedStates": {
-      "name":"Impact Plus!",
-      "streamLink":"https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8"
-    },
-    "IMPACTWrestlingUnitedStates": {
-      "name":"IMPACT Wrestling",
-       "streamLink":"https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8"
-    },
-  "InterTVItaly": {
+  "ItalyInterTV": {
     "name": "Inter TV",
     "streamLink": "https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8"
   },
-  "IRIB3Iran": {
-    "name": "IRIB 3",
-    "streamLink": "https://lenz.splus.ir/PLTV/88888888/224/3221226868/1.m3u8"
+  "AustriaK19": {
+    "name": "K19",
+    "streamLink": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8"
   },
-   "ITVDeportesMexico": {
-    "name":"ITV Deportes",
-     "streamLink":"https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
-  },
-  "JOJSportSlovakia": {
-     "name":"JOJ Sport",
-      "streamLink":"https://live.cdn.joj.sk/live/andromeda/joj_sport-720.m3u8"
-  },
-    "K19Austria": {
-     "name":"K19",
-      "streamLink":"https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8"
-  },
-  "KTVSportKuwait": {
+  "KuwaitKTVSport": {
     "name": "KTV Sport",
     "streamLink": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
   },
-  "KTVSportPlusKuwait": {
+  "KuwaitKTVSportPlus": {
     "name": "KTV Sport Plus",
     "streamLink": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
   },
-  "LacrosseTVUnitedStates": {
+  "UnitedStatesLacrosseTV": {
     "name": "Lacrosse TV",
     "streamLink": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
   },
-    "LuchaLibreAAAUnitedStates": {
-      "name":"Lucha Libre AAA",
-      "streamLink":"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=827dfdd0-3b91-4726-a4ee-e0fff420c780"
+  "ItalyMadeinBOTV": {
+    "name": "MadeinBO TV",
+    "streamLink": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
   },
-    "MNetSportMacedonia": {
-      "name":"M-Net Sport",
-      "streamLink":"http://ares.mnet.mk/hls/mnet-sport.m3u8"
-  },
-   "MadeinBOTVItaly": {
-      "name":"MadeinBO TV",
-       "streamLink":"https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
-  },
-  "MAVTVUnitedStates": {
-    "name": "MAVTV",
-    "streamLink": "https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8"
-  },
-  "MAVTVSelectUnitedStates": {
-    "name": "MAVTV Select",
-    "streamLink": "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8"
-  },
-  "MLBUnitedStates": {
-    "name": "MLB",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a"
-  },
-  "MLBNetworkUnitedStates": {
+  "UnitedStatesMLBNetwork": {
     "name": "MLB Network",
-     "streamLink":"http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8"
+    "streamLink": "http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8"
   },
-  "MoreThanSportsTVGermany": {
-     "name":"More Than Sports TV",
-     "streamLink":"https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+  "GermanyMoreThanSportsTV": {
+    "name": "More Than Sports TV",
+    "streamLink": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
   },
-    "MTRKKazakhstan": {
-     "name":"MTRK",
-     "streamLink":"https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
+  "KazakhstanMTRK": {
+    "name": "MTRK",
+    "streamLink": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
   },
-    "MUTVUnitedKingdom": {
+  "UnitedKingdomMUTV": {
     "name": "MUTV",
-    "streamLink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+    "streamLink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   },
-  "NauticalChannelItaly": {
+  "ItalyNauticalChannel": {
     "name": "Nautical Channel",
     "streamLink": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
   },
-  "NFLChannelUnitedStates": {
-    "name": "NFL Channel",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6"
-  },
-  "NFLNetworkUnitedStates": {
+  "UnitedStatesNFLNetwork": {
     "name": "NFL Network",
-     "streamLink":"http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8"
+    "streamLink": "http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8"
   },
-   "OmanSportsTVOman": {
-    "name":"Oman Sports TV",
-    "streamLink":"https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+  "OmanOmanSportsTV": {
+    "name": "Oman Sports TV",
+    "streamLink": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
   },
-  "OneGolfPakistan": {
-     "name":"One Golf",
-     "streamLink":"http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
+  "PakistanOneGolf": {
+    "name": "One Golf",
+    "streamLink": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
   },
-   "OutdoorChannelUnitedStates": {
-    "name":"Outdoor Channel",
-    "streamLink":"https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
-  },
-  "OvacionTVPeru": {
+  "PeruOvacionTV": {
     "name": "Ovacion TV",
     "streamLink": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
   },
-   "Pac12InsiderUnitedStates": {
-    "name":"Pac-12 Insider",
-     "streamLink":"https://pac12-roku-us.amagi.tv/playlist.m3u8"
+  "AustraliaRacingcom": {
+    "name": "Racing.com",
+    "streamLink": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
   },
-  "PBRRidePassUnitedStates": {
-     "name":"PBR RidePass",
-    "streamLink":"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190"
+  "AustriaRedBullTV": {
+    "name": "Red Bull TV",
+    "streamLink": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
   },
-  "PGATourUnitedStates": {
-    "name": "PGA Tour",
-    "streamLink": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78"
+  "UnitedStatesRightNowTV": {
+    "name": "Right Now TV",
+    "streamLink": "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
   },
-   "PlutoTVSportItaly": {
-    "name": "Pluto TV Sport",
-    "streamLink":"https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
-  },
-   "PlutoTVSportsUnitedStates": {
-     "name":"Pluto TV Sports",
-      "streamLink":"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9"
-  },
-    "PokerNightInAmericaUnitedStates": {
-    "name": "Poker Night In America",
-    "streamLink":"https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8"
-  },
-   "PokerTVFrance": {
-    "name": "Poker TV",
-     "streamLink":"https://hls.pokertvfa.live/hls/stream.m3u8"
-  },
-  "PokerGoUnitedStates": {
-      "name":"PokerGo",
-      "streamLink":"http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b"
-  },
-  "QazSportKazakhstan": {
-    "name": "QazSport",
-    "streamLink": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
-  },
-  "RacingcomAustralia": {
-     "name":"Racing.com",
-     "streamLink":"https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
-  },
-    "RealMadridTVS pain": {
-     "name":"Real Madrid TV",
-    "streamLink":"https://apollo.production-public.tubi.io/live/ac-real-madrid.m3u8"
-  },
-  "RedBullTVAustria": {
-     "name":"Red Bull TV",
-     "streamLink":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-  },
-  "RightNowTVUnitedStates": {
-     "name":"Right Now TV",
-     "streamLink":"https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
-  },
-  "RTASportAfghanistan": {
+  "AfghanistanRTASport": {
     "name": "RTA Sport",
     "streamLink": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8"
   },
-  "SanMarinoRTVSportSanMarino": {
+  "SanMarinoSanMarinoRTVSport": {
     "name": "San Marino RTV Sport",
     "streamLink": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
   },
-  "SharjahSportsUnitedArabEmirates": {
+  "UnitedArabEmiratesSharjahSports": {
     "name": "Sharjah Sports",
     "streamLink": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
   },
-  "SOSKanalPlusSerbia": {
+  "SerbiaSOSKanalPlus": {
     "name": "SOS Kanal Plus",
     "streamLink": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
   },
-  "SportenFranceFrance": {
+  "FranceSportenFrance": {
     "name": "Sport en France",
     "streamLink": "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8"
   },
-  "SportsConnectSouthAfrica": {
+  "SouthAfricaSportsConnect": {
     "name": "Sports Connect",
     "streamLink": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
   },
-  "SportsTVTurkey": {
+  "TurkeySportsTV": {
     "name": "Sports TV",
     "streamLink": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
   },
-  "SportsGridUnitedStates": {
-    "name": "SportsGrid",
-    "streamLink": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
-  },
-  "SPOTVIndonesia": {
-    "name": "SPOTV",
-    "streamLink": "https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8"
-  },
-  "SPOTV2Indonesia": {
-    "name": "SPOTV 2",
-    "streamLink": "https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8"
-  },
-  "SSCActionWaleedSaudiArabia": {
+  "SaudiArabiaSSCActionWaleed": {
     "name": "SSC Action Waleed",
     "streamLink": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8"
   },
-  "StadiumUnitedStates": {
-    "name": "Stadium",
-    "streamLink": "https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8"
-  },
-  "SuperTennisHDItaly": {
+  "ItalySuperTennisHD": {
     "name": "SuperTennis HD",
     "streamLink": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
   },
-  "SwerveSportsUnitedStates": {
+  "UnitedStatesSwerveSports": {
     "name": "Swerve Sports",
     "streamLink": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8"
   },
-  "TSports7Thailand": {
-    "name": "T Sports 7",
-    "streamLink": "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8"
-  },
-  "TDMSportsMacau": {
+  "MacauTDMSports": {
     "name": "TDM Sports",
     "streamLink": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
   },
-  "TeletrakTVChile": {
+  "ChileTeletrakTV": {
     "name": "Teletrak TV",
-    "streamLink": "https://unlimited6-cl.dps.live/sportinghd"
+    "streamLink": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+  },
+  "CanadaTSC": {
+    "name": "TSC",
+    "streamLink": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8"
+  },
+  "BrazilTVBRICSPortuguese": {
+    "name": "TV BRICS Portuguese",
+    "streamLink": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8"
+  },
+  "IndonesiaTVRISport": {
+    "name": "TVRI Sport",
+    "streamLink": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+  },
+  "UnitedStatesTVSBowlingNetwork": {
+    "name": "TVS Bowling Network",
+    "streamLink": "https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8"
+  },
+  "UnitedStatesTVSBoxing": {
+    "name": "TVS Boxing",
+    "streamLink": "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
+  },
+  "UnitedStatesTVSSports": {
+    "name": "TVS Sports",
+    "streamLink": "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
+  },
+  "UnitedStatesTVSTurbo": {
+    "name": "TVS Turbo",
+    "streamLink": "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
+  },
+  "UnitedStatesTVSWomenSports": {
+    "name": "TVS Women Sports",
+    "streamLink": "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+  },
+  "UnitedStatesW14DKD5": {
+    "name": "W14DK-D5",
+    "streamLink": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
   }
 }

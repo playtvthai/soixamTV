@@ -5,7 +5,7 @@
   },
   "baclieu": {
     "name": "Đài PTTH Bạc Liêu",
-    "streamLink": "https://tv.thbl.vn/live/tv/tv.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8"
   },
   "bacgiang": {
     "name": "Đài PTTH Bắc Giang",
@@ -57,11 +57,11 @@
   },
     "danang1": {
     "name": "Đài PTTH Đà Nẵng 1",
-    "streamLink": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8"
   },
     "danang2": {
     "name": "Đài PTTH Đà Nẵng 2",
-     "streamLink": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
+     "streamLink": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8"
   },
     "daklak": {
     "name": "Đài PTTH Đăk Lắk",
@@ -133,11 +133,11 @@
   },
     "khanhhoa": {
     "name": "Đài PTTH Khánh Hoà",
-     "streamLink": "https://tv.ktv.org.vn/hls/ktv1.m3u8"
+     "streamLink": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8"
   },
     "kiengiang1": {
     "name": "Đài PTTH Kiên Giang 1",
-     "streamLink": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+     "streamLink": "https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8"
   },
     "kiengiang2": {
     "name": "Đài PTTH Kiên Giang 2",
@@ -145,7 +145,7 @@
   },
     "kontum": {
     "name": "Đài PTTH Kon Tum",
-     "streamLink": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8"
+     "streamLink": "https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist.m3u8"
   },
    "laichau": {
     "name": "Đài PTTH Lai Châu",
@@ -181,7 +181,7 @@
   },
     "ninhbinh": {
     "name": "Đài PTTH Ninh Bình",
-    "streamLink":"https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8"
+    "streamLink":"https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8"
   },
     "ninhthuan": {
     "name": "Đài PTTH Ninh Thuận",
@@ -206,7 +206,7 @@
   },
     "quangngai": {
     "name": "Đài PTTH Quảng Ngãi",
-    "streamLink":"https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8"
+    "streamLink":"https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8"
   },
    "quangninh1": {
     "name": "Đài PTTH Quảng Ninh 1",
@@ -230,7 +230,7 @@
   },
    "sonla": {
     "name": "Đài PTTH Sơn La",
-    "streamLink": "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8"
   },
     "tayninh": {
     "name": "Đài PTTH Tây Ninh",

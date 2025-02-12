@@ -1,20 +1,4 @@
-/*
-const url = "./json/logo_G.json";
 
-fetch(url)
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`Lỗi HTTP: ${response.status}`);
-    }
-    return response.json(); // Chuyển dữ liệu phản hồi thành JSON
-  })
-  .then(data => {logo(data,"")})
-  .catch(error => {
-    console.error("Lỗi khi gọi API:", error.message);
-  });
-  
-  
-*/  
 function start(logoJ, main) {
   fetch(`${GL_domain}json/logo/${logoJ}.json`)
   .then(response => {
@@ -23,16 +7,15 @@ function start(logoJ, main) {
     }
     return response.json(); // Chuyển dữ liệu phản hồi thành JSON
   })
-  .then(data => {logo(data,main)})
+  .then(data => {
+    logo(data,main)
+    })
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
   });
   
 
 }
-  
-/////////////  
-  
   
   
 const channel = document.getElementById("channel")
@@ -55,6 +38,3 @@ function logo(logoChannel, main ) {
 }
  
 
-
- // <img class="logo_cuntry" alt="${num.id}"  src="${GL_domain}wordspage/image/flag/${num.nation}.png" />
-   

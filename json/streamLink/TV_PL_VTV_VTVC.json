@@ -61,7 +61,7 @@
   },
   "vtvconechanel": {
      "name": "VTVC ON E CHANEL",
-      "streamLink":"https://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8"
+      "streamLink":"http://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8"
   },
   "vtvcongolf": {
     "name": "VTVC ON GOLF",
@@ -93,7 +93,7 @@
   },
   "vtvconphimviet": {
     "name": "VTVC ON PHIM VIỆT",
-    "streamLink":"https://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
+    "streamLink":"http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
    },
   "vtvconsport": {
      "name": "VTVC ON SPORT",
@@ -109,7 +109,7 @@
   },
   "vtvconstyle": {
     "name": "VTVC ON STYLE",
-    "streamLink": ""
+    "streamLink": "https://d.org.vn/Khichtv-online-2025-mpd"
   },
   "vtvcontreanding": {
     "name": "VTVC ON TREANDING",
@@ -117,7 +117,7 @@
   },
   "vtvconviegt": {
     "name": "VTVC ON VIE GIẢI TRÍ",
-    "streamLink": "https://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
+    "streamLink": "http://509942876.r.vtvcdn.com/onplus/GIAITRI_TV_HD/m20_index.m3u8"
   },
   "vtvcmovies": {
     "name": "VTVC ON MOVIES",

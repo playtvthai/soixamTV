@@ -11,11 +11,6 @@
   },
   {
     "icon": "fa-solid fa-globe",
-    "title":"TH Quốc Tế",
-    "url":"TVInternational/index.html"
-  },
-  {
-    "icon": "fa-solid fa-globe",
     "title":"TH Quốc Tế Tại VN",
     "url":"PL_QToVN"
   },
@@ -23,6 +18,11 @@
     "icon": "fa-solid fa-globe",
     "title":"Thể Thao Quốc Tế",
     "url":"PL_QT_SPORT"
+  },
+  {
+    "icon": "fa-solid fa-child",
+    "title":"Trẻ em (Quốc tế)",
+    "url":"PL_G_KIDS"
   },
   {
     "icon": "fa-solid fa-earth-asia",
@@ -40,14 +40,9 @@
     "url":"PL_HTV_HTVC"
   },
   {
-    "icon": "fa-solid fa-k",
-    "title":"K Plus",
-    "url":"PL_Kplus"
-  },
-  {
-    "icon": "fa-solid fa-stream",
-    "title":"Live TV360",
-    "url":"PL_TV360"
+  "icon": "fa-solid fa-f",
+  "title": "Thể thao FPT",
+  "url": "events/fptplay"
   }
 ]
 
