@@ -90,6 +90,14 @@
   "fptThethao07": {
     "name": "FPT Thể thao 07",
     "streamLink": "https://live.fptplay53.net/epzsport/thethao07_vhls.smil/chunklist_b5500000.m3u8"
+  },
+  "fptThethao251": {
+    "name": "FPT Thể thao 251",
+    "streamLink": "https://live.fptplay53.net/epzch1/thethao251_25s.smil/chunklist.m3u8"
+  },
+  "fptThethao250": {
+    "name": "FPT Thể thao 250",
+    "streamLink": "https://live.fptplay53.net/epzch1/thethao250_25s.smil/chunklist.m3u8"
   }
   
 }
