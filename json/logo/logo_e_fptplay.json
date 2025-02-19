@@ -146,7 +146,13 @@
   },
   {
     "id": "fptThethao251",
-    "name": "FPT Thể thao 07",
+    "name": "FPT Thể thao 251",
+    "logo": "fptplay.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "fptThethao269",
+    "name": "FPT Thể thao 269",
     "logo": "fptplay.png",
     "nation": "Vietnam"
   }
