@@ -110,6 +110,10 @@
   "fptThethao24": {
     "name": "FPT Thể thao 24",
     "streamLink": "https://live.fptplay53.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8"
+  },
+  "fptThethao25": {
+    "name": "FPT Thể thao 25",
+    "streamLink": "https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8"
   }
 }
 
