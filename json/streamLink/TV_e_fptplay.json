@@ -114,6 +114,10 @@
   "fptThethao25": {
     "name": "FPT Thể thao 25",
     "streamLink": "https://live.fptplay53.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8"
+  },
+  "fptThethao287": {
+    "name": "FPT Thể thao 287",
+    "streamLink": "https://live.fptplay53.net/fnxch1/thethao287_25s.smil/chunklist.m3u8"
   }
 }
 
