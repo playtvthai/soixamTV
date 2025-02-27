@@ -1,428 +1,512 @@
 [
-    {
-        "id": "UnitedStates30AGolfKingdom",
-        "name": "30A Golf Kingdom",
-        "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
-        "nation": ""
-    },
-    {
-        "id": "GreeceAction24",
-        "name": "Action 24",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
-        "nation": ""
-    },
-    {
-        "id": "NigeriaAfroSportNigeria",
-        "name": "AfroSport Nigeria",
-        "logo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
-        "nation": ""
-    },
-    {
-        "id": "RussiaAstrahanRuSport",
-        "name": "Astrahan.Ru Sport",
-        "logo": "https://i.imgur.com/BKaEtqL.png",
-        "nation": ""
-    },
-    {
-        "id": "BahrainBahrainSports1",
-        "name": "Bahrain Sports 1",
-        "logo": "https://i.imgur.com/fBpLsbC.png",
-        "nation": ""
-    },
-    {
-        "id": "BahrainBahrainSports2",
-        "name": "Bahrain Sports 2",
-        "logo": "https://i.imgur.com/ZkuZmIo.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesBEKSportsWest",
-        "name": "BEK Sports West",
-        "logo": "https://i.imgur.com/uJb4VOc.png",
-        "nation": ""
-    },
-    {
-        "id": "BelarusBelarus5",
-        "name": "Belarus-5",
-        "logo": "https://i.imgur.com/NJsRFud.png",
-        "nation": ""
-    },
-    {
-        "id": "BelarusBelarus5Internet",
-        "name": "Belarus-5 Internet",
-        "logo": "https://i.imgur.com/rzPQ9Iz.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesBigTenNetwork",
-        "name": "Big Ten Network",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "RussiaBoksTV",
-        "name": "Boks TV",
-        "logo": "https://i.imgur.com/R1UjyfX.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesCampusLore",
-        "name": "CampusLore",
-        "logo": "https://i.imgur.com/dCXl0rq.png",
-        "nation": ""
-    },
-    {
-        "id": "BrazilCanaldoInter",
-        "name": "Canal do Inter",
-        "logo": "https://i.imgur.com/TQFWEIS.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesCBSSportsNetworkUSA",
-        "name": "CBS Sports Network USA",
-        "logo": "https://i.imgur.com/A8CnA8g.png",
-        "nation": ""
-    },
-    {
-        "id": "DominicanRepublicCDNDeportes",
-        "name": "CDN Deportes",
-        "logo": "https://i.imgur.com/yU5LqTL.png",
-        "nation": ""
-    },
-    {
-        "id": "ColombiaChampionTV",
-        "name": "Champion TV",
-        "logo": "https://i.imgur.com/A144MfR.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaCityNewsCalgary",
-        "name": "CityNews Calgary",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaCityNewsToronto",
-        "name": "CityNews Toronto",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaCityNewsVancouver",
-        "name": "CityNews Vancouver",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "nation": ""
-    },
-    {
-        "id": "DominicanRepublicColimdoTV",
-        "name": "Colimdo TV",
-        "logo": "https://i.imgur.com/ZeUgLCa.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiRacing",
-        "name": "Dubai Racing",
-        "logo": "https://i.imgur.com/BpcV8jS.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiRacing2",
-        "name": "Dubai Racing 2",
-        "logo": "https://i.imgur.com/H2TTn7t.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiRacing3",
-        "name": "Dubai Racing 3",
-        "logo": "https://i.imgur.com/Vg4fxmc.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiSports1",
-        "name": "Dubai Sports 1",
-        "logo": "https://i.imgur.com/Poxw8lG.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiSports2",
-        "name": "Dubai Sports 2",
-        "logo": "https://i.imgur.com/PMJ7Zmo.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesDubaiSports3",
-        "name": "Dubai Sports 3",
-        "logo": "https://i.imgur.com/U0A8Gex.png",
-        "nation": ""
-    },
-    {
-        "id": "NetherlandsFastFunBox",
-        "name": "Fast&FunBox",
-        "logo": "https://i.imgur.com/XLBfoed.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaFightNetwork",
-        "name": "Fight Network",
-        "logo": "https://i.imgur.com/vlKPZHR.png",
-        "nation": ""
-    },
-    {
-        "id": "NetherlandsFightBox",
-        "name": "FightBox",
-        "logo": "https://i.imgur.com/mRsnztA.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaGamePlus",
-        "name": "Game+",
-        "logo": "https://i.imgur.com/Lj69WbR.png",
-        "nation": ""
-    },
-    {
-        "id": "ItalyHorseTVHD",
-        "name": "Horse TV HD",
-        "logo": "https://i.imgur.com/9lctpnP.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesImpactPlus",
-        "name": "Impact Plus!",
-        "logo": "https://i.imgur.com/9eXFZya.jpeg",
-        "nation": ""
-    },
-    {
-        "id": "ItalyInterTV",
-        "name": "Inter TV",
-        "logo": "https://i.imgur.com/FUTqh2L.png",
-        "nation": ""
-    },
-    {
-        "id": "AustriaK19",
-        "name": "K19",
-        "logo": "https://i.imgur.com/l4atkvs.png",
-        "nation": ""
-    },
-    {
-        "id": "KuwaitKTVSport",
-        "name": "KTV Sport",
-        "logo": "https://i.imgur.com/R1hGX1d.png",
-        "nation": ""
-    },
-    {
-        "id": "KuwaitKTVSportPlus",
-        "name": "KTV Sport Plus",
-        "logo": "https://i.imgur.com/l4oX0gf.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesLacrosseTV",
-        "name": "Lacrosse TV",
-        "logo": "https://i.imgur.com/zYH4IsV.png",
-        "nation": ""
-    },
-    {
-        "id": "ItalyMadeinBOTV",
-        "name": "MadeinBO TV",
-        "logo": "https://i.imgur.com/47X44DD.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesMLBNetwork",
-        "name": "MLB Network",
-        "logo": "https://i.imgur.com/sA5V39D.png",
-        "nation": ""
-    },
-    {
-        "id": "GermanyMoreThanSportsTV",
-        "name": "More Than Sports TV",
-        "logo": "https://i.imgur.com/SLrjImc.png",
-        "nation": ""
-    },
-    {
-        "id": "KazakhstanMTRK",
-        "name": "MTRK",
-        "logo": "https://i.imgur.com/XMyRwDk.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedKingdomMUTV",
-        "name": "MUTV",
-        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
-        "nation": ""
-    },
-    {
-        "id": "ItalyNauticalChannel",
-        "name": "Nautical Channel",
-        "logo": "https://i.imgur.com/2ByDyzL.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesNFLNetwork",
-        "name": "NFL Network",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "OmanOmanSportsTV",
-        "name": "Oman Sports TV",
-        "logo": "https://i.imgur.com/1omi7p8.png",
-        "nation": ""
-    },
-    {
-        "id": "PakistanOneGolf",
-        "name": "One Golf",
-        "logo": "https://i.imgur.com/7JhaEW5.png",
-        "nation": ""
-    },
-    {
-        "id": "PeruOvacionTV",
-        "name": "Ovacion TV",
-        "logo": "https://i.imgur.com/7Xndgxk.png",
-        "nation": ""
-    },
-    {
-        "id": "AustraliaRacingcom",
-        "name": "Racing.com",
-        "logo": "https://i.imgur.com/Q55HX1O.png",
-        "nation": ""
-    },
-    {
-        "id": "AustriaRedBullTV",
-        "name": "Red Bull TV",
-        "logo": "https://i.postimg.cc/8c78JM28/image.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesRightNowTV",
-        "name": "Right Now TV",
-        "logo": "https://i.imgur.com/OxbIla4.png",
-        "nation": ""
-    },
-    {
-        "id": "AfghanistanRTASport",
-        "name": "RTA Sport",
-        "logo": "https://i.imgur.com/lEXrwos.jpg",
-        "nation": ""
-    },
-    {
-        "id": "SanMarinoSanMarinoRTVSport",
-        "name": "San Marino RTV Sport",
-        "logo": "https://i.imgur.com/PGm944g.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedArabEmiratesSharjahSports",
-        "name": "Sharjah Sports",
-        "logo": "https://i.imgur.com/IaRaabJ.jpg",
-        "nation": ""
-    },
-    {
-        "id": "SerbiaSOSKanalPlus",
-        "name": "SOS Kanal Plus",
-        "logo": "https://i.imgur.com/9SD40uH.png",
-        "nation": ""
-    },
-    {
-        "id": "FranceSportenFrance",
-        "name": "Sport en France",
-        "logo": "https://i.imgur.com/1IXQoWq.png",
-        "nation": ""
-    },
-    {
-        "id": "SouthAfricaSportsConnect",
-        "name": "Sports Connect",
-        "logo": "https://i.imgur.com/0sNWg54.png",
-        "nation": ""
-    },
-    {
-        "id": "TurkeySportsTV",
-        "name": "Sports TV",
-        "logo": "https://i.imgur.com/tGTVcVe.jpg",
-        "nation": ""
-    },
-    {
-        "id": "SaudiArabiaSSCActionWaleed",
-        "name": "SSC Action Waleed",
-        "logo": "https://i.imgur.com/agc0IZF.png",
-        "nation": ""
-    },
-    {
-        "id": "ItalySuperTennisHD",
-        "name": "SuperTennis HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesSwerveSports",
-        "name": "Swerve Sports",
-        "logo": "https://i.imgur.com/GT0Yi2T.png",
-        "nation": ""
-    },
-    {
-        "id": "MacauTDMSports",
-        "name": "TDM Sports",
-        "logo": "https://i.imgur.com/AsWLf8S.png",
-        "nation": ""
-    },
-    {
-        "id": "ChileTeletrakTV",
-        "name": "Teletrak TV",
-        "logo": "https://i.imgur.com/NoJvlig.png",
-        "nation": ""
-    },
-    {
-        "id": "CanadaTSC",
-        "name": "TSC",
-        "logo": "https://i.imgur.com/9w9SSIC.png",
-        "nation": ""
-    },
-    {
-        "id": "BrazilTVBRICSPortuguese",
-        "name": "TV BRICS Portuguese",
-        "logo": "https://i.imgur.com/vLpm8tN.png",
-        "nation": ""
-    },
-    {
-        "id": "IndonesiaTVRISport",
-        "name": "TVRI Sport",
-        "logo": "https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesTVSBowlingNetwork",
-        "name": "TVS Bowling Network",
-        "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesTVSBoxing",
-        "name": "TVS Boxing",
-        "logo": "https://i.imgur.com/30ZoF75.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesTVSSports",
-        "name": "TVS Sports",
-        "logo": "https://i.imgur.com/Lwwq62E.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesTVSTurbo",
-        "name": "TVS Turbo",
-        "logo": "https://i.imgur.com/7zYIbU1.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesTVSWomenSports",
-        "name": "TVS Women Sports",
-        "logo": "https://i.imgur.com/8hC4PfF.png",
-        "nation": ""
-    },
-    {
-        "id": "UnitedStatesW14DKD5",
-        "name": "W14DK-D5",
-        "logo": "https://i.imgur.com/D4mZ8ll.png",
-        "nation": ""
-    }
+  {
+    "id": "UnitedStates30AGolfKingdom",
+    "name": "30A Golf Kingdom",
+    "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+    "nation": "United States"
+  },
+  {
+    "id": "GreeceAction24",
+    "name": "Action 24",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "nation": "Greece"
+  },
+  {
+    "id": "NigeriaAfroSportNigeria",
+    "name": "AfroSport Nigeria",
+    "logo": "https://pbs.twimg.com/profile_images/1451668129042599936/Uh-Z6Sh1_400x400.jpg",
+    "nation": "Nigeria"
+  },
+  {
+    "id": "RussiaAstrahanRuSport",
+    "name": "Astrahan.Ru Sport",
+    "logo": "https://i.imgur.com/BKaEtqL.png",
+    "nation": "Russia"
+  },
+  {
+    "id": "AxeTV",
+    "name": "AXS TV",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNMvVSdWMwGiZ3aUIHxlzt9kI3fpqOZ30jIPU-atF_Zq8rcV2efxC6FgBavp2897-gmxV84uQBfReF_O-cMzOcp99gaOhziIbHOM-VehYW1_cZjR7ppN8M4Llla1HBHB1hvPUotBrebmBcd7uG4Q_AqCDjpO0IiIsJ3tOVBNbX_tvxLzzpAeSo5XGJQ/s400/Picsart_22-12-11_16-58-11-094.png",
+    "nation": ""
+  },
+  {
+    "id": "BahrainBahrainSports1",
+    "name": "Bahrain Sports 1",
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "nation": "Bahrain"
+  },
+  {
+    "id": "BahrainBahrainSports2",
+    "name": "Bahrain Sports 2",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "nation": "Bahrain"
+  },
+  {
+    "id": "UnitedStatesBEKSportsWest",
+    "name": "BEK Sports West",
+    "logo": "https://i.imgur.com/uJb4VOc.png",
+    "nation": "United States"
+  },
+  {
+    "id": "BelarusBelarus5",
+    "name": "Belarus-5",
+    "logo": "https://i.imgur.com/NJsRFud.png",
+    "nation": "Belarus"
+  },
+  {
+    "id": "BelarusBelarus5Internet",
+    "name": "Belarus-5 Internet",
+    "logo": "https://i.imgur.com/rzPQ9Iz.png",
+    "nation": "Belarus"
+  },
+  {
+    "id": "UnitedStatesBigTenNetwork",
+    "name": "Big Ten Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+    "nation": "United States"
+  },
+  {
+    "id": "BiliardTV",
+    "name": "Billiard TV",
+    "logo": "https://marginfull.github.io/logo/billi.png",
+    "nation": ""
+  },
+  {
+    "id": "RussiaBoksTV",
+    "name": "Boks TV",
+    "logo": "https://i.imgur.com/R1UjyfX.png",
+    "nation": "Russia"
+  },
+  {
+    "id": "BoxingTV",
+    "name": "Boxing TV",
+    "logo": "https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",
+    "nation": ""
+  },
+  {
+    "id": "UnitedStatesCampusLore",
+    "name": "CampusLore",
+    "logo": "https://i.imgur.com/dCXl0rq.png",
+    "nation": "United States"
+  },
+  {
+    "id": "BrazilCanaldoInter",
+    "name": "Canal do Inter",
+    "logo": "https://i.imgur.com/TQFWEIS.png",
+    "nation": "Brazil"
+  },
+  {
+    "id": "CBSSportsNetwork",
+    "name": "CBS Sports Network",
+    "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",
+    "nation": ""
+  },
+  {
+    "id": "UnitedStatesCBSSportsNetworkUSA",
+    "name": "CBS Sports Network USA",
+    "logo": "https://i.imgur.com/A8CnA8g.png",
+    "nation": "United States"
+  },
+  {
+    "id": "ColombiaChampionTV",
+    "name": "Champion TV",
+    "logo": "https://i.imgur.com/A144MfR.png",
+    "nation": "Colombia"
+  },
+  {
+    "id": "CanadaCityNewsCalgary",
+    "name": "CityNews Calgary",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "CanadaCityNewsToronto",
+    "name": "CityNews Toronto",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "CanadaCityNewsVancouver",
+    "name": "CityNews Vancouver",
+    "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "DominicanRepublicColimdoTV",
+    "name": "Colimdo TV",
+    "logo": "https://i.imgur.com/ZeUgLCa.png",
+    "nation": "Dominican Republic"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiRacing",
+    "name": "Dubai Racing 1",
+    "logo": "https://i.imgur.com/BpcV8jS.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiRacing2",
+    "name": "Dubai Racing 2",
+    "logo": "https://i.imgur.com/H2TTn7t.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiRacing3",
+    "name": "Dubai Racing 3",
+    "logo": "https://i.imgur.com/Vg4fxmc.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiSports1",
+    "name": "Dubai Sports 1",
+    "logo": "https://i.imgur.com/Poxw8lG.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiSports2",
+    "name": "Dubai Sports 2",
+    "logo": "https://i.imgur.com/PMJ7Zmo.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "UnitedArabEmiratesDubaiSports3",
+    "name": "Dubai Sports 3",
+    "logo": "https://i.imgur.com/U0A8Gex.png",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "Espn2",
+    "name": "ESPN 2",
+    "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",
+    "nation": ""
+  },
+  {
+    "id": "EspnNews",
+    "name": "ESPN NEWS",
+    "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",
+    "nation": ""
+  },
+  {
+    "id": "EspnU",
+    "name": "ESPN U",
+    "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",
+    "nation": ""
+  },
+  {
+    "id": "NetherlandsFastFunBox",
+    "name": "Fast&FunBox",
+    "logo": "https://i.imgur.com/XLBfoed.png",
+    "nation": "Netherlands"
+  },
+  {
+    "id": "CanadaFightNetwork",
+    "name": "Fight Network",
+    "logo": "https://i.imgur.com/vlKPZHR.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "NetherlandsFightBox",
+    "name": "FightBox",
+    "logo": "https://i.imgur.com/mRsnztA.png",
+    "nation": "Netherlands"
+  },
+  {
+    "id": "Fs1",
+    "name": "FS1",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "CanadaGamePlus",
+    "name": "Game+",
+    "logo": "https://i.imgur.com/Lj69WbR.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "ItalyHorseTVHD",
+    "name": "Horse TV HD",
+    "logo": "https://i.imgur.com/9lctpnP.png",
+    "nation": "Italy"
+  },
+  {
+    "id": "UnitedStatesImpactPlus",
+    "name": "Impact Plus!",
+    "logo": "https://i.imgur.com/9eXFZya.jpeg",
+    "nation": "United States"
+  },
+  {
+    "id": "AustriaK19",
+    "name": "K19",
+    "logo": "https://i.imgur.com/l4atkvs.png",
+    "nation": "Austria"
+  },
+  {
+    "id": "KuwaitKTVSport",
+    "name": "KTV Sport",
+    "logo": "https://i.imgur.com/R1hGX1d.png",
+    "nation": "Kuwait"
+  },
+  {
+    "id": "KuwaitKTVSportPlus",
+    "name": "KTV Sport Plus",
+    "logo": "https://i.imgur.com/l4oX0gf.png",
+    "nation": "Kuwait"
+  },
+  {
+    "id": "UnitedStatesLacrosseTV",
+    "name": "Lacrosse TV",
+    "logo": "https://i.imgur.com/zYH4IsV.png",
+    "nation": "United States"
+  },
+  {
+    "id": "ItalyMadeinBOTV",
+    "name": "MadeinBO TV",
+    "logo": "https://i.imgur.com/47X44DD.png",
+    "nation": "Italy"
+  },
+  {
+    "id": "UnitedStatesMLBNetwork",
+    "name": "MLB Network",
+    "logo": "https://i.imgur.com/sA5V39D.png",
+    "nation": "United States"
+  },
+  {
+    "id": "GermanyMoreThanSportsTV",
+    "name": "More Than Sports TV",
+    "logo": "https://i.imgur.com/SLrjImc.png",
+    "nation": "Germany"
+  },
+  {
+    "id": "MotoAmerica",
+    "name": "MotoAmerica",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MotoAmerica_Logo.png/1200px-MotoAmerica_Logo.png",
+    "nation": ""
+  },
+  {
+    "id": "Motorvision",
+    "name": "Motorvision",
+    "logo": "https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png",
+    "nation": ""
+  },
+  {
+    "id": "KazakhstanMTRK",
+    "name": "MTRK",
+    "logo": "https://i.imgur.com/XMyRwDk.png",
+    "nation": "Kazakhstan"
+  },
+  {
+    "id": "UnitedKingdomMUTV",
+    "name": "MUTV",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
+    "nation": "United Kingdom"
+  },
+  {
+    "id": "ItalyNauticalChannel",
+    "name": "Nautical Channel",
+    "logo": "https://i.imgur.com/2ByDyzL.png",
+    "nation": "Italy"
+  },
+  {
+    "id": "NBCGolf",
+    "name": "NBC Golf",
+    "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png",
+    "nation": ""
+  },
+  {
+    "id": "UnitedStatesNFLNetwork",
+    "name": "NFL Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+    "nation": "United States"
+  },
+  {
+    "id": "OmanOmanSportsTV",
+    "name": "Oman Sports TV",
+    "logo": "https://i.imgur.com/1omi7p8.png",
+    "nation": "Oman"
+  },
+  {
+    "id": "AustraliaRacingcom",
+    "name": "Racing.com",
+    "logo": "https://i.imgur.com/Q55HX1O.png",
+    "nation": "Australia"
+  },
+  {
+    "id": "RealMadridTV",
+    "name": "Real Madrid TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",
+    "nation": ""
+  },
+  {
+    "id": "AustriaRedBullTV",
+    "name": "Red Bull TV",
+    "logo": "https://i.postimg.cc/8c78JM28/image.png",
+    "nation": "Austria"
+  },
+  {
+    "id": "UnitedStatesRightNowTV",
+    "name": "Right Now TV",
+    "logo": "https://i.imgur.com/OxbIla4.png",
+    "nation": "United States"
+  },
+  {
+    "id": "AfghanistanRTASport",
+    "name": "RTA Sport",
+    "logo": "https://i.imgur.com/lEXrwos.jpg",
+    "nation": "Afghanistan"
+  },
+  {
+    "id": "SanMarinoSanMarinoRTVSport",
+    "name": "San Marino RTV Sport",
+    "logo": "https://i.imgur.com/PGm944g.png",
+    "nation": "San Marino"
+  },
+  {
+    "id": "UnitedArabEmiratesSharjahSports",
+    "name": "Sharjah Sports",
+    "logo": "https://i.imgur.com/IaRaabJ.jpg",
+    "nation": "United Arab Emirates"
+  },
+  {
+    "id": "SerbiaSOSKanalPlus",
+    "name": "SOS Kanal Plus",
+    "logo": "https://i.imgur.com/9SD40uH.png",
+    "nation": "Serbia"
+  },
+  {
+    "id": "FranceSportenFrance",
+    "name": "Sport en France",
+    "logo": "https://i.imgur.com/1IXQoWq.png",
+    "nation": "France"
+  },
+  {
+    "id": "SouthAfricaSportsConnect",
+    "name": "Sports Connect",
+    "logo": "https://i.imgur.com/0sNWg54.png",
+    "nation": "South Africa"
+  },
+  {
+    "id": "TurkeySportsTV",
+    "name": "Sports TV",
+    "logo": "https://i.imgur.com/tGTVcVe.jpg",
+    "nation": "Turkey"
+  },
+  {
+    "id": "UnitedStatesSwerveSports",
+    "name": "Swerve Sports",
+    "logo": "https://i.imgur.com/GT0Yi2T.png",
+    "nation": "United States"
+  },
+  {
+    "id": "MacauTDMSports",
+    "name": "TDM Sports",
+    "logo": "https://i.imgur.com/AsWLf8S.png",
+    "nation": "Macau"
+  },
+  {
+    "id": "ChileTeletrakTV",
+    "name": "Teletrak TV",
+    "logo": "https://i.imgur.com/NoJvlig.png",
+    "nation": "Chile"
+  },
+  {
+    "id": "TennisChannel2",
+    "name": "Tennis Channel 2",
+    "logo": "https://img.zaltv.gq/logo/tennis-channel.webp",
+    "nation": ""
+  },
+  {
+    "id": "CanadaTSC",
+    "name": "TSC",
+    "logo": "https://i.imgur.com/9w9SSIC.png",
+    "nation": "Canada"
+  },
+  {
+    "id": "TNS1",
+    "name": "TSN 1",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "TNS2",
+    "name": "TSN 2",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "TNS3",
+    "name": "TSN 3",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "TNS4",
+    "name": "TSN 4",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "TNS5",
+    "name": "TSN 5",
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true",
+    "nation": ""
+  },
+  {
+    "id": "IndonesiaTVRISport",
+    "name": "TVRI Sport",
+    "logo": "https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png",
+    "nation": "Indonesia"
+  },
+  {
+    "id": "UnitedStatesTVSBowlingNetwork",
+    "name": "TVS Bowling Network",
+    "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
+    "nation": "United States"
+  },
+  {
+    "id": "UnitedStatesTVSBoxing",
+    "name": "TVS Boxing",
+    "logo": "https://i.imgur.com/30ZoF75.png",
+    "nation": "United States"
+  },
+  {
+    "id": "UnitedStatesTVSSports",
+    "name": "TVS Sports",
+    "logo": "https://i.imgur.com/Lwwq62E.png",
+    "nation": "United States"
+  },
+  {
+    "id": "UnitedStatesTVSTurbo",
+    "name": "TVS Turbo",
+    "logo": "https://i.imgur.com/7zYIbU1.png",
+    "nation": "United States"
+  },
+  {
+    "id": "UnitedStatesTVSWomenSports",
+    "name": "TVS Women Sports",
+    "logo": "https://i.imgur.com/8hC4PfF.png",
+    "nation": "United States"
+  },
+  {
+   "id": "VijuPlussport",
+    "name": "Viju+ Sport",
+    "logo": "https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc47a143-af58-4876-b566-817ad9bf9b1a/logos/m37ol7501zbfkjkdykpcsp97rdj2",
+    "nation": ""
+  },
+  {
+    "id": "UnitedStatesW14DKD5",
+    "name": "W14DK-D5",
+    "logo": "https://i.imgur.com/D4mZ8ll.png",
+    "nation": "United States"
+  },
+  {
+    "id": "WWEWrestling",
+    "name": "WWE-Wrestling",
+    "logo": "https://i.imgur.com/XO8u1V7.png",
+    "nation": ""
+  },
+  {
+    "id": "XFXTV",
+    "name": "XFC TV",
+    "logo": "https://i.imgur.com/LcfzmG0.png",
+    "nation": ""
+  }
 ]
