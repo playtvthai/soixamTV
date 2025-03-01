@@ -40,6 +40,11 @@
     "url":"PL_HTV_HTVC"
   },
   {
+    "icon": "fa-solid fa-music",
+    "title":"Music",
+    "url":"TVMusic"
+  },
+  {
   "icon": "fa-solid fa-f",
   "title": "Thể thao FPT",
   "url": "events/fptplay"

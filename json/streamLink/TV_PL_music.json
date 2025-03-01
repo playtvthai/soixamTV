@@ -1,0 +1,38 @@
+{
+  "ClubbingTV": {
+    "name": "Clubbing TV",
+    "streamLink": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+  },
+  "M2OTV": {
+    "name": "M2O TV",
+    "streamLink": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+  },
+  "StingrayClassica": {
+    "name": "Stingray Classica",
+    "streamLink": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingrayHitList": {
+    "name": "Stingray Hit List",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingrayRockAlternative": {
+    "name": "Stingray Rock Alternative",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingrayRomancesLatino": {
+    "name": "Stingray Romance Latino",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingraySmoothJazz": {
+    "name": "Stingray Smooth Jazz",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingrayTodayisKPop": {
+    "name": "Stingray Today's K-Pop",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+  },
+  "StingrayTodayisLatinPop": {
+    "name": "Stingray Today's Latin Pop",
+    "streamLink": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+  }
+}
