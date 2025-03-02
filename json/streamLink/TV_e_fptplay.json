@@ -147,6 +147,10 @@
   "fptThethao140": {
     "name": "FPT Thể thao 140",
     "streamLink": "https://live.fptplay53.net/fnxch1/thethao140_25s.smil/chunklist.m3u8"
+  },
+  "fptThethao134": {
+    "name": "FPT Thể thao 134",
+    "streamLink": "https://live.fptplay53.net/fnxch1/thethao134_25s.smil/chunklist.m3u8"
   }
 }
 
