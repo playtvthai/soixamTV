@@ -79,6 +79,11 @@
     "name": "FPT Thể thao 243",
     "streamLink": "https://live.fptplay53.net/channel/thethao243-uhd/playlist_avc_1080p-avc.m3u8"
   },
+  "fptThethao241": {
+    "name": "FPT Thể thao 241",
+    "streamLink": "https://vips-livecdn.fptplay.net/MTYxNjAzMDZ8dGhldGhhbzI0MS11aGR8dm5wdHwxNzQwOTA2Nzk5fDE0LjE5MS4xOTAuMjA0fGRlMzI1MDUxYjZjMDVkMGYwNjEyZWMzNjE2ZWVmMGE5/channel/thethao241-uhd/master_avc.m3u8"
+  },
+  
   "fptThethao259": {
     "name": "FPT Thể thao 259",
     "streamLink": "https://live.fptplay53.net/fnxch1/thethao259_25s.smil/chunklist.m3u8"
