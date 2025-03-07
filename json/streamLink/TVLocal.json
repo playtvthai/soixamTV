@@ -1,283 +1,62 @@
 {
   "angiang": {
     "name": "Đài PTTH An Giang",
-    "streamLink":"https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "baclieu": {
     "name": "Đài PTTH Bạc Liêu",
-    "streamLink": "https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "bacgiang": {
     "name": "Đài PTTH Bắc Giang",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "backang": {
     "name": "Đài PTTH Bắc Kạn",
-     "streamLink": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni"
+    "streamLink": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni",
+    "style": "m3u8"
   },
   "bacninh": {
     "name": "Đài PTTH Bắc Ninh",
-    "streamLink": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
+    "streamLink": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8",
+    "style": "m3u8"
   },
   "bentre": {
     "name": "Đài PTTH Bến Tre",
-    "streamLink": "https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "binhduong1": {
+  "binhduong1": {
     "name": "Đài PTTH Bình Dương 1",
-    "streamLink": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "binhduong2": {
+  "binhduong2": {
     "name": "Đài PTTH Bình Dương 2",
-    "streamLink": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "binhdinh": {
+  "binhdinh": {
     "name": "Đài PTTH Bình Định",
-    "streamLink": "https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "binhphuoc1": {
+  "binhphuoc1": {
     "name": "Đài PTTH Bình Phước 1",
-    "streamLink": "https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/binhphuoc1_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "binhphuoc2": {
+  "binhphuoc2": {
     "name": "Đài PTTH Bình Phước 2",
-    "streamLink": "https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist.m3u8"
-  },
-    "binhthuan": {
-    "name": "Đài PTTH Bình Thuận",
-     "streamLink": "https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist.m3u8"
-  },
-    "brvt": {
-    "name": "Đài PTTH Bà Rịa Vũng Tàu",
-     "streamLink": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8"
-  },
-    "camau": {
-    "name": "Đài PTTH Cà Mau",
-    "streamLink": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8"
-  },
-    "danang1": {
-    "name": "Đài PTTH Đà Nẵng 1",
-    "streamLink": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8"
-  },
-    "danang2": {
-    "name": "Đài PTTH Đà Nẵng 2",
-     "streamLink": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8"
-  },
-    "daklak": {
-    "name": "Đài PTTH Đăk Lắk",
-    "streamLink": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
-  },
-  "daknong": {
-      "name": "Đài PTTH Đăk Nông",
-      "streamLink": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w1506516844_b3128000_sleng.m3u8"
-    },
-    "dienbien": {
-    "name": "Đài PTTH Điện Biên",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8"
-  },
-    "dongthap1": {
-    "name": "Đài PTTH Đồng Tháp 1",
-    "streamLink": "https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w569091252.m3u8"
-  },
-   "dongthap2": {
-    "name": "Đài PTTH Đồng Tháp 2",
-    "streamLink": "https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w238266418.m3u8"
-  },
-    "gialai": {
-    "name": "Đài PTTH Gia Lai",
-    "streamLink": "https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist.m3u8"
-  },
-   "hagiang": {
-    "name": "Đài PTTH Hà Giang",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist.m3u8"
-  },
-    "hanam": {
-    "name": "Đài PTTH Hà Nam",
-    "streamLink": "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8"
-  },
-  "hanoi1": {
-    "name": "Đài PTTH Hà Nội 1",
-    "streamLink": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8"
-  },
-    "hanoi2": {
-    "name": "Đài PTTH Hà Nội 2",
-    "streamLink":"https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w630283272_b3128000_slen.m3u8"
-  },
-    "hatinh": {
-    "name": "Đài PTTH Hà Tĩnh",
-     "streamLink": "https://wse.hatinhtv.net/live/httv1/chunklist_w111782179.m3u8"
-  },
-    "haiduong": {
-    "name": "Đài PTTH Hải Dương",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist.m3u8"
-  },
-    "haiphong1": {
-    "name": "Đài PTTH Hải Phòng 1",
-    "streamLink":"https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8"
-  },
-    "haugiang": {
-    "name": "Đài PTTH Hậu Giang",
-    "streamLink": "https://hgtvdigital.vn/hls/backup.m3u8"
-  },
-    "hoabinh": {
-    "name": "Đài PTTH Hoà Bình",
-    "streamLink": "https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8"
-  },
-  "hue": {
-    "name": "Đài PTTH Huế",
-    "streamLink": "https://live.trt.com.vn/TRT-Online/chunklist.m3u8"
-  },
-    "hungyen": {
-    "name": "Đài PTTH Hưng Yên",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8"
-  },
-    "khanhhoa": {
-    "name": "Đài PTTH Khánh Hoà",
-     "streamLink": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8"
-  },
-    "kiengiang1": {
-    "name": "Đài PTTH Kiên Giang 1",
-     "streamLink": "https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8"
-  },
-    "kiengiang2": {
-    "name": "Đài PTTH Kiên Giang 2",
-     "streamLink": "https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
-  },
-    "kontum": {
-    "name": "Đài PTTH Kon Tum",
-     "streamLink": "https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist.m3u8"
-  },
-   "laichau": {
-    "name": "Đài PTTH Lai Châu",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8"
-  },
-    "langson": {
-    "name": "Đài PTTH Lạng Sơn",
-    "streamLink": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8"
-  },
-    "laocai": {
-    "name": "Đài PTTH Lào Cai",
-    "streamLink":"https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8"
-  },
-   "lamdong": {
-    "name": "Đài PTTH Lâm Đồng",
-    "streamLink": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w710389601_b1384000.m3u8"
-  },
-    "longan": {
-    "name": "Đài PTTH Long An",
-    "streamLink": "https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
-  },
-    "namdinh": {
-    "name": "Đài PTTH Nam Định",
-    "streamLink": "https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist.m3u8"
-  },
-  "news": {
-    "name": "Vnews",
-    "streamLink": "https://cloudlive.vnews.gov.vn/live/smil:vnews.smil/chunklist_w731954002_b3128000_sleng.m3u8"
-  },
-    "nghean": {
-    "name": "Đài PTTH Nghệ An",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8"
-  },
-    "ninhbinh": {
-    "name": "Đài PTTH Ninh Bình",
-    "streamLink":"https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8"
-  },
-    "ninhthuan": {
-    "name": "Đài PTTH Ninh Thuận",
-    "streamLink": "https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w148066458.m3u8"
-  },
-   "phutho": {
-    "name": "Đài PTTH Phú Thọ",
-    "streamLink": "https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8"
-  },
-  "phuyen": {
-    "name": "Đài PTTH Phú Yên",
-    "streamLink": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
-  },
-
-  "quangbinh": {
-    "name": "Đài PTTH Quảng Bình",
-    "streamLink": "https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8"
-  },
-  "quangnam": {
-     "name":"Đài PTTH Quảng Nam",
-     "streamLink":"https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8"
-  },
-    "quangngai": {
-    "name": "Đài PTTH Quảng Ngãi",
-    "streamLink":"https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8"
-  },
-   "quangninh1": {
-    "name": "Đài PTTH Quảng Ninh 1",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8"
-  },
-    "quangninh3": {
-    "name": "Đài PTTH Quảng Ninh 3",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8"
-  },
-    "quangtri": {
-    "name": "Đài PTTH Quảng Trị",
-    "streamLink": "https://quangtritv.vn/tv/tvvnpt2024.m3u8"
-  },
-  "soctrang1": {
-    "name": "Đài PTTH Sóc Trăng 1",
-     "streamLink": "https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8"
-  },
-  "soctrang2": {
-    "name": "Đài PTTH Sóc Trăng 2",
-     "streamLink":"https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8"
-  },
-   "sonla": {
-    "name": "Đài PTTH Sơn La",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8"
-  },
-    "tayninh": {
-    "name": "Đài PTTH Tây Ninh",
-    "streamLink":"https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8"
-  },
-  "thaibinh": {
-    "name": "Đài PTTH Thái Bình",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8"
-  },
-  "thainguyen": {
-    "name": "Đài PTTH Thái Nguyên",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8"
-  },
-   "thanhhoa": {
-    "name": "Đài PTTH Thanh Hoá",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8"
-  },
-    "tiengiang": {
-    "name": "Đài PTTH Tiền Giang",
-    "streamLink":"https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist.m3u8"
-  },
-    "cantho": {
-    "name": "Đài PTTH TP.Cần Thơ",
-    "streamLink":"https://live.canthotv.vn/live/tv_web/chunklist_w810303344.m3u8"
-  },
-   "tuyenquang": {
-    "name": "Đài PTTH Tuyên Quang",
-    "streamLink": "https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist.m3u8"
-  },
-    "vinhlong1": {
-    "name": "Đài PTTH Vĩnh Long 1",
-    "streamLink":"https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist.m3u8"
-  },
-  "vinhlong2": {
-    "name": "Đài PTTH Vĩnh Long 2",
-    "streamLink": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8"
-  },
-    "vinhlong3": {
-    "name": "Đài PTTH Vĩnh Long 3",
-    "streamLink":"https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8"
-  },
-    "vinhlong4": {
-    "name": "Đài PTTH Vĩnh Long 4",
-    "streamLink":"https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzsd1/binhphuoc2_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "vinhphuc": {
     "name": "Đài PTTH Vĩnh Phúc",
-    "streamLink": "https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   }
 }

@@ -7,47 +7,47 @@
   {
     "icon": "fa-solid fa-location-dot",
     "title":"TH thiết yếu",
-    "url":"PL_THTY"
+    "url":"tivi/PL_THTY"
   },
   {
     "icon": "fa-solid fa-globe",
     "title":"TH Quốc Tế Tại VN",
-    "url":"PL_QToVN"
+    "url":"tivi/PL_QToVN"
   },
   {
     "icon": "fa-solid fa-globe",
     "title":"Thể Thao Quốc Tế",
-    "url":"PL_QT_SPORT"
+    "url":"tivi/PL_QT_SPORT"
   },
   {
     "icon": "fa-solid fa-child",
     "title":"Trẻ em (Quốc tế)",
-    "url":"PL_G_KIDS"
-  },
-  {
-    "icon": "fa-solid fa-earth-asia",
-    "title":"TH khu vực ĐNA",
-    "url":"TVAsean/index.html"
+    "url":"tivi/PL_G_KIDS"
   },
   {
     "icon": "",
     "title":"VTV & VTVCAP",
-    "url":"PL_VTV_VTVC"
+    "url":"tivi/PL_VTV_VTVC"
   },
   {
     "icon": "",
     "title":"HTV & HTVCAP",
-    "url":"PL_HTV_HTVC"
+    "url":"tivi/PL_HTV_HTVC"
   },
   {
     "icon": "fa-solid fa-music",
     "title":"Music",
-    "url":"TVMusic"
+    "url":"tivi/TVMusic"
   },
-  {
+{
   "icon": "fa-solid fa-f",
   "title": "Thể thao FPT",
   "url": "events/fptplay"
-  }
+},
+{
+  "icon": "fa-solid fa-tv",
+  "title": "TV360",
+  "url": "events/TV360viettel"
+}
 ]
 

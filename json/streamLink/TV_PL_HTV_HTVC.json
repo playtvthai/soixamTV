@@ -1,58 +1,72 @@
 {
-    "htv1": {
+  "htv1": {
     "name": "HTV1",
-    "streamLink":"https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htv2": {
+  "htv2": {
     "name": "HTV2",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htv3": {
+  "htv3": {
     "name": "HTV3",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htv4": {
+  "htv4": {
     "name": "HTV4",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htv7": {
+  "htv7": {
     "name": "HTV7",
-     "streamLink": "https://live.fptplay53.net/epzhd1/htv7hd_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv7hd_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htv9": {
+  "htv9": {
     "name": "HTV9",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htv9hd_hls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv9hd_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvccanmusic": {
+  "htvccanmusic": {
     "name": "HTVC CA NHẠC",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcdlcs": {
+  "htvcdlcs": {
     "name": "HTVC DL&CS",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcgiadinh": {
+  "htvcgiadinh": {
     "name": "HTVC GIA ĐÌNH",
-    "streamLink":"https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcphim": {
+  "htvcphim": {
     "name": "HTVC PHIM",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcphunu": {
+  "htvcphunu": {
     "name": "HTVC PHỤ NỮ",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "htvcplus": {
     "name": "HTVC PLUS",
-    "streamLink":"https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcthethao": {
+  "htvcthethao": {
     "name": "HTVC THỂ THAO",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
-    "htvcthuanviet": {
+  "htvcthuanviet": {
     "name": "HTVC THUẦN VIỆT",
-    "streamLink": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+    "streamLink": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   }
 }

@@ -77,8 +77,14 @@ table {
  line-height: 50px;
  padding: 0 15px;
  }
-
- .video-section {
+ 
+ #video .ifvideo{
+position: absolute;
+width: 100%;
+min-height: calc(100vw * 9 /16);
+ }
+ 
+ .video-section, ifvideo {
  text-align: center;
  
  width:100%;

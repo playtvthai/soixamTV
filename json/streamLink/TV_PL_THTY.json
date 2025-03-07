@@ -1,15 +1,18 @@
 {
     "vtv1": {
     "name": "VTV1",
-    "streamLink":"https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8"
+    "streamLink":"https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8",
+    "style": "m3u8"
   },
     "qpvn": {
     "name": "QPVN",
-    "streamLink": "https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8"
+    "streamLink": "https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/01.m3u8",
+    "style": "m3u8"
   },
   "antv": {
     "name": "ANTV",
-    "streamLink": "https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8"
+    "streamLink": "https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8",
+    "style": "m3u8"
   }
   
 }

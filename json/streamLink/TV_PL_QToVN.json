@@ -3,72 +3,84 @@
     "name": "Asian Food Channel",
     "streamLink": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/hnKYaz4.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "Da_Vinci_Learning": {
     "name": "Da Vinci Learning",
     "streamLink": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/BaWeTRA.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "CNBC": {
     "name": "CNBC",
     "streamLink": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/n7wpbPA.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "KBS_World": {
     "name": "KBS World",
     "streamLink": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/p9l05oV.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "NHK_World_HD": {
     "name": "NHK World HD",
     "streamLink": "https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/jay8vmW.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "DW": {
     "name": "DW",
     "streamLink": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/6Lyp9ek.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "Arirang": {
     "name": "Arirang",
     "streamLink": "https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/fOZbl4G.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "Channel_NewsAsia": {
     "name": "Channel NewsAsia",
     "streamLink": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/Ojig5wo.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "France_24": {
     "name": "France 24",
     "streamLink": "https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/HVXCGWm.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "TV5_Monde": {
     "name": "TV5 Monde",
     "streamLink": "https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/69Rr8Ay.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "Outdoor_Channel": {
     "name": "Outdoor Channel",
     "streamLink": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/VO7PRty.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   },
   "Kix": {
     "name": "Kix",
     "streamLink": "https://live.fptplay53.net/fnxhd2/kixhd_hls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/RwqyVRB.png",
-    "nation": "vietnam"
+    "nation": "vietnam",
+    "style": "m3u8"
   }
 }

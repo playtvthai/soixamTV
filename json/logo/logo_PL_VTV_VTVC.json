@@ -184,5 +184,11 @@
       "name": "VTVC ON MOVIES",
       "logo": "ON_Movies.png",
       "nation": "vietnam"
-    }
+    },
+    {
+    "id": "vtvcfamily",
+    "name": "VTVC ON FAMILY",
+    "logo": "ON_VFamily_.png",
+    "nation": "vietnam"
+     }
 ]
