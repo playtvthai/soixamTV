@@ -20,9 +20,19 @@
     "url":"tivi/PL_QT_SPORT"
   },
   {
+    "icon": "fa-solid fa-box",
+    "title": "In The Box",
+    "url": "tivi/PL_inTheBox"
+  },
+  {
     "icon": "fa-solid fa-child",
     "title":"Trẻ em (Quốc tế)",
     "url":"tivi/PL_G_KIDS"
+  },
+  {
+    "icon": "fa-solid fa-earth-asia",
+    "title":"TH khu vực ĐNA",
+    "url":"tivi/TVAsean/index.html"
   },
   {
     "icon": "",

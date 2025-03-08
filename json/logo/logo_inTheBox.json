@@ -1,0 +1,56 @@
+[
+  {
+    "id": "boxhits",
+    "name": "Box Hits",
+    "logo": "Box_Hits.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "boxmovie1hd",
+    "name": "Box Movie 1 HD",
+    "logo": "Box_Movie_1.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "hollywoodclassichd",
+    "name": "Hollywood Classic HD",
+    "logo": "Hollywood_Classics.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "inthebox",
+    "name": "In The Box",
+    "logo": "InTheBoxChannel.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "happykidshd",
+    "name": "Happy Kids HD",
+    "logo": "Happy_Kids_TV.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "womanhd",
+    "name": "Woman HD",
+    "logo": "Woman_Magazine.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "man",
+    "name": "Man",
+    "logo": "MAN.png",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "musicbox",
+    "name": "Music Box",
+    "logo": "Music_Box_UA.svg",
+    "nation": "Vietnam"
+  },
+  {
+    "id": "historyhd",
+    "name": "History HD",
+    "logo": "History.svg",
+    "nation": "Vietnam"
+  }
+]
