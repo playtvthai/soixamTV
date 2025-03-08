@@ -30,11 +30,6 @@
     "url":"tivi/PL_G_KIDS"
   },
   {
-    "icon": "fa-solid fa-earth-asia",
-    "title":"TH khu vực ĐNA",
-    "url":"tivi/TVAsean/index.html"
-  },
-  {
     "icon": "",
     "title":"VTV & VTVCAP",
     "url":"tivi/PL_VTV_VTVC"
