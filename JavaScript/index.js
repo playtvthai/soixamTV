@@ -52,7 +52,7 @@ var video = document.getElementById('myVideo');
    const idHTML = document.getElementById("video")
    idHTML.innerHTML = `
       
-      <video src="../../wordspage/video/cho.mp4"  class="video-section" id="myVideo"  poster="../../wordspage/image/poster/TV SHOW_20250120_172203_0000.png"   loop autoplay controls
+      <video src="${GL_domain}wordspage/video/cho.mp4"  class="video-section" id="myVideo"  poster="${GL_domain}wordspage/image/poster/TV SHOW_20250120_172203_0000.png"   loop autoplay controls
     </video>`;
   
   hls(videoSrc)
