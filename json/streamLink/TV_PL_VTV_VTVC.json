@@ -56,12 +56,12 @@
   },
   "vtvcfootball": {
     "name": "VTVC FOOTBALL",
-    "streamLink":"https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8",
+    "streamLink":"https://truyenhinh.click/vtvcab16",
         "style": "iframe"
    },
     "vtvconbibi": {
     "name": "VTVC ON BIBI",
-      "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab16hd/TuyetDoiKhongKinhDoanh",
+      "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh",
     "style": "iframe"
   },
     "vtvconcine": {
@@ -76,7 +76,7 @@
   },
   "vtvconechanel": {
      "name": "VTVC ON E CHANEL",
-      "streamLink":"http://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8",
+      "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh",
     "style": "iframe"
   },
   "vtvcongolf": {
@@ -86,8 +86,8 @@
    },
   "vtvconhomeshopping": {
     "name":"VTVC ON HOME SHOPPING",
-    "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh",
-    "style": "iframe"
+    "streamLink":"https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8",
+    "style": "m3u8"
   },
     "vtvconinfo": {
     "name": "VTVC ON INFO",
@@ -121,17 +121,17 @@
    },
   "vtvconsport": {
      "name": "VTVC ON SPORT",
-     "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh",
+     "streamLink":"https://truyenhinh.click/vtvcab3",
     "style": "iframe"
   },
   "vtvconsportnews": {
     "name": "VTVC ON SPORT NEWS",
-    "streamLink": "https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8",
+    "streamLink": "https://truyenhinh.click/vtvcab18",
     "style": "iframe"
   },
   "vtvconsportplus": {
     "name": "VTVC ON SPORT PLUS",
-    "streamLink": "https://tv.truyenhinh.click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://truyenhinh.click/vtvcab6",
     "style": "iframe"
   },
   "vtvconstyle": {
