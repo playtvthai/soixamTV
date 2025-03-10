@@ -171,20 +171,38 @@ min-height: calc(100vw * 9 /16);
   top: 0;
   left: 0;
   width: 250px;
-  height: 100%;
-  background-color: #3468c2; /* Màu xanh dịu */
+  height: 95vh;
+  background-color: #3468c2; 
   color: #fff;
   display: none;
   flex-direction: column;
-  padding: 20px 15px;
+  padding: 20px 15px 5vh 15px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
   z-index: 9999999;
-  
+  overflow-y: scroll;
+  animation: menuIn 1s ease-out;
   }
+  @keyframes menuIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
 
   .menu {
   flex-grow: 1;
+  animation: slideIn 0.5s ease-out;
   }
+  @keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
 
   .menu a {
   display: flex;
@@ -198,7 +216,7 @@ min-height: calc(100vw * 9 /16);
   }
 
   .menu a:hover {
-  background-color: #274a89; /* Màu xanh đậm hơn */
+  background-color: #274a89; 
   }
 
   .menu a i {
@@ -207,4 +225,8 @@ min-height: calc(100vw * 9 /16);
   }
 
 
+
+
+
  }
+ 
