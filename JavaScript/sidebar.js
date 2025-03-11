@@ -11,9 +11,7 @@ fetch(menuJson)
    console.log(data);
    const menuHTML = data.map(num => 
     ` 
-    <a data-aos="fade-up"
-     data-aos-duration="1000" 
-     href="${GL_domain}${num.url}"><i><i class="${num.icon}"></i></i>${num.title}</a>
+    <a href="${GL_domain}${num.url}"><i><i class="${num.icon}"></i></i>${num.title}</a>
     `
     );
   menu.innerHTML =`
