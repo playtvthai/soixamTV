@@ -76,6 +76,7 @@ table {
  cursor: pointer;
  line-height: 50px;
  padding: 0 15px;
+ z-index:;
  }
  
  #video .ifvideo{
