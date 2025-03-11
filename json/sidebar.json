@@ -40,6 +40,11 @@
     "url":"tivi/PL_HTV_HTVC"
   },
   {
+    "icon": "",
+    "title":"SCTV",
+    "url":"tivi/PL_SCTV"
+  },
+  {
     "icon": "fa-solid fa-music",
     "title":"Music",
     "url":"tivi/TVMusic"
