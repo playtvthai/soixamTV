@@ -247,6 +247,12 @@
     "nation": "Vietnam"
   },
   {
+    "id": "fptThethao02",
+    "name": "FPT Thể thao 02",
+    "logo": "fptplay.png",
+    "nation": "Vietnam"
+  },
+  {
     "id": "fptThethao03",
     "name": "FPT Thể thao 03",
     "logo": "fptplay.png",
