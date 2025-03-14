@@ -10,5 +10,23 @@
     "name": "SCTV6 - fim360",
     "logo": "SCTV6.png",
     "nation": "vietnam"
+  },
+  {
+    "id": "sctv9",
+    "name": "SCTV9",
+    "logo": "SCTV6.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv15",
+    "name": "SCTV15",
+    "logo": "SCTV15.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv17",
+    "name": "SCTV17",
+    "logo": "SCTV17.png",
+    "nation": "vietnam"
   }
 ]
