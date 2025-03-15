@@ -62,133 +62,128 @@
     {
     "id": "vtv9",
     "name": "VTV9",
-     "logo": "VTV9_logo.png",
+    "logo": "VTV9_logo.png",
     "nation": "vietnam"
     },
     {
-    "id": "vtvcfootball",
-    "name": "VTVC FOOTBALL",
-    "logo": "ON_Football_logo_2022.png",
-     "nation": "vietnam"
-    },
-    {
-      "id":"vtvconbibi",
-     "name": "VTVC ON BIBI",
-     "logo":"ON_BiBi_logo_17-05-2023.png",
-      "nation":"vietnam"
-    },
-    {
-    "id": "vtvconcine",
-    "name": "VTVC ON CINE",
-    "logo": "ON_Cine_logo_17-05-2023.png",
-    "nation": "vietnam"
-    },
-    {
-     "id":"vtvcondrama",
-    "name": "VTVC ON DRAMA",
-    "logo":"ON_Vie_Dramas_logo_29-12-2023.png",
-    "nation": "vietnam"
-    },
-    {
-    "id":"vtvconechanel",
-     "name": "VTVC ON E CHANEL",
-    "logo":"ON_E_Channel_logo.png",
-    "nation": "vietnam"
-    },
-    {
-    "id":"vtvcongolf",
-    "name": "VTVC ON GOLF",
-    "logo":"ON_Golf_logo_2022.png",
-     "nation": "vietnam"
-   },
-   {
-    "id": "vtvconhomeshopping",
-    "name":"VTVC ON HOME SHOPPING",
-     "logo":"ON_Home_Shopping.png",
-    "nation":"vietnam"
-    },
-    {
-    "id":"vtvconinfo",
-    "name": "VTVC ON INFO",
-    "logo":"ON_Info_TV_logo_19-05-2023.png",
-    "nation": "vietnam"
-   },
-    {
-    "id":"vtvconkids",
-    "name": "VTVC ON KIDS",
-    "logo":"ON_Kids.png",
-    "nation":"vietnam"
-   },
-    {
-    "id":"vtvconlife",
-    "name": "VTVC ON LIFE",
-    "logo":"ON_Life.png",
-    "nation": "vietnam"
-    },
-    {
-     "id":"vtvconmusic",
-    "name": "VTVC ON MUSIC",
-    "logo":"ON_Music_logo.png",
-     "nation": "vietnam"
-    },
-    {
-    "id":"vtvcono2tv",
-     "name": "VTVC ON O2TV",
-     "logo":"ON_O2TV_logo_17-05-2023.png",
-    "nation": "vietnam"
-    },
-    {
-    "id":"vtvconphimviet",
-    "name": "VTVC ON PHIM VIỆT",
-    "logo":"ON_Phim_Viet_logo.png",
-     "nation": "vietnam"
-    },
-    {
-    "id":"vtvconsport",
-     "name": "VTVC ON SPORT",
-     "logo":"ON_Sports_logo_2022.png",
-    "nation": "vietnam"
-    },
-     {
-    "id":"vtvconsportnews",
-    "name": "VTVC ON SPORT NEWS",
-     "logo": "ON_Sports_News_logo_2022.png",
-    "nation": "vietnam"
-    },
-     {
-    "id":"vtvconsportplus",
-    "name": "VTVC ON SPORT PLUS",
+     "id": "vtvconsportplus",
+     "name": "VTVC ON SPORT PLUS",
      "logo": "ON_Sport_plus_logo_2023.png",
-    "nation": "vietnam"
-    },
-    {
-    "id":"vtvconstyle",
-    "name": "VTVC ON STYLE",
-     "logo":"ON_Style_TV_logo_19-05-2023.png",
      "nation": "vietnam"
     },
     {
-    "id":"vtvcontreanding",
+     "id": "vtvcfootball",
+     "name": "VTVC FOOTBALL",
+     "logo": "ON_Football_logo_2022.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconsportnews",
+     "name": "VTVC ON SPORT NEWS",
+     "logo": "ON_Sports_News_logo_2022.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconsport",
+     "name": "VTVC ON SPORT",
+     "logo": "ON_Sports_logo_2022.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcongolf",
+     "name": "VTVC ON GOLF",
+     "logo": "ON_Golf_logo_2022.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconphimviet",
+     "name": "VTVC ON PHIM VIỆT",
+     "logo": "ON_Phim_Viet_logo.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcmovies",
+     "name": "VTVC ON MOVIES",
+     "logo": "ON_Movies.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconechanel",
+     "name": "VTVC ON E CHANEL",
+     "logo": "ON_E_Channel_logo.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcondrama",
+     "name": "VTVC ON DRAMA",
+     "logo": "ON_Vie_Dramas_logo_29-12-2023.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconviegt",
+     "name": "VTVC ON VIE GIẢI TRÍ",
+     "logo": "ON_Vie_GiaiTri.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconstyle",
+     "name": "VTVC ON STYLE",
+     "logo": "ON_Style_TV_logo_19-05-2023.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconkids",
+     "name": "VTVC ON KIDS",
+     "logo": "ON_Kids.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconbibi",
+     "name": "VTVC ON BIBI",
+     "logo": "ON_BiBi_logo_17-05-2023.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconinfo",
+     "name": "VTVC ON INFO",
+     "logo": "ON_Info_TV_logo_19-05-2023.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcono2tv",
+     "name": "VTVC ON O2TV",
+     "logo": "ON_O2TV_logo_17-05-2023.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconlife",
+     "name": "VTVC ON LIFE",
+     "logo": "ON_Life.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvconmusic",
+     "name": "VTVC ON MUSIC",
+     "logo": "ON_Music_logo.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcfamily",
+     "name": "VTVC ON FAMILY",
+     "logo": "ON_VFamily_.png",
+     "nation": "vietnam"
+    },
+    {
+     "id": "vtvcontreanding",
      "name": "VTVC ON TREANDING",
-    "logo":"ON_Trending_TV.png",
+     "logo": "ON_Trending_TV.png",
      "nation": "vietnam"
     },
     {
-      "id": "vtvconviegt",
-      "name": "VTVC ON VIE GIẢI TRÍ",
-      "logo": "ON_Vie_GiaiTri.png",
-      "nation": "vietnam"
-    },
-    {
-      "id": "vtvcmovies",
-      "name": "VTVC ON MOVIES",
-      "logo": "ON_Movies.png",
-      "nation": "vietnam"
-    },
-    {
-    "id": "vtvcfamily",
-    "name": "VTVC ON FAMILY",
-    "logo": "ON_VFamily_.png",
-    "nation": "vietnam"
-     }
+     "id": "vtvconhomeshopping",
+     "name": "VTVC ON HOME SHOPPING",
+     "logo": "ON_Home_Shopping.png",
+     "nation": "vietnam"
+    }
+
 ]

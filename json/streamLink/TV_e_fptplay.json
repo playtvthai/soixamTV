@@ -199,26 +199,6 @@
     "name": "FPT Thể thao 125",
     "streamLink": "https://live.fptplay53.net/epzch1/thethao125_25s.smil/chunklist.m3u8",
     "style": "m3u8"
-  },
-  "fptThethao263": {
-    "name": "FPT Thể thao 263",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao263_25s.smil/chunklist.m3u8",
-    "style": "m3u8"
-  },
-  "fptThethao02": {
-    "name": "FPT Thể thao 02",
-    "streamLink": "https://live.fptplay53.net/epzch1/thethao02_mx.smil/chunklist_b6000000.m3u8",
-    "style": "m3u8"
-  },
-  "fptThethao03": {
-    "name": "FPT Thể thao 03",
-    "streamLink": "https://live.fptplay53.net/epzch1/thethao03_mx.smil/chunklist_b6000000.m3u8",
-    "style": "m3u8"
-  },
-  "fptThethao19": {
-    "name": "FPT Thể thao 19",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao19_25s.smil/chunklist.m3u8",
-    "style": "m3u8"
   }
   
 }

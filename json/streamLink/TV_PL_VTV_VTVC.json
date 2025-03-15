@@ -62,7 +62,7 @@
     "vtvconbibi": {
     "name": "VTVC ON BIBI",
       "streamLink":"https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
   },
     "vtvconcine": {
     "name": "VTVC ON CINE",
@@ -72,11 +72,11 @@
    "vtvcondrama": {
     "name": "VTVC ON DRAMA",
      "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
   },
   "vtvconechanel": {
      "name": "VTVC ON E CHANEL",
-     "streamLink":"https://live2onsport.vtvcab.vn/onplus/HAY_TV/sc-gaFEQQ/m20_index.m3u8",
+     "streamLink":"https://live2onsport.vtvcab.vn/onplus/E_CHANNEL/sc-gaFEQQ/m20_index.m3u8",
     "style": "m3u8"
   },
   "vtvcongolf": {
@@ -91,33 +91,33 @@
   },
     "vtvconinfo": {
     "name": "VTVC ON INFO",
-    "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab/TuyetDoiKhongKinhDoanh",
+    "style": "iframe"
    },
     "vtvconkids": {
     "name": "VTVC ON KIDS",
     "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
    },
    "vtvconlife": {
     "name": "VTVC ON LIFE",
     "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
   },
     "vtvconmusic": {
     "name": "VTVC ON MUSIC",
     "streamLink": "https://tv.truyenhinh.click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
   },
    "vtvcono2tv": {
      "name": "VTVC ON O2TV",
      "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
   },
   "vtvconphimviet": {
     "name": "VTVC ON PHIM VIỆT",
     "streamLink":"https://tv.truyenhinh.click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh",
-    "style": "m3u8"
+    "style": "iframe"
    },
   "vtvconsport": {
      "name": "VTVC ON SPORT",
@@ -137,7 +137,7 @@
   "vtvconstyle": {
     "name": "VTVC ON STYLE",
     "streamLink": "https://tv.truyenhinh.click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh",
-        "style": "m3u8"
+        "style": "iframe"
   },
   "vtvcontreanding": {
     "name": "VTVC ON TREANDING",
@@ -152,11 +152,11 @@
   "vtvcmovies": {
     "name": "VTVC ON MOVIES",
     "streamLink": "https://tv.truyenhinh.click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh",
-        "style": "m3u8"
+        "style": "iframe"
   },
 "vtvcfamily": {
   "name": "VTVC ON family",
   "streamLink": "https://tv.truyenhinh.click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh",
-  "style": "m3u8"
+  "style": "iframe"
 }
 }
