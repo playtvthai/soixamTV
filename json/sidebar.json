@@ -36,8 +36,23 @@
   },
   {
     "icon": "",
+    "title":"ONPLUS",
+    "url":"events/onplus"
+  },
+  {
+    "icon": "",
     "title":"HTV & HTVCAP",
     "url":"tivi/PL_HTV_HTVC"
+  },
+  {
+    "icon": "",
+    "title": "SCTV",
+    "url": "tivi/PL_SCTV"
+  },
+  {
+    "icon": "",
+    "title": "K Plus",
+    "url": "tivi/PL_Kplus"
   },
   {
     "icon": "fa-solid fa-music",
