@@ -56,7 +56,8 @@
   },
   "vtvcfootball": {
     "name": "VTVC FOOTBALL",
-    "streamLink": "https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/sc-gaFEQQ/m20_index.m3u8",
+    "streamLink": "https://livecdn.vtvcab.vn/onplus/BONGDA_HD/sc-gaFEQQ/v3_index.m3u8",
+    "audio":"https://livecdn.vtvcab.vn/onplus/BONGDA_HD/sc-gaFEQQ/a0_index.m3u8",
         "style": "m3u8"
    },
     "vtvconbibi": {
@@ -76,12 +77,12 @@
   },
   "vtvconechanel": {
      "name": "VTVC ON E CHANEL",
-     "streamLink":"https://live2onsport.vtvcab.vn/onplus/E_CHANNEL/sc-gaFEQQ/m20_index.m3u8",
+     "streamLink":"https://livecdn.vtvcab.vn/onplus/E_CHANNEL/sc-gaFEQQ/m20_index.m3u8",
     "style": "m3u8"
   },
   "vtvcongolf": {
     "name": "VTVC ON GOLF",
-    "streamLink":"https://live2onsport.vtvcab.vn/onplus/THETHAO_GOLF_HD/sc-gaFEQQ/m20_index.m3u8",
+    "streamLink":"https://livecdn.vtvcab.vn/onplus/THETHAO_GOLF_HD/sc-gaFEQQ/m20_index.m3u8",
     "style": "m3u8"
    },
   "vtvconhomeshopping": {
@@ -121,18 +122,21 @@
    },
   "vtvconsport": {
      "name": "VTVC ON SPORT",
-     "streamLink":"https://live2onsport.vtvcab.vn/onplus/THETHAO_HD/sc-gaFEQQ/m20_index.m3u8",
-    "style": "m3u8"
+     "streamLink":"https://livecdn.onsports.vn/onplus/THETHAO_HD/sc-gaFEQQ/v3_index.m3u8",
+     "audio": "https://livecdn.onsports.vn/onplus/THETHAO_HD/sc-gaFEQQ/a0_index.m3u8",
+    "style": "hls_multi"
   },
   "vtvconsportnews": {
     "name": "VTVC ON SPORT NEWS",
-    "streamLink": "https://live2onsport.vtvcab.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/m20_index.m3u8",
-    "style": "m3u8"
+    "streamLink": "https://livecdn.vtvcab.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/m20_index.m3u8"
+    ,"audio": "https://livecdn.vtvcab.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/m20_index.m3u8",
+    "style": "hls_multi"
   },
   "vtvconsportplus": {
     "name": "VTVC ON SPORT PLUS",
-    "streamLink": "https://live2onsport.vtvcab.vn/onplus/HAY_TV/sc-gaFEQQ/m30_index.m3u8",
-    "style": "m3u8"
+    "streamLink": "https://livecdn.vtvcab.vn/onplus/HAY_TV/sc-gaFEQQ/v3_index.m3u8",
+    "audio": "https://livecdn.vtvcab.vn/onplus/HAY_TV/sc-gaFEQQ/a0_index.m3u8",
+    "style": "hls_multi"
   },
   "vtvconstyle": {
     "name": "VTVC ON STYLE",
@@ -146,7 +150,7 @@
   },
   "vtvconviegt": {
     "name": "VTVC ON VIE GIẢI TRÍ",
-    "streamLink": "https://live2onsport.vtvcab.vn/onplus/GIAITRI_TV_HD/sc-gaFEQQ/m10_index.m3u8",
+    "streamLink": "https://livecdn.vtvcab.vn/onplus/GIAITRI_TV_HD/sc-gaFEQQ/m10_index.m3u8",
         "style": "m3u8"
   },
   "vtvcmovies": {

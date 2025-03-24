@@ -1,13 +1,15 @@
 {
   "KCine": {
     "name": "K+ Cine",
-    "streamLink": "https://live2onsport.vtvcab.vn/onplus/K_CINE_7777/sc-gaFEQQ/m10_index.m3u8",
-    "style":"m3u8"
+    "streamLink": "https://livecdn.onsports.vn/onplus/K_CINE_7777/sc-gaFEQQ/v2_index.m3u8",
+    "audio": "https://livecdn.onsports.vn/onplus/K_CINE_7777/sc-gaFEQQ/a0_index.m3u8",
+    "style":"hls_multi"
   },
 "KAction": {
   "name": "K+ Action",
-  "streamLink": "https://live2onsport.vtvcab.vn/onplus/K_LIFE_7777/sc-gaFEQQ/m10_index.m3u8",
-  "style": "m3u8"
+  "streamLink": "https://livecdn.onsports.vn/onplus/K_LIFE_7777/sc-gaFEQQ/v2_index.m3u8",
+  "audio": "https://livecdn.onsports.vn/onplus/K_LIFE_7777/sc-gaFEQQ/a2_index.m3u8",
+  "style": "hls_multi"
 },
 "KKids": {
   "name": "K+ Kids",
