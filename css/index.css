@@ -91,6 +91,13 @@ min-height: calc(100vw * 9 /16);
  border-top: 10px solid #001326;
  }
 
+#player{
+width: 100vw;
+height: calc(100vw * 9 /16);
+border: 0;
+  
+}
+
  .logo-section {
  display: flex;
  flex-wrap: wrap;

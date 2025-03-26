@@ -224,6 +224,11 @@
     "name": "FPT Thể thao 274",
     "streamLink": "https://live.fptplay53.net/epzch1/thethao274_25s.smil/chunklist.m3u8",
     "style": "m3u8"
+  },
+  "fptThethao93": {
+    "name": "FPT Thể thao 93",
+    "streamLink": "https://live.fptplay53.net/channel/thethao93/master_mx.m3u8",
+    "style": "vjs_multi"
   }
   
 }
