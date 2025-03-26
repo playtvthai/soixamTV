@@ -1,7 +1,7 @@
 {
   "on1":{
     "name":"ON 1",
-    "streamLink":"https://livecdn.onsports.vn/onplus/ONSPORT1/sc-gaFEQQ/v3_index.m3u8",
+    "streamLink":"https://livecdn.onsports.vn/onplus/ONSPORT1/sc-gaFEQQ/v2_index.m3u8",
     "audio":"https://livecdn.onsports.vn/onplus/ONSPORT1/sc-gaFEQQ/a0_index.m3u8",
         "style":"hls_multi"
   },
