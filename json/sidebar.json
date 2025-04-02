@@ -20,6 +20,11 @@
     "url":"tivi/PL_QT_SPORT"
   },
   {
+    "icon": "",
+    "title":"Thể Thao Quốc Tế",
+    "url":"highlightsSport"
+  },
+  {
     "icon": "fa-solid fa-box",
     "title": "In The Box",
     "url": "tivi/PL_inTheBox"
