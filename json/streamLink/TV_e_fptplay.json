@@ -245,12 +245,12 @@
   },
   "fptThethao14": {
     "name": "FPT Thể thao 14",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b6000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxch1/thethao14_mx.smil/chunklist_b1200000.m3u8",
     "style": "m3u8"
   },
   "fptThethao17": {
     "name": "FPT Thể thao 17",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b6000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxch1/thethao17_mx.smil/chunklist_b1200000.m3u8",
     "style": "m3u8"
   }
   
