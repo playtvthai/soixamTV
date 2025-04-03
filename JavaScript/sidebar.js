@@ -39,3 +39,6 @@ document.getElementById('menuIcon').addEventListener('click', function () {
         icon.classList.add('fa-bars');
     }
 });
+
+
+console.log("hello")

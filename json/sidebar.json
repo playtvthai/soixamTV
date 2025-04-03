@@ -20,11 +20,6 @@
     "url":"tivi/PL_QT_SPORT"
   },
   {
-    "icon": "",
-    "title":"Thể Thao Quốc Tế",
-    "url":"highlightsSport"
-  },
-  {
     "icon": "fa-solid fa-box",
     "title": "In The Box",
     "url": "tivi/PL_inTheBox"
@@ -36,8 +31,13 @@
   },
   {
     "icon": "",
-    "title":"VTV & VTVCAP",
+    "title":"VTV & VTVCAB",
     "url":"tivi/PL_VTV_VTVC"
+  },
+  {
+    "icon": "",
+    "title":"Thể thao VTVCAB",
+    "url":"highlightsSport"
   },
   {
     "icon": "",
@@ -46,7 +46,7 @@
   },
   {
     "icon": "",
-    "title":"HTV & HTVCAP",
+    "title":"HTV & HTVCAB",
     "url":"tivi/PL_HTV_HTVC"
   },
   {
