@@ -1,0 +1,83 @@
+
+ .header {
+ width: 100%;
+ height: 50px;
+ background-color: #00ced1; /* Màu xanh trên cùng */
+ text-align: right;
+ }
+
+ .header > .menu-icon {
+ font-size: 20px;
+ color: #000;
+ cursor: pointer;
+ line-height: 50px;
+ padding: 0 15px;
+ }
+ 
+  .fix{
+   width: 100%;
+   position: fixed;
+   top: 0;
+   z-index: 1000;
+ }
+.sidebar {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 95vh;
+  background-color: #3468c2; 
+  color: #fff;
+  display: none;
+  flex-direction: column;
+  padding: 20px 15px 5vh 15px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 9999999;
+  overflow-y: scroll;
+  animation: menuIn 1s ease-out;
+  }
+  @keyframes menuIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+  .menu {
+  flex-grow: 1;
+  animation: slideIn 0.5s ease-out;
+  }
+  @keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+  .menu a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px 0 10px 0;
+  transition: background-color 0.3s ease;
+  }
+
+  .menu a:hover {
+  background-color: #274a89; 
+  }
+
+  .menu a i {
+  font-size: 20px;
+  margin-right: 10px;
+  }
+
+
+

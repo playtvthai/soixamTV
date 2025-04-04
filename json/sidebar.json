@@ -36,8 +36,13 @@
   },
   {
     "icon": "",
-    "title":"Thể thao VTVCAB",
+    "title":"Highlights thể thao",
     "url":"highlightsSport"
+  },
+  {
+    "icon": "",
+    "title":"Thể thao onplus",
+    "url":"events/onVTVCAB"
   },
   {
     "icon": "",
