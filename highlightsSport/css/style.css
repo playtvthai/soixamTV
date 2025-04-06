@@ -112,6 +112,9 @@ border: 0;
  }
 
 
+
+
+
 .container {
 margin-top: calc((100vw * 9 / 16) + 10vh);
 display: grid;

@@ -7,32 +7,32 @@
   {
     "icon": "fa-solid fa-location-dot",
     "title":"TH thiết yếu",
-    "url":"tivi/PL_THTY"
+    "url":"tivi/index.html?data=PL_THTY"
   },
   {
     "icon": "fa-solid fa-globe",
     "title":"TH Quốc Tế Tại VN",
-    "url":"tivi/PL_QToVN"
+    "url":"tivi/index.html?data=PL_QToVN"
   },
   {
     "icon": "fa-solid fa-globe",
     "title":"Thể Thao Quốc Tế",
-    "url":"tivi/PL_QT_SPORT"
+    "url":"tivi/index.html?data=PL_QT_SPORT"
   },
   {
     "icon": "fa-solid fa-box",
     "title": "In The Box",
-    "url": "tivi/PL_inTheBox"
+    "url": "tivi/index.html?data=PL_inTheBox"
   },
   {
     "icon": "fa-solid fa-child",
     "title":"Trẻ em (Quốc tế)",
-    "url":"tivi/PL_G_KIDS"
+    "url":"tivi/index.html?data=PL_G_KIDS"
   },
   {
     "icon": "",
     "title":"VTV & VTVCAB",
-    "url":"tivi/PL_VTV_VTVC"
+    "url":"tivi/index.html?data=PL_VTV_VTVC"
   },
   {
     "icon": "",
@@ -52,22 +52,22 @@
   {
     "icon": "",
     "title":"HTV & HTVCAB",
-    "url":"tivi/PL_HTV_HTVC"
+    "url":"tivi/index.html?data=PL_HTV_HTVC"
   },
   {
     "icon": "",
     "title": "SCTV",
-    "url": "tivi/PL_SCTV"
+    "url": "tivi/index.html?data=PL_SCTV"
   },
   {
     "icon": "",
     "title": "K Plus",
-    "url": "tivi/PL_Kplus"
+    "url": "tivi/index.html?data=PL_Kplus"
   },
   {
     "icon": "fa-solid fa-music",
     "title":"Music",
-    "url":"tivi/TVMusic"
+    "url":"tivi/index.html?data=TVMusic"
   },
 {
   "icon": "fa-solid fa-f",

@@ -294,11 +294,47 @@
     "logo": "fptplay.png",
     "nation": "Vietnam"
   },
-  {
-    "id": "fptThethao17",
-    "name": "FPT Thể thao 17",
-    "logo": "fptplay.png",
-    "nation": "Vietnam"
-  }
+{
+  "id": "fptThethao17",
+  "name": "FPT Thể thao 17",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao9",
+  "name": "FPT Thể thao 9",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao288",
+  "name": "FPT Thể thao 288",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao291",
+  "name": "FPT Thể thao 291",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao289",
+  "name": "FPT Thể thao 289",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao286",
+  "name": "FPT Thể thao 286",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "fptThethao126",
+  "name": "FPT Thể thao 126",
+  "logo": "fptplay.png",
+  "nation": "Vietnam"
+}
 ]
 

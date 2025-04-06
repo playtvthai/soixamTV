@@ -26,7 +26,7 @@ function generateGolfHTML(data) {
             <h2>${group.nameGroup}</h2>
             <div class="icon-grid">
                 ${group.ttournament.map(tournament => `
-                    <a href="${GL_domain}${tournament.url}">
+                    <a href="${GL_domain}highlightsSport/highlights/index.html?data=${tournament.league_id}">
                         <div class="icon">
                             <img src="${tournament.logo}" alt="Golf">
                         </div>

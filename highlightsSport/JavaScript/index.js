@@ -24,11 +24,31 @@ function innerPoster(videos) {
     <div class="video-card" onclick="stream('${video.url}')">
         <img src="${video.thumbnail}" alt="${video.name}">
         <div class="video-title">${video.name}</div>
-        <div class="video-duration">${video.duration}</div>
+        <div class="video-duration">${formatTime(video.duration)}</div>
     </div>
 `).join('');
   
 }
+
+function formatTime(seconds) {
+  const hrs = Math.floor(seconds / 3600);
+  const mins = Math.floor((seconds % 3600) / 60);
+  const secs = seconds % 60;
+
+  const paddedMins = String(mins).padStart(2, '0');
+  const paddedSecs = String(secs).padStart(2, '0');
+
+  if (hrs > 0) {
+    const paddedHrs = String(hrs).padStart(2, '0');
+    return `${paddedHrs}:${paddedMins}:${paddedSecs}`;
+  } else {
+    return `${paddedMins}:${paddedSecs}`;
+  }
+}
+
+
+
+
 
 function stream(videoName) { 
  console.log(videoName)

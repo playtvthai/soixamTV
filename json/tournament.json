@@ -3,188 +3,217 @@
   {
     "id": "",
     "nameGroup": "FOOTBALL",
-    "ttournament": [
-      {
-        "name": "UEFA Champions League",
-        "logo": "https://stvinaprod.vtvcab.vn/cea08144-9420-4e04-a4e3-5793e748d5af.png",
-        "url":"highlightsSport/highlights/FOOTBALL/UEFAChampionsLeague"
-      },
-      {
-        "name": "UEFA Europa League",
-        "logo": "https://stvinaprod.vtvcab.vn/c8fa044c-e1a1-46e0-854e-6a965a4ac704.png",
-        "url":"highlightsSport/highlights/FOOTBALL/UEFAEuropaLeague"
-      },
-      {
-        "name": "UEFA Conference League",
-        "logo": "https://stvinaprod.vtvcab.vn/2cd8412c-7113-4f3f-8b6e-b127536a1720.png",
-        "url":"highlightsSport/highlights/FOOTBALL/UEFAConferenceLeague"
-      },
-      {
-        "name": "UEFA Youth League U19",
-        "logo": "https://stvinaprod.vtvcab.vn/e54c39e4-e538-4a55-bd9f-a0774180ea64.png",
-        "url":"highlightsSport/highlights/FOOTBALL/UEFAYouthLeagueU19"
-      },
-      {
-        "name": "Premier League",
-        "logo": "https://stvinaprod.vtvcab.vn/1d862540-b0e4-417e-a9dc-b3ae9fdf0ef8.png",
-        "url":"highlightsSport/highlights/FOOTBALL/PremierLeague"
-      },
-      {
-        "name": "Serie A",
-        "logo": "https://stvinaprod.vtvcab.vn/639f8feb-cd5e-429c-b96f-4f1e4a9836b7.png",
-        "url":"highlightsSport/highlights/FOOTBALL/SerieA"
-      },
-      {
-        "name": "Bundesliga",
-        "logo": "https://stvinaprod.vtvcab.vn/42ecbe34-3751-492c-981f-5afb96f71b39.png",
-        "url":"highlightsSport/highlights/FOOTBALL/Bundesliga"
-      },
-      {
-        "name": "Ligue 1",
-        "logo": "https://stvinaprod.vtvcab.vn/93cfba44-285c-4381-ad0e-73c18996c36b.png",
-        "url":"highlightsSport/highlights/FOOTBALL/Ligue1"
-      },
-      {
-        "name": "La Liga",
-        "logo": "https://stvinaprod.vtvcab.vn/70316e8e-7d04-4c32-aee2-113b08c7406f.png",
-        "url":"highlightsSport/highlights/FOOTBALL/LaLiga"
-      },
-      {
-        "name": "Liga Portugal",
-        "logo": "https://stvinaprod.vtvcab.vn/aa3959cf-0e58-4980-89a7-72aca74cb0cc.png",
-        "url":"highlightsSport/highlights/FOOTBALL/LigaPortugal"
-      },
-      {
-        "name": "J1 League",
-        "logo": "https://stvinaprod.vtvcab.vn/a4fda61d-99ce-447f-aaf5-63c2c6a8c348.png",
-        "url":"highlightsSport/highlights/FOOTBALL/J1League"
-      },
-      {
-        "name": "Saudi Pro League",
-        "logo": "https://stvinaprod.vtvcab.vn/3e67a49d-b65d-45f1-a782-0af10b379214.png",
-        "url":"highlightsSport/highlights/FOOTBALL/SaudiProLeague"
-      },
-      {
-        "name": "England FA Cup",
-        "logo": "https://stvinaprod.vtvcab.vn/8042815e-223c-4f0b-ba31-a12b5a097bd4.png",
-        "url":"highlightsSport/highlights/FOOTBALL/EnglandFACup"
-      },
-      {
-        "name": "DFB-Pokal",
-        "logo": "https://stvinaprod.vtvcab.vn/ee97adf7-7e6d-42f6-adef-0178012d9fa0.png",
-        "url":"highlightsSport/highlights/FOOTBALL/DFBPokal"
-      },
-      {
-        "name": "V.League 1",
-        "logo": "https://stvinaprod.vtvcab.vn/f1bda3db-0743-4aa1-b2e8-613f7757d773.png",
-        "url":"highlightsSport/highlights/FOOTBALL/VLeague1"
-      },
-      {
-        "name": "Scottish Premier League",
-        "logo": "https://stvinaprod.vtvcab.vn/16a592c2-b844-4d50-b118-068b3b77741d.png",
-        "url":"highlightsSport/highlights/FOOTBALL/ScottishPremierLeague"
-      },
-      {
-        "name": "Cúp Quốc Gia 2024/25",
-        "logo": "https://stvinaprod.vtvcab.vn/2b7e03cf-c95d-42aa-8746-220003ffb4d9.png",
-        "url":"highlightsSport/highlights/FOOTBALL/VLeague2_CQG_BSV"
-      },
-      {
-        "name": "Thai League 1",
-        "logo": "https://stvinaprod.vtvcab.vn/93e2507f-7a17-4ba6-b3e7-298ad007a552.png",
-        "url":"highlightsSport/highlights/FOOTBALL/ThaiLeague1"
-      },
-      {
-        "name": "AFC Futsal Championship",
-        "logo": "https://stvinaprod.vtvcab.vn/399494ea-9fe7-4a34-b294-76da5a6299ef.png",
-        "url":"highlightsSport/highlights/FOOTBALL/AFCFutsalChampionship"
-      },
-      {
-        "name": "Hạng Nhất Quốc Gia Bia Sao Vàng",
-        "logo": "https://stvinaprod.vtvcab.vn/3b33e21f-2ec4-4c8a-8151-2af5f8134fe2.png",
-        "url":"highlightsSport/highlights/FOOTBALL/VLeague2"
-      },
-      {
-        "name": "MLS",
-        "logo": "https://stvinaprod.vtvcab.vn/da6089ce-b5cb-4d28-abdb-4262252a7c1d.png",
-        "url":"highlightsSport/highlights/FOOTBALL/MLS"
-      },
-      {
-        "name": "AFC Champions League",
-        "logo": "https://stvinaprod.vtvcab.vn/00a8095f-1791-4463-a4f8-525e4c6ff11a.png",
-        "url":"highlightsSport/highlights/FOOTBALL/AFCChampionsLeague"
-      },
-      {
-        "name": "Eredivisie",
-        "logo": "https://stvinaprod.vtvcab.vn/3e91ddbf-7eae-46aa-bc63-dd086e471a81.png",
-        "url":"highlightsSport/highlights/FOOTBALL/Eredivisie"
-      }
-    ]
+    "ttournament":[
+  {
+    "id": "eb168f25-29fa-4d61-a5f5-ae9801f01adf",
+    "name": "UEFA Champions League",
+    "logo": "https://stvinaprod.vtvcab.vn/cea08144-9420-4e04-a4e3-5793e748d5af.png",
+    "league_id": "ec782e59-4c4a-4de2-bc4b-f0beb191f5c1"
+  },
+  {
+    "id": "ad6ac39e-ce3f-43ee-b4ed-5e535554099b",
+    "name": "UEFA Europa League",
+    "logo": "https://stvinaprod.vtvcab.vn/c8fa044c-e1a1-46e0-854e-6a965a4ac704.png",
+    "league_id": "ce1a8ba9-0e4a-43db-89ea-e95e1d434412"
+  },
+  {
+    "id": "8ee8e5d1-9b3a-4154-af2b-8efe52df12d7",
+    "name": "UEFA Conference League",
+    "logo": "https://stvinaprod.vtvcab.vn/2cd8412c-7113-4f3f-8b6e-b127536a1720.png",
+    "league_id": "50c47a6b-99bb-44e3-9957-29bc50df6c45"
+  },
+  {
+    "id": "116dcd2d-855b-40d4-a9cb-5bf7e09592f8",
+    "name": "UEFA Youth League U19",
+    "logo": "https://stvinaprod.vtvcab.vn/e54c39e4-e538-4a55-bd9f-a0774180ea64.png",
+    "league_id": "a0587881-3df0-4cde-be68-019a4a3b69f6"
+  },
+  {
+    "id": "cc059c5e-c8e6-4709-8b0f-9f19f0e61055",
+    "name": "Premier League",
+    "logo": "https://stvinaprod.vtvcab.vn/1d862540-b0e4-417e-a9dc-b3ae9fdf0ef8.png",
+    "league_id": "60c0c87d-b22d-43fb-a2e0-c800f1fa091e"
+  },
+  {
+    "id": "11a92539-d035-41a6-88b4-977d2abc0a7f",
+    "name": "Serie A",
+    "logo": "https://stvinaprod.vtvcab.vn/639f8feb-cd5e-429c-b96f-4f1e4a9836b7.png",
+    "league_id": "3495c4c8-3cfe-4d94-abe2-2dfc0ec2e1e9"
+  },
+  {
+    "id": "56000dc4-5a83-4f51-ae07-4bd1cbfef273",
+    "name": "Bundesliga",
+    "logo": "https://stvinaprod.vtvcab.vn/42ecbe34-3751-492c-981f-5afb96f71b39.png",
+    "league_id": "1d170aef-3b08-455b-bfd3-5091a6f02f0f"
+  },
+  {
+    "id": "53d09573-984c-4d33-8fa1-3d746b95c50c",
+    "name": "Ligue 1",
+    "logo": "https://stvinaprod.vtvcab.vn/93cfba44-285c-4381-ad0e-73c18996c36b.png",
+    "league_id": "3ea66450-e79e-491e-8b1e-6cb622372281"
+  },
+  {
+    "id": "5552de8d-6912-45a3-a9df-4108f7bbb8f7",
+    "name": "La Liga",
+    "logo": "https://stvinaprod.vtvcab.vn/70316e8e-7d04-4c32-aee2-113b08c7406f.png",
+    "league_id": "8660752d-f5c3-47ed-9e0c-1a0aec309ad8"
+  },
+  {
+    "id": "500aff62-4679-49c6-96e8-233e960145d7",
+    "name": "Liga Portugal",
+    "logo": "https://stvinaprod.vtvcab.vn/aa3959cf-0e58-4980-89a7-72aca74cb0cc.png",
+    "league_id": "6c8d5520-c03f-4a94-a60f-dea8a41466ac"
+  },
+  {
+    "id": "4a4c1504-c9a8-4b2d-8e7e-90897e55ba38",
+    "name": "J1 League",
+    "logo": "https://stvinaprod.vtvcab.vn/a4fda61d-99ce-447f-aaf5-63c2c6a8c348.png",
+    "league_id": "57076552-9b37-42f9-aec2-8705c4cf6cc5"
+  },
+  {
+    "id": "a98dd1d4-f361-45c1-9525-1a5425b0eb25",
+    "name": "Saudi Pro League",
+    "logo": "https://stvinaprod.vtvcab.vn/3e67a49d-b65d-45f1-a782-0af10b379214.png",
+    "league_id": "e1d4764b-b908-4e35-9b97-962b0b1a7788"
+  },
+  {
+    "id": "094ccc6c-5004-483a-a98d-f8ef0ffb69b6",
+    "name": "England FA Cup",
+    "logo": "https://stvinaprod.vtvcab.vn/8042815e-223c-4f0b-ba31-a12b5a097bd4.png",
+    "league_id": "204a756e-daf2-4d46-a759-7f1d9fcd8c7d"
+  },
+  {
+    "id": "9f81245d-e589-42ae-a6a4-34841e62bca4",
+    "name": "DFB-Pokal",
+    "logo": "https://stvinaprod.vtvcab.vn/ee97adf7-7e6d-42f6-adef-0178012d9fa0.png",
+    "league_id": "77d71428-17af-4411-b626-b2fd75506a36"
+  },
+  {
+    "id": "1768f57c-e480-4973-b96b-f78bbf278385",
+    "name": "V.League 1",
+    "logo": "https://stvinaprod.vtvcab.vn/f1bda3db-0743-4aa1-b2e8-613f7757d773.png",
+    "league_id": "7efb7eca-3ea0-45e4-996a-d3d0914aae1d"
+  },
+  {
+    "id": "58e54499-8a28-4748-8535-e9e550a60b99",
+    "name": "Scottish Premier League",
+    "logo": "https://stvinaprod.vtvcab.vn/16a592c2-b844-4d50-b118-068b3b77741d.png",
+    "league_id": "046fdd9e-45ed-4727-a42b-d1291669d864"
+  },
+  {
+    "id": "b697cfd1-a673-4420-b92d-4c773e22197f",
+    "name": "Cúp Quốc Gia 2024/25",
+    "logo": "https://stvinaprod.vtvcab.vn/2b7e03cf-c95d-42aa-8746-220003ffb4d9.png",
+    "league_id": "6c33c297-3c18-477a-93fa-48f828c04d01"
+  },
+  {
+    "id": "8d52fc49-5823-4efd-adcc-18684e45fdda",
+    "name": "Thai League 1",
+    "logo": "https://stvinaprod.vtvcab.vn/93e2507f-7a17-4ba6-b3e7-298ad007a552.png",
+    "league_id": "e325c396-d07e-434f-b6ef-e7b76a0cbcb6"
+  },
+  {
+    "id": "0d71a20f-6411-4210-b653-3eb0f1c79300",
+    "name": "AFC Futsal Championship",
+    "logo": "https://stvinaprod.vtvcab.vn/399494ea-9fe7-4a34-b294-76da5a6299ef.png",
+    "league_id": "05c0467e-f0b0-4779-8b47-0c55a2996f3d"
+  },
+  {
+    "id": "d308b271-093c-4eb1-9d58-2f530081225b",
+    "name": "Hạng Nhất Quốc Gia Bia Sao Vàng",
+    "logo": "https://stvinaprod.vtvcab.vn/3b33e21f-2ec4-4c8a-8151-2af5f8134fe2.png",
+    "league_id": "e8c75f5f-d0d2-428d-8b3c-56b170296759"
+  },
+  {
+    "id": "3cea40f8-121e-4cdc-b8c0-5b516d31dc08",
+    "name": "MLS",
+    "logo": "https://stvinaprod.vtvcab.vn/da6089ce-b5cb-4d28-abdb-4262252a7c1d.png",
+    "league_id": "3cb41fce-f41a-4335-a491-46363331f238"
+  },
+  {
+    "id": "4b502ab0-0719-4b90-abd5-39ced434284d",
+    "name": "AFC Champions League",
+    "logo": "https://stvinaprod.vtvcab.vn/00a8095f-1791-4463-a4f8-525e4c6ff11a.png",
+    "league_id": "8477159d-2214-46dc-ad2f-65de88842996"
+  },
+  {
+    "id": "9b008985-3d4c-46b2-9c53-a3f75705981f",
+    "name": "AFC U23 Asian Cup",
+    "logo": "https://stvinaprod.vtvcab.vn/54c70897-b44f-4c7d-942c-09d3eaeba767.png",
+    "league_id": "00d6fed1-b9c4-4131-a44d-deb68bffa951"
+  },
+  {
+    "id": "c9c1c26d-2ba2-415b-bb29-0b06906ab6f2",
+    "name": "Eredivisie",
+    "logo": "https://stvinaprod.vtvcab.vn/3e91ddbf-7eae-46aa-bc63-dd086e471a81.png",
+    "league_id": "eb99eced-16b3-4f14-bef6-83869ad48885"
+  }
+]
   },
   {
     "id": "",
     "nameGroup": "TENNIS",
     "ttournament": [
-      {
-        "name": "Australian Open",
-        "id": "a1846636-2d57-4918-ba4f-3644a215d0e1",
-        "logo": "https://stvinaprod.vtvcab.vn/5ebca459-ba2e-42bb-b0bc-685ff447596a.png",
-        "url":"highlightsSport/highlights/TENNIS/AustralianOpen"
-      },
-      {
-        "name": "ATP Tour",
-        "id": "54af06e2-33d3-42f9-a16d-921b6fe1365b",
-        "logo": "https://stvinaprod.vtvcab.vn/7ad77346-1032-4809-bdea-53e139f006bd.png",
-        "url":"highlightsSport/highlights/TENNIS/ATPTour"
-      },
-      {
-        "name": "Roland Garros",
-        "id": "52ff47ea-973e-461c-a430-d620fcd1760b",
-        "logo": "https://stvinaprod.vtvcab.vn/96b26e56-21f5-4950-adb5-8b3bc85ef5be.png",
-        "url":"highlightsSport/highlights/TENNIS/RolandGarros"
-      },
-      {
-        "name": "US Open",
-        "id": "5f27e7d2-a511-4b40-a77a-4c8bb8818b6",
-        "logo": "https://stvinaprod.vtvcab.vn/a78a4764-bc47-4ced-92e5-56a6d41c409f.jpg",
-        "url":"highlightsSport/highlights/TENNIS/USOpen"
-      }
-    ]
+  {
+    "id": "4b5d2584-aac9-464b-a52d-be7240d13348",
+    "name": "Australian Open",
+    "logo": "https://stvinaprod.vtvcab.vn/5ebca459-ba2e-42bb-b0bc-685ff447596a.png",
+    "league_id": "a1846636-2d57-4918-ba4f-3644a215d0e1"
+  },
+  {
+    "id": "a41a0620-4e40-4fa0-b456-40b8d13688f8",
+    "name": "ATP Tour",
+    "logo": "https://stvinaprod.vtvcab.vn/7ad77346-1032-4809-bdea-53e139f006bd.png",
+    "league_id": "54af06e2-33d3-42f9-a16d-921b6fe1365b"
+  },
+  {
+    "id": "bfe5860e-477f-4524-9776-e6d6e6870602",
+    "name": "Roland Garros",
+    "logo": "https://stvinaprod.vtvcab.vn/96b26e56-21f5-4950-adb5-8b3bc85ef5be.png",
+    "league_id": "52ff47ea-973e-461c-a430-d620fcd1760b"
+  },
+  {
+    "id": "9b6e0dc4-f9f1-40eb-93db-b49a9b369774",
+    "name": "US Open",
+    "logo": "https://stvinaprod.vtvcab.vn/a78a4764-bc47-4ced-92e5-56a6d41c409f.jpg",
+    "league_id": "5f27e7d2-a511-4b40-a77a-4c8bb8818b6f"
+  }
+]
   },
   {
     "id": "",
     "nameGroup": "GOLF",
     "ttournament": [
-      {
-        "name": "Ryder Cup",
-        "id": "24544606-b8f7-4f2a-8ccb-80cfc0d9ab67",
-        "logo": "https://stvinaprod.vtvcab.vn/710b7e34-07c6-4b40-bbf8-0c28971abb5e.png",
-        "url":"highlightsSport/highlights/GOLF/RyderCup"
-      },
-      {
-        "name": "Solheim Cup",
-        "id": "2185690c-bf9c-4ce9-b77f-2af77c88d4f3",
-        "logo": "https://stvinaprod.vtvcab.vn/58fc467a-73c9-485e-8ed0-94e4e1aabbf3.png",
-        "url":"highlightsSport/highlights/GOLF/SolheimCup"
-      },
-      {
-        "name": "Presidents Cup",
-        "id": "95cef7dc-a0c7-4e6b-8067-2670d2c78b81",
-        "logo": "https://stvinaprod.vtvcab.vn/e3bf58fd-b1af-4e1c-b9b6-fdd724c3fac4.png",
-        "url":"highlightsSport/highlights/GOLF/PresidentsCup"
-      }
-    ]
+  {
+    "id": "9b2a3b0b-d88b-4337-99e4-13f367b78dcc",
+    "name": "Ryder Cup",
+    "logo": "https://stvinaprod.vtvcab.vn/710b7e34-07c6-4b40-bbf8-0c28971abb5e.png",
+    "league_id": "24544606-b8f7-4f2a-8ccb-80cfc0d9ab67"
+  },
+  {
+    "id": "8805c251-d19a-4c8e-8e49-090d1b828087",
+    "name": "Solheim Cup",
+    "logo": "https://stvinaprod.vtvcab.vn/58fc467a-73c9-485e-8ed0-94e4e1aabbf3.png",
+    "league_id": "2185690c-bf9c-4ce9-b77f-2af77c88d4f3"
+  },
+  {
+    "id": "e11c40f3-fcc7-4079-81a4-ee2b03156e55",
+    "name": "Presidents Cup",
+    "logo": "https://stvinaprod.vtvcab.vn/e3bf58fd-b1af-4e1c-b9b6-fdd724c3fac4.png",
+    "league_id": "95cef7dc-a0c7-4e6b-8067-2670d2c78b81"
+  }
+]
   },
   {
     "id": "",
     "nameGroup": "VOLLEYBALL",
     "ttournament": [
       {
-        "name": "Volleyball Nations League",
-        "id": "eac7d489-7c57-4dfb-87eb-fc7a4ee07583",
-        "logo": "https://stvinaprod.vtvcab.vn/1adfd60d-c4c1-46fb-bf87-90b36e22430f.png",
-        "url":"highlightsSport/highlights/VOLLEYBALL/VolleyballNationsLeague"
-      }
+          "id": "af179415-9af3-47c5-a767-811be8094d9c",
+          "name": "VOLLEYBALL NATIONS LEAGUE",
+          "logo": "https://stvinaprod.vtvcab.vn/1adfd60d-c4c1-46fb-bf87-90b36e22430f.png",
+          "league_id": "eac7d489-7c57-4dfb-87eb-fc7a4ee07583"
+        }
     ]
   }
 ]

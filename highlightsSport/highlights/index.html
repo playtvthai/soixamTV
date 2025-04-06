@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sói Xám TV</title>
+    <link rel="shortcut icon" id="favicon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/style.css" type="text/css" media="all" />
+</head>
+<body>
+  <div class="fix">
+    <div class="header">
+        <div class="menu-icon" id="menuIcon">
+          <i class="fa-solid fa-bars"></i>
+       </div>
+    </div>
+    
+    <div id="video">
+      <video src="https://lmg159z.github.io/soixamTV/wordspage/video/cho.mp4"  class="video-section" id="myVideo"  poster="https://lmg159z.github.io/soixamTV/wordspage/image/poster/TV SHOW_20250120_172203_0000.png"  muted loop autoplay controls></video>
+      <audio id="myAudio" autoplay muted></audio>
+    </div>
+  </div>
+  
+  <div data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" class="sidebar" id="menu"></div>
+  
+  <div class="container" id="video-list"></div>
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="../../JavaScript/data.js" defer></script>
+  <script src="../../JavaScript/sidebar.js" defer></script>
+  <script src="../JavaScript/index.js"></script>
+  <script src="../JavaScript/title.js"></script>
+  
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const dataValue = params.get('data');
+    if (dataValue !== null) {
+      play(dataValue); // Đảm bảo hàm play(dataValue) đã được định nghĩa ở đâu đó
+    } else {
+      // Thay đổi nội dung body để hiển thị thông báo lỗi
+      document.body.innerHTML = '<h1>THIẾU THAM SỐ - missing parameter</h1>';
+    }
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- 
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Video List</title>
+  <style>
+    body {
+      background-color: #061326;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      color: white;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 16px;
+    }
+
+    .video-card {
+      width: 45%;
+      max-width: 180px;
+      background-color: transparent;
+    }
+
+    .thumbnail {
+      position: relative;
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .thumbnail img {
+      width: 100%;
+      display: block;
+      border-radius: 12px;
+    }
+
+    .duration {
+      position: absolute;
+      bottom: 6px;
+      right: 6px;
+      background-color: rgba(0, 0, 0, 0.75);
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 12px;
+    }
+
+    .live-badge {
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      background-color: red;
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 11px;
+      font-weight: bold;
+    }
+
+    .title {
+      margin-top: 6px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 500px) {
+      .video-card {
+        width: 100%;
+        max-width: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="video-card">
+      <div class="thumbnail">
+        <img src="https://stvinaprod.vtvcab.vn/cea08144-9420-4e04-a4e3-5793e748d5af.png" alt="Video thumbnail" />
+        <div class="duration">10:17</div>
+        <!-- <div class="live-badge">LIVE</div> --> <!-- Bỏ ghi chú nếu là LIVE 
+      </div>
+      <div class="title">Barcelona vs. Benfica</div>
+    </div>
+
+    <!-- Copy đoạn video-card này để thêm video khác 
+  </div>
+</body>
+</html>
+-->

@@ -9,6 +9,7 @@ function start(logoJ, main) {
   })
   .then(data => {
     logo(data,main)
+    console.log(data)
     })
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
@@ -20,6 +21,7 @@ function start(logoJ, main) {
   
 const channel = document.getElementById("channel")
 function logo(logoChannel, main ) {
+  console.log(logoChannel)
   const squaredNumbers = logoChannel.map(num => 
     `
      <div
