@@ -30,7 +30,7 @@ function innerPoster(videos) {
         data-aos="flip-left"
         data-aos-easing="ease-out-cubic"
         data-aos-duration="2000"
-        onclick="stream('${canWatch}', '${displayTime}')"
+        onclick="stream('${canWatch}', '${displayTime}', '${video.status}')"
       >
         <span
           style="display: ${video.status === "live" ? "block" : "none"}"
@@ -41,7 +41,7 @@ function innerPoster(videos) {
         <div class="event-info">
           <div class="event-title">${video.name}</div>
           <div class="event-time">Phát sóng: ${time(video.start_time, false)}</div>
-          <div class="event-time">Kênh ${video.league_name}</div>
+          <div class="event-time">${video.league_name}</div>
         </div>
       </div>
     `;
@@ -52,19 +52,22 @@ function innerPoster(videos) {
 
 
 
-function stream(videoName, time) { 
-  console.log(time)
-  if (videoName != ""){
-     
-     console.log(videoName.split('/')[4].replace(/^OS_/, ''))
-     const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/v2_index.m3u8`
-     const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/a0_index.m3u8`
-     hls_multi(
-      video,
-      audio,
-      "myVideo",
-      "myAudio"
-    );
+function stream(videoName, time, status) { 
+  console.log(status)
+  
+  if (status == "live"){
+     if(videoName != ""){
+       console.log(videoName.split('/')[4].replace(/^OS_/, ''))
+       const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/v2_index.m3u8`
+       const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/a0_index.m3u8`
+       hls_multi(
+        video,
+        audio,
+        "myVideo",
+        "myAudio"
+      );} else {
+       alert("Không có tín hiệu phát sóng, hãy thử kiểm tra bên trang SCTV hoạt KPLUS") 
+      }
   } else {
     alert(`Chưa tới giờ phát sóng, vui lòng quay lại vào ${time}`)
   }

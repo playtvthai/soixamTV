@@ -22,12 +22,13 @@ function innerPoster(videos) {
   
   videoListContainer.innerHTML = videos.map(video => `
     <div class="video-card" onclick="stream('${video.url}')">
-        <img src="${video.thumbnail}" alt="${video.name}">
-        <div class="video-title">${video.name}</div>
-        <div class="video-duration">${formatTime(video.duration)}</div>
+      <div class="thumbnail">
+        <img src="${video.thumbnail}" alt="${video.name}" />
+        <div class="duration">${formatTime(video.duration)}</div>
+      </div>
+      <div class="title">${video.name}</div>
     </div>
-`).join('');
-  
+  `).join('');
 }
 
 function formatTime(seconds) {
