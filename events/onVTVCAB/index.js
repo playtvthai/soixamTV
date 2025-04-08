@@ -58,8 +58,8 @@ function stream(videoName, time, status) {
   if (status == "live"){
      if(videoName != ""){
        console.log(videoName.split('/')[4].replace(/^OS_/, ''))
-       const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/v2_index.m3u8`
-       const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAQ/a0_index.m3u8`
+       const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEQQ/v2_index.m3u8`
+       const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEQQ/a0_index.m3u8`
        hls_multi(
         video,
         audio,
