@@ -270,7 +270,7 @@
 },
 "fptThethao124": {
   "name": "FPT Thể thao 124",
-  "streamLink": "https://live.fptplay53.net/fnxch1/thethao291_25s.smil/chunklist.m3u8",
+  "streamLink": "https://live.fptplay53.net/fnxch1/thethao124_25s.smil/chunklist.m3u8",
   "style": "m3u8"
 },
 "fptThethao289": {
@@ -285,8 +285,19 @@
 },
 "fptThethao126": {
   "name": "FPT Thể thao 126",
-  "streamLink": "https://live.fptplay53.net/epzch1/thethao291_25s.smil/chunklist.m3u8",
+  "streamLink": "https://live.fptplay53.net/epzch1/thethao126_25s.smil/chunklist.m3u8",
+  "style": "m3u8"
+},
+"fptThethao290": {
+  "name": "FPT Thể thao 290",
+  "streamLink": "https://live.fptplay53.net/fnxch1/thethao290_25s.smil/chunklist.m3u8",
+  "style": "m3u8"
+},
+"fptThethao06": {
+  "name": "FPT Thể thao 06",
+  "streamLink": "https://live.fptplay53.net/epzch1/thethao06_mx.smil/chunklist_b6000000.m3u8",
   "style": "m3u8"
 }
   
 }
+
