@@ -56,7 +56,7 @@
   },
   "fptThethao264": {
     "name": "FPT Thể thao 264",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao264_25s.smil/chunklist.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxch1/thethao264_mx.smil/chunklist_b6000000.m3u8",
     "style": "m3u8"
   },
   "fptThethao266": {
@@ -306,11 +306,6 @@
 "fptThethao20": {
   "name": "FPT Thể thao 20",
   "streamLink": "https://live.fptplay53.net/fnxch1/thethao20_25s.smil/chunklist.m3u8",
-  "style": "m3u8"
-},
-"fptThethao264":{
-  "name":"FPT The Thao 264",
-  "streamLink": "https://live.fptplay53.net/fnxch1/thethao264_mx.smil/chunklist_b6000000.m3u8",
   "style": "m3u8"
 }
 }
