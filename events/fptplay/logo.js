@@ -84,59 +84,91 @@ function logo(logoChannel, main) {
 
 
 
-function start(logoJ, main) {
-  fetch(`${GL_domain}json/streamLink/${logoJ}.json`)
-  .then(response => {
-    if (!response.ok) {
-      throw new Error(`Lỗi HTTP: ${response.status}`);
-    }
-    return response.json(); // Chuyển dữ liệu phản hồi thành JSON
-  })
-  .then(data => {
-       //logo(data,main)
-    //console.log(data)
-   const name = checkStreamLinks(data);
-  //  console.log(name)
+async function start(logoJ, main) {
+  try {
+    const response = await fetch(`${GL_domain}json/streamLink/${logoJ}.json`);
+    if (!response.ok) throw new Error(`Lỗi HTTP: ${response.status}`);
     
-  })
-  .catch(error => {
-    console.error("Lỗi khi gọi API:", error.message);
-  });
-  
-}
-  
-  
-async function checkStreamLinks(streams) {
-  for (const key in streams) {
-    const stream = streams[key];
-    try {
-      const response = await fetch(stream.streamLink, { method: 'HEAD' });
-      if (response.status === 200) {
-        innerChannel(stream.streamLink, stream.name);
-        console.log(`${stream.name} OK: ${stream.streamLink}`);
-      } else {
-        console.warn(`${stream.name} lỗi: Status ${response.status}`);
-      }
-    } catch (error) {
-      console.error(`${stream.name} lỗi khi kiểm tra:`, error.message);
+    const data = await response.json();
+    if (data && typeof data === 'object') {
+      await checkStreamLinks(data);
     }
+  } catch (error) {
+    console.error("Lỗi khi gọi API:", error.message);
   }
 }
 
-function innerChannel(src, name) {
-  const videoListContainer = document.getElementById("video-list");
-  if (!videoListContainer) return;
+async function checkStreamLinks(streams) {
+  const entries = Object.values(streams);
+  const checks = entries.map(async stream => {
+    try {
+      const res = await fetch(stream.streamLink, { method: 'HEAD' });
+      if (res.status === 200) {
+        innerChannel(stream.streamLink, stream.name);
+        console.log(`${stream.name} OK: ${stream.streamLink}`);
+      } else {
+        console.warn(`${stream.name} lỗi: Status ${res.status}`);
+      }
+    } catch (err) {
+      console.error(`${stream.name} lỗi khi kiểm tra:`, err.message);
+    }
+  });
+  
+  await Promise.all(checks);
+}
 
+
+
+function innerChannel(src, name) {
+  const container = document.getElementById("video-list");
+  if (!container) return;
+  
   const html = `
-    <div class="video-card" onclick="stream('${src}')">
+    <div class="video-card" data-src="${src}">
       <div class="thumbnail">
-        <video poster="https://iptv.nhadai.org/img/fpt-play.png" src="${src}" muted autoplay loop playsinline></video>
+        <video 
+          poster="https://iptv.nhadai.org/img/fpt-play.png"
+          src="${src}" muted autoplay loop playsinline>
+        </video>
         <div class="duration"></div>
       </div>
       <div class="title">${name}</div>
     </div>
   `;
-
-  videoListContainer.insertAdjacentHTML("beforeend", html);
+  
+  container.insertAdjacentHTML("beforeend", html);
+  
+  // Gán click handler
+  setTimeout(() => {
+    const card = container.querySelector(`.video-card[data-src="${src}"]`);
+    card.addEventListener("click", () => {
+      handleThumbnailPlayback(src);
+      stream(src); // Gọi phát kênh chính
+    });
+  }, 100);
 }
 
+function handleThumbnailPlayback(activeSrc) {
+  const cards = document.querySelectorAll(".video-card");
+
+  cards.forEach(card => {
+    const video = card.querySelector("video");
+    const src = card.dataset.src;
+
+    if (src === activeSrc) {
+      // Dừng thumbnail, chỉ hiện poster
+      video.pause();
+      video.removeAttribute("src");
+      video.load(); // Chuyển về poster, không phát
+    } else {
+      // Nếu video không có src (đang dừng trước đó) → gán lại và phát
+      if (!video.getAttribute("src")) {
+        video.setAttribute("src", src);
+        video.load();
+        video.play().catch(e => {
+          console.warn("Không thể phát lại thumbnail:", e.message);
+        });
+      }
+    }
+  });
+}
