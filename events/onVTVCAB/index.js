@@ -30,7 +30,7 @@ function innerPoster(videos) {
         data-aos="flip-left"
         data-aos-easing="ease-out-cubic"
         data-aos-duration="2000"
-        onclick="stream('${canWatch}', '${displayTime}', '${video.status}')"
+        onclick="stream('${canWatch}', '${displayTime}', '${video.status}', '${video.channel_id}')"
       >
         <span
           style="display: ${video.status === "live" ? "block" : "none"}"
@@ -52,14 +52,14 @@ function innerPoster(videos) {
 
 
 
-function stream(videoName, time, status) { 
+function stream(videoName, time, status, channel_id) { 
   console.log(status)
   
   if (status == "live"){
      if(videoName != ""){
        console.log(videoName.split('/')[4].replace(/^OS_/, ''))
-       const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEQQ/v2_index.m3u8`
-       const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEQQ/a0_index.m3u8`
+       const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAw/v2_index.m3u8`
+       const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAw/a0_index.m3u8`
        hls_multi(
         video,
         audio,
@@ -67,6 +67,22 @@ function stream(videoName, time, status) {
         "myAudio"
       );} else {
        alert("Không có tín hiệu phát sóng, hãy thử kiểm tra bên trang SCTV hoạt KPLUS") 
+       const channelMap = {
+            "a595913f-5b14-42ef-9958-74defe1f14ad": "SCTV17",
+            "eddd7b89-1a5e-44ca-98f3-d6aa993e0bf9": "SCTV15HD",
+            "e5f6db4e-882a-45c8-8d66-139943dd6605": "HTV_THETHAO",
+            "2cb268c1-4c82-4079-bb8b-3020808d82a3": "CINE_7777",
+            "754d1bba-ecf5-42db-b9e1-21c01b29024d": "ACTION_7777"
+          };
+         const video = `https://livecdn.onsports.vn/onplus/${channelMap.channel_id}/sc-gaFEAw/v2_index.m3u8`
+         const audio = `https://livecdn.onsports.vn/onplus/${channelMap.channel_id}/sc-gaFEAw/a0_index.m3u8`
+         hls_multi(
+           video,
+           audio,
+           "myVideo",
+           "myAudio"
+         )
+          
       }
   } else {
     alert(`Chưa tới giờ phát sóng, vui lòng quay lại vào ${time}`)
