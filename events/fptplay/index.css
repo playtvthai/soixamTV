@@ -11,6 +11,9 @@
     .video-card {
       width: 45%;
       max-width: 180px;
+      display:block;
+      color: #fff;
+      text-decoration: none;
     }
 
     .thumbnail {
@@ -192,7 +195,7 @@ border-radius: 5px;
 */
 
  .container {
-   margin-top: calc((100vw * 9 / 16) + 10vh);
+   margin-top: 100px;
 
       display: flex;
       flex-wrap: wrap;
@@ -230,7 +233,6 @@ border-radius: 5px;
       margin-top: 6px;
       font-size: 14px;
     }
-
 
 
 

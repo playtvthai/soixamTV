@@ -20,16 +20,6 @@
     "url":"tivi/index.html?data=PL_QT_SPORT"
   },
   {
-    "icon": "fa-solid fa-box",
-    "title": "In The Box",
-    "url": "tivi/index.html?data=PL_inTheBox"
-  },
-  {
-    "icon": "fa-solid fa-child",
-    "title":"Trẻ em (Quốc tế)",
-    "url":"tivi/index.html?data=PL_G_KIDS"
-  },
-  {
     "icon": "",
     "title":"VTV & VTVCAB",
     "url":"tivi/index.html?data=PL_VTV_VTVC"
@@ -65,19 +55,14 @@
     "url": "tivi/index.html?data=PL_Kplus"
   },
   {
-    "icon": "fa-solid fa-music",
-    "title":"Music",
-    "url":"tivi/index.html?data=TVMusic"
+    "icon": "fa-solid fa-f",
+    "title": "Thể thao FPT",
+    "url": "events/fptplay"
   },
-{
-  "icon": "fa-solid fa-f",
-  "title": "Thể thao FPT",
-  "url": "events/fptplay"
-},
-{
-  "icon": "fa-solid fa-tv",
-  "title": "TV360",
-  "url": "events/TV360viettel"
-} 
+  {
+    "icon": "fa-solid fa-tv",
+    "title": "TV360",
+    "url": "events/TV360viettel"
+  } 
 ]
 
