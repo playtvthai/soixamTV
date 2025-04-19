@@ -317,7 +317,7 @@
   "fptThethao124": {
     "id": "fptThethao124",
     "name": "FPT Thể thao 124",
-    "streamLink": "https://live.fptplay53.net/fnxch1/thethao124_25s.smil/chunklist.m3u8",
+    "streamLink": "https://live.fptplay53.net/epzch1/thethao124_25s.smil/chunklist.m3u8",
     "style": "m3u8"
   },
   "fptThethao289": {
@@ -381,3 +381,5 @@
     "style": "m3u8"
   }
 }
+
+
