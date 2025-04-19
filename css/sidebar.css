@@ -80,7 +80,7 @@ footer, header, hgroup, menu, nav, section {
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
   z-index: 9;
   overflow-y: scroll;
-  animation: menuIn 1s ease-out;
+  animation: menuIn .5s ease-out;
   }
   @keyframes menuIn {
   from {
@@ -93,7 +93,7 @@ footer, header, hgroup, menu, nav, section {
 
   .menu {
   flex-grow: 1;
-  animation: slideIn 0.5s ease-out;
+  animation: slideIn 1s ease-out;
   }
   @keyframes slideIn {
   from {
