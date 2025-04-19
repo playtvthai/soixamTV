@@ -1,3 +1,48 @@
+/* Reset CSS */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Arial, sans-serif;
+  font-size: 100%;
+  vertical-align: baseline;
+  background-color: #0a192f;
+  color: #e6f1ff;
+  overflow-x: hidden;
+  line-height: 1;
+}
+
+img {
+  width: 100vw;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+blockquote, q {
+  quotes: none;
+}
+blockquote::before, blockquote::after,
+q::before, q::after {
+  content: '';
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
 
  .header {
  width: 100%;
@@ -26,14 +71,14 @@
   top: 0;
   left: 0;
   width: 250px;
-  height: 95vh;
+  height: 100vh;
   background-color: #3468c2; 
   color: #fff;
   display: none;
   flex-direction: column;
   padding: 20px 15px 5vh 15px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-  z-index: 9999999;
+  z-index: 9;
   overflow-y: scroll;
   animation: menuIn 1s ease-out;
   }
@@ -81,3 +126,42 @@
 
 
 
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #00ced1;
+    text-align: right;
+  }
+
+  .header .menu-icon {
+    font-size: 20px;
+    color: #000;
+    cursor: pointer;
+    line-height: 50px;
+    padding: 0 15px;
+  }
+
+  #video .ifvideo {
+    position: absolute;
+    width: 100%;
+    min-height: calc(100vw * 9 / 16);
+  }
+
+  .video-section {
+    text-align: center;
+    width: 100%;
+    border-top: 10px solid #001326;
+  }
+
+  #player {
+    width: 100vw;
+    height: calc(100vw * 9 / 16);
+    border: 0;
+  }
+
+  .fix {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+  }

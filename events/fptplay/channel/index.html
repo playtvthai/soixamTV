@@ -1,41 +1,42 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sói Xám TV</title>
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="../../../css/sidebar.css" type="text/css" media="all" />
+  <link rel="stylesheet" href="../../../css/layout1.css" type="text/css" media="all" />
 </head>
 <body>
   <div class="fix">
-    <div class="header">
+    <header class="header">
       <div class="menu-icon" id="menuIcon">
         <i class="fa-solid fa-bars"></i>
       </div>
-    </div>
-
-    <div id="video">
-      <video 
-        src="https://lmg159z.github.io/soixamTV/wordspage/video/cho.mp4" 
-        class="video-section" 
-        id="myVideo"  
-        poster="https://lmg159z.github.io/soixamTV/wordspage/image/poster/TV%20SHOW_20250120_172203_0000.png"  
-        muted 
-        loop 
-        autoplay 
-        controls
-      ></video>
-      <audio id="myAudio" autoplay muted></audio>
-    </div> 
+    </header>
+  <aside class="sidebar" id="menu" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"></aside>
   </div>
 
-  <div data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" class="sidebar" id="menu"></div>
+    <main id="content">
+      <section id="video">
+        <video
+          id="myVideo"
+          class="video-section"
+          src="https://lmg159z.github.io/soixamTV/wordspage/video/cho.mp4"
+          poster="https://lmg159z.github.io/soixamTV/wordspage/image/poster/TV%20SHOW_20250120_172203_0000.png"
+          muted
+          loop
+          autoplay
+          controls
+        ></video>
+        <audio id="myAudio" autoplay muted></audio>
+      </section>
 
-  <div class="container" id="video-list"></div>
-
+      <section class="container" id="video-list"></section>
+    </main>
   <!-- Scripts -->
   <script src="https://unpkg.com/aos@next/dist/aos.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script>
@@ -50,12 +51,7 @@
 
       const params = new URLSearchParams(window.location.search);
       const dataValue = params.get("channel");
-
-      if (dataValue) {
-        fpt(dataValue);
-      } else {
-        document.body.innerHTML = '<h1>THIẾU THAM SỐ - missing parameter</h1>';
-      }
+      fpt(dataValue || "FPTPlay");
     });
   </script>
 </body>
