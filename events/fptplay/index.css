@@ -8,8 +8,7 @@
 }
 
 .video-card {
-  display: block;
-  width: 90vw;
+  width: 45%;
   max-width: 400px;
 }
 
