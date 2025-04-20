@@ -1,55 +1,49 @@
+/* index.css */
+.container {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
 
- .container {
-   margin-top: 100px;
+.video-card {
+  display: block;
+  width: 90vw;
+  max-width: 400px;
+}
 
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-    }
+.thumbnail {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+}
 
-    .video-card {
-      width: 90vw;
-      max-width: 400px;
-    }
+.thumbnail video {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+}
 
-    .thumbnail {
-      position: relative;
-      border-radius: 12px;
-      overflow: hidden;
-      
-    }
+.duration {
+  position: absolute;
+  bottom: 6px;
+  right: 6px;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 12px;
+  color: #fff;
+}
 
-    .thumbnail video {
-      width: 100%;
-      display: block;
-    }
+.title {
+  margin-top: 6px;
+  font-size: 14px;
+  padding-left: 15px;
+  color: #fff;
+}
 
-    .duration {
-      position: absolute;
-      bottom: 6px;
-      right: 6px;
-      background-color: rgba(0, 0, 0, 0.75);
-      padding: 2px 6px;
-      border-radius: 6px;
-      font-size: 12px;
-    }
-
-    .title {
-      margin-top: 6px;
-      font-size: 14px;
-      text-indent: 15px;
-    }
-    
-    a {
-      text-decoration: none;
-      color: #fff;
-    }
-
-
-
-
-
-
- }
- 
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,50 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sói Xám TV</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sói Xám TV</title>
 
-    <!-- Thư viện CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
-          integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
-          crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    <link rel="stylesheet" href="../../css/sidebar.css" type="text/css" media="all" />
- 
-    <link rel="stylesheet" href="./index.css" type="text/css" media="all" />
+  <!-- Thư viện CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="../../css/sidebar.css" />
+  <link rel="stylesheet" href="./index.css" />
 </head>
 
 <body>
-    <div class="fix">
-        <div class="header">
-            <div class="menu-icon" id="menuIcon">
-                <i class="fa-solid fa-bars"></i>
-            </div>
-        </div>
+  <div class="fix">
+    <div class="header">
+      <div class="menu-icon" id="menuIcon">
+        <i class="fa-solid fa-bars"></i>
+      </div>
     </div>
+  </div>
 
-    <div class="sidebar" id="menu"></div>
-    <div class="container" id="video-list"></div>
-  
-    <!-- Thư viện JavaScript -->
-    <script src="https://unpkg.com/aos@next/dist/aos.js" defer></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            AOS.init();
-        });
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <!-- Script của trang -->
-    <script src="../../JavaScript/data.js" defer></script>
-    <script src="../../JavaScript/sidebar.js" defer></script>
-    <script src="./logo.js" defer></script>
-    <script src="../../JavaScript/index.js" defer></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            start("TV_e_fptplay", "TV_e_fptplay");
-        });
-    </script>
+  <div class="sidebar" id="menu"></div>
+  <div class="container" id="video-list"></div>
+
+  <!-- Thư viện JS -->
+  <script src="https://unpkg.com/aos@next/dist/aos.js" defer></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      AOS.init();
+    });
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script>
+  <script src="../../JavaScript/data.js" defer></script>
+  <script src="../../JavaScript/sidebar.js" defer></script>
+  <script src="./logo.js" defer></script>
+  <script src="../../JavaScript/index.js" defer></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      start("TV_e_fptplay", "TV_e_fptplay");
+    });
+  </script>
 </body>
 </html>
