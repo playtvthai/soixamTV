@@ -63,7 +63,7 @@ footer, header, hgroup, menu, nav, section {
    width: 100%;
    position: fixed;
    top: 0;
-   z-index: 9999999999999999;
+   z-index: 9;
  }
 .sidebar {
 
