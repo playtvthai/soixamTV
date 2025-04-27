@@ -37,6 +37,12 @@
   
 }
 
+#video-list{
+  margin-top: calc((100vw * 9 / 16) + 80px) ;
+  }
+
+
+
 .league-section {
   margin: 0 0 20px 10px;
 }
