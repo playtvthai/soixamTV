@@ -14,29 +14,40 @@ function start(logoJ, main) {
   .catch(error => {
     console.error("Lỗi khi gọi API:", error.message);
   });
-  
 
 }
+
   
-  
-const channel = document.getElementById("channel")
+const channel = document.getElementById("video-list")
 function logo(logoChannel, main ) {
-  console.log(logoChannel)
   const squaredNumbers = logoChannel.map(num => 
     `
-     <div
-       data-aos="flip-left"
-       data-aos-easing="ease-out-cubic"
-       data-aos-duration="2000"
-       class="logo-item"
-       onclick="play('${num.id}','${main}')"
-     >
-     <img class="logo" alt="${num.id}"  src="${(num.logo.includes("http") ? num.logo : `${GL_domain}wordspage/image/logo/${num.logo}`)}" />
-     </div>
+     <div class="video-item"  onclick="play('${num.id}','${main}'); updateURL('${num.id}')" >
+            <div class="thumbnail-container">
+                <img alt="${num.id}"  src="${(num.logo.includes("http") ? num.logo : `${GL_domain}wordspage/image/logo/${num.logo}`)}">
+                
+            </div>
+            <div class="video-title">${num.name}</div>
+        </div>
+        
+     
+     
+     
+     
     `
     );
   //console.log(squaredNumbers.join(""))
   channel.innerHTML = squaredNumbers.join("")
 }
  
+
+
+
+function updateURL(id) {
+  const params = new URLSearchParams(window.location.search);
+  params.set('channel', id);
+
+  const newUrl = `${window.location.pathname}?${params.toString()}`;
+  history.pushState(null, '', newUrl);
+}
 

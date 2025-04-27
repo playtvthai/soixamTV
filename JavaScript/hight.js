@@ -1,5 +1,5 @@
 
-console.log()
+
 function play() {
   fetch(`${GL_domain}json/tournament.json`)
     .then(response => {
@@ -9,7 +9,7 @@ function play() {
       return response.json(); // Chuyển dữ liệu phản hồi thành JSON
     })
     .then(data => {
-     console.log(generateGolfHTML(data))
+     /*console.log(generateGolfHTML(data))*/
     })
     .catch(error => {
       console.error("Lỗi khi gọi API:", error.message);

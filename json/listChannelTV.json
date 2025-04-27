@@ -1,0 +1,63 @@
+[
+{
+  "name":"Địa Phương",
+  "logo":"logo_G",
+  "stream":"TVLocal"
+},
+{
+  "name": "Kênh Thiết Yếu",
+  "logo": "logo_PL_THTY",
+  "stream": "TV_PL_THTY"
+},
+{
+  "name": "VTV & VTVCAB ON",
+  "logo": "logo_PL_VTV_VTVC",
+  "stream": "TV_PL_VTV_VTVC"
+},
+{
+  "name": "HTV & HTVCAB",
+  "logo": "logo_PL_HTV_HTVC",
+  "stream": "TV_PL_HTV_HTVC"
+},
+{
+  "name": "SCTV",
+  "logo": "logo_PL_SCTV",
+  "stream": "TV_PL_SCTV"
+},
+{
+  "name": "Kênh K+",
+  "logo": "logo_PL_Kplus",
+  "stream": "TV_PL_Kplus"
+},
+{
+  "name": "Kênh Quốc Tế",
+  "logo": "logo_PL_QToVN",
+  "stream": "TV_PL_QToVN"
+},
+{
+  "name": "Kênh Trẻ Em Quốc Tế",
+  "logo": "logo_g_kids",
+  "stream": "TV_g_kids"
+},
+{
+  "name": "Kênh Thể Thao Quốc Tế",
+  "logo": "logo_PL_QT_SPORT",
+  "stream": "TV_PL_QT_SPORT"
+},
+{
+  "name": "Sự Kiện ON SPORT",
+  "logo": "logo_e_onplus",
+  "stream": "TV_e_onplus"
+},
+{
+  "name": "Sự Kiện TV360",
+  "logo": "logo_PL_TV360",
+  "stream": "TV_PL_TV360"
+},
+{
+  "name": "Kênh Âm Nhạc",
+  "logo": "logo_PL_music",
+  "stream": "TV_PL_music"
+}
+  
+]

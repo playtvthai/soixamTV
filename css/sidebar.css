@@ -140,7 +140,8 @@ footer, header, hgroup, menu, nav, section {
     line-height: 50px;
     padding: 0 15px;
   }
-
+  
+/*
   #video .ifvideo {
     position: absolute;
     width: 100%;
@@ -158,10 +159,11 @@ footer, header, hgroup, menu, nav, section {
     height: calc(100vw * 9 / 16);
     border: 0;
   }
-
+*/
   .fix {
     width: 100%;
     position: fixed;
     top: 0;
     z-index: 1000;
   }
+  

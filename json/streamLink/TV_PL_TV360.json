@@ -1,7 +1,7 @@
 {
   "tv360plus1": {
     "name": "SK TV360 PLUS 1",
-    "streamLink": "https://sgchill.io.vn/tv/tv360.php?id=1",
+    "streamLink": "https://sgchill.io.vn/v1/tv360.php?id=1",
     "style": "iframe"
   },
   "tv360plus2": {

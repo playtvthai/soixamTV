@@ -18,6 +18,25 @@
   z-index: 4;
 }
 
+#video{
+  width: 100vw;
+  max-height: 100% ;
+  position: fixed;
+  top:50px;
+  background-color: #111331;
+  padding: 10px 0;
+  border-bottom: 2px solid #fff;
+}
+
+
+#video video, #player {
+  width: 90%;
+  border-radius: 5px;
+  border:1px solid #fff;
+  margin: 0 5%;
+  
+}
+
 .league-section {
   margin: 0 0 20px 10px;
 }
@@ -96,11 +115,16 @@
   min-height: calc(1rem * 1.3 * 2);
 }
 
+.container, #video-list{
+  padding: 10px 0 0 0;
+}
+
 /* ======================== */
 /*       MEDIA QUERIES      */
 /* ======================== */
 
 /* Viewport >= 592px: Tablet & Desktop */
+
 @media (min-width: 592px) {
   #content {
     display: flex;
@@ -113,21 +137,24 @@
   }
   
   #video-list {
-    margin: 0;
+    padding-top:10px;
     position: fixed;
     right: 0;
     overflow-y: auto;
-    padding: 20px 0 100px 0;
+    padding: 0px;
+  
   }
 }
 
-/* Viewport <= 992px: Mobile & small tablets */
+
 @media (max-width: 992px) {
   #content {
     margin-top: 50px;
   }
   
   .container {
-    margin: calc((100vw * 9 / 16) + 10vh) auto 0;
+    /*margin: calc((100vw * 9 / 16) + 10vh) auto 0;*/
+    margin:0;
   }
 }
+

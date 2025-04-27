@@ -8,7 +8,6 @@ fetch(menuJson)
     return response.json(); // Chuyển dữ liệu phản hồi thành JSON
   })
   .then(data => {
-   console.log(data);
    const menuHTML = data.map(num => 
     ` 
     <a data-aos="fade-up"
@@ -41,4 +40,3 @@ document.getElementById('menuIcon').addEventListener('click', function () {
 });
 
 
-console.log("hello")

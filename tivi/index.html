@@ -1,20 +1,23 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sói Xám TV</title>
-
+    
     <!-- CSS Libraries -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
-          integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
-          crossorigin="anonymous" referrerpolicy="no-referrer">
-    <link rel="stylesheet" href="../css/index.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    
     <link rel="stylesheet" href="../css/sidebar.css" type="text/css" media="all">
+    <link rel="stylesheet" href="../css/layout1.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="../css/tv.css" type="text/css" media="all" />
 </head>
-<body>
 
+<body>
+    
     <!-- Header -->
     <div class="fix">
         <div class="header">
@@ -22,56 +25,56 @@
                 <i class="fa-solid fa-bars"></i>
             </div>
         </div>
-
-        <!-- Video Section -->
-        <div id="video">
-            <video class="video-section" id="myVideo" 
-                   src="https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8" 
-                   poster="../wordspage/image/poster/TV_SHOW_20250120_172203_0000.png"
-                   muted loop autoplay controls>
-            </video>
-        </div>
+        
     </div>
-
+    <div id="video">
+        <video class="video-section" id="myVideo" src="https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8" poster="../wordspage/image/poster/TV_SHOW_20250120_172203_0000.png" muted loop autoplay controls>
+        </video>
+    </div>
     <!-- Sidebar & Logo Section -->
     <div class="sidebar" id="menu"></div>
-    <div id="channel" class="logo-section"></div>
-
+    <div id="video-list" class="container">
+        
+      <!--  <div class="video-item">
+            <div class="thumbnail-container">
+                <img src="https://imgvlive.vtvcab.vn/720X405/uefa-champions-league-magazine-2425-so-29-56f0c4fe-3f2e-46f1-b325-98cea2f54edd.jpg" alt="Marquinhos Cố Gắng Trở Lên Hoàn Hảo">
+                
+            </div>
+            <div class="video-title">Marquinhos Cố Gắng Trở Lên Hoàn Hảo</div>
+        </div>
+        
+        -->
+    </div>
     <!-- JavaScript Libraries -->
+   
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
   AOS.init();
 </script>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script>
-
-    <!-- Custom JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest" defer></script>
     <script src="../JavaScript/data.js" defer></script>
     <script src="../JavaScript/sidebar.js" defer></script>
     <script src="../JavaScript/logo.js"></script>
     <script src="../JavaScript/index.js" ></script>
     
-    <script>
-      
+ <script>
 window.addEventListener("DOMContentLoaded", () => {
-  const params = new URLSearchParams(window.location.search);
-  const dataValue = params.get('data');
+  const p = new URLSearchParams(location.search);
+  const g = p.get('groupChannel'), c = p.get('channel'), d  = p.get('groupLogo')
 
-  if (dataValue !== null) {
+  if (g) {
     if (typeof start === 'function') {
-      start(`logo_${dataValue}`, `TV_${dataValue}`);
+        
+      start(d,g);
+      play(c, g);
     } else {
       console.error("start() function not found");
     }
-  } if (false) {
-    const body = document.body;
-    if (body) {
-      body.innerHTML = '<h1>THIẾU THAM SỐ - missing parameter</h1>';
-    } else {
-      console.error("Không tìm thấy thẻ <body>");
-    }
+  } else {
+    document.body.innerHTML = '<h1>THIẾU THAM SỐ - missing parameter</h1>';
   }
 });
-    </script>
-
+</script>
 </body>
+
 </html>

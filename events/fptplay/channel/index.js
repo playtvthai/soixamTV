@@ -174,7 +174,7 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
             const hls = new Hls();
 
             hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                console.log((isVideo ? "Video" : "Audio") + " manifest loaded.");
+                /*console.log((isVideo ? "Video" : "Audio") + " manifest loaded.");*/
                 if (isVideo) {
                     videoManifestLoaded = true;
                 } else {
@@ -204,7 +204,7 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
         } else if (player.canPlayType('application/vnd.apple.mpegurl')) {
             player.src = src;
             player.addEventListener('loadedmetadata', function() {
-                console.log((isVideo ? "Video" : "Audio") + " loaded natively.");
+               /* console.log((isVideo ? "Video" : "Audio") + " loaded natively.");*/
                 if (isVideo) {
                     videoManifestLoaded = true;
                 } else {
@@ -279,7 +279,6 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
 
 
 function fpt(idStream) {
-  console.log(idStream)
   fetch(`${GL_domain}json/streamLink/TV_e_fptplay.json`)
     .then(response => {
       if (!response.ok) {
@@ -288,7 +287,6 @@ function fpt(idStream) {
       return response.json(); // Chuyển dữ liệu phản hồi thành JSON
     })
     .then(data => {
-      console.log(data[idStream])
      hls_multi(
       data[idStream].streamLink,
       typeof data[idStream].audio  !== 'undefined' ? data[idStream].audio : "",

@@ -53,11 +53,10 @@ function innerPoster(videos) {
 
 
 function stream(videoName, time, status, channel_id) { 
-  console.log(status)
   
   if (status == "live"){
      if(videoName != ""){
-       console.log(videoName.split('/')[4].replace(/^OS_/, ''))
+       /*console.log(videoName.split('/')[4].replace(/^OS_/, ''))*/
        const video = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAw/v2_index.m3u8`
        const audio = `https://livecdn.onsports.vn/onplus/${videoName.split('/')[4].replace(/^OS_/, '')}/sc-gaFEAw/a0_index.m3u8`
        hls_multi(
@@ -146,7 +145,7 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
             const hls = new Hls();
 
             hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                console.log((isVideo ? "Video" : "Audio") + " manifest loaded.");
+                /*console.log((isVideo ? "Video" : "Audio") + " manifest loaded.");*/
                 if (isVideo) {
                     videoManifestLoaded = true;
                 } else {
@@ -176,7 +175,7 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
         } else if (player.canPlayType('application/vnd.apple.mpegurl')) {
             player.src = src;
             player.addEventListener('loadedmetadata', function() {
-                console.log((isVideo ? "Video" : "Audio") + " loaded natively.");
+                /*console.log((isVideo ? "Video" : "Audio") + " loaded natively.");*/
                 if (isVideo) {
                     videoManifestLoaded = true;
                 } else {
