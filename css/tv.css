@@ -121,7 +121,7 @@ a {
   #video ,
   #video-list {
     width: 50vw;
-    
+    height: calc(100vh - 120px);
   }
   
   #video-list {
