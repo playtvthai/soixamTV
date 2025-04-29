@@ -37,10 +37,10 @@
   
 }
 
+
 #video-list{
   margin-top: calc((100vw * 9 / 16) + 80px) ;
   }
-
 
 
 .league-section {
@@ -149,6 +149,7 @@
     position: fixed;
     right: 0;
     overflow-y: auto;
+    margin:0;
     padding: 20px 0 100px 0;
   
   }
@@ -166,3 +167,8 @@
   }
 }
 
+
+
+#video {
+  background-color: unset;
+}

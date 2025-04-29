@@ -114,12 +114,7 @@
     "streamLink": "https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist.m3u8",
     "style": "m3u8"
   },
-  "tphue": {
-    "name": "Đài PTTH TP Hue",
-    "streamLink": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
-    "style": "m3u8"
-  },
-   "hanam": {
+  "hanam": {
     "name": "Đài PTTH Hà Nam",
     "streamLink": "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8",
     "style": "m3u8"
