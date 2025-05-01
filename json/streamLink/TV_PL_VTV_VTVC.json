@@ -2,55 +2,55 @@
   
   "vtvcantho": {
     "name": "VTV Cần Thơ",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv1": {
     "name": "VTV1",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv2": {
     "name": "VTV2",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv3": {
     "name": "VTV3",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv4": {
     "name": "VTV4",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv5": {
     "name": "VTV5",
-    "streamLink": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv5tnb": {
     "name": "VTV5 Tây Nam Bộ",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv5taynguyen": {
     "name": "VTV5 Tây Nguyên",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },
   "vtv7": {
     "name": "VTV7",
-    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8",
+    "streamLink": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
   },

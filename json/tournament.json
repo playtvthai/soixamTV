@@ -147,6 +147,12 @@
     "name": "Eredivisie",
     "logo": "https://stvinaprod.vtvcab.vn/3e91ddbf-7eae-46aa-bc63-dd086e471a81.png",
     "league_id": "eb99eced-16b3-4f14-bef6-83869ad48885"
+  },
+  {
+    "id": "b66bcc04-5ccd-4757-8e6f-2d3977627a55",
+    "name": "Liga Profesional de Fútbol",
+    "logo": "https://stvinaprod.vtvcab.vn/cb079e7a-206f-4af3-b8b0-2c9d8d2f6822.png",
+    "league_id": "51a840c0-9083-46aa-8bc9-5f28eb6a0396"
   }
 ]
   },
@@ -208,11 +214,23 @@
     "id": "",
     "nameGroup": "VOLLEYBALL",
     "ttournament": [
-      {
+        {
           "id": "af179415-9af3-47c5-a767-811be8094d9c",
           "name": "VOLLEYBALL NATIONS LEAGUE",
           "logo": "https://stvinaprod.vtvcab.vn/1adfd60d-c4c1-46fb-bf87-90b36e22430f.png",
           "league_id": "eac7d489-7c57-4dfb-87eb-fc7a4ee07583"
+        }
+    ]
+  },
+  {
+    "id": "",
+    "nameGroup": "Basketball",
+    "ttournament": [
+        {
+          "id": "64dcd606-8194-478e-b592-f7518bd6e777",
+          "name": "HBC",
+          "logo": "https://stvinaprod.vtvcab.vn/StockDesignOnTV/Logo%20gi%E1%BA%A3i%20%20Badminton/BWF%20SUDIRMAN%20CUP%202021.png",
+          "league_id": "b689bd93-f0e1-41ce-af60-87078ff1f848"
         }
     ]
   }

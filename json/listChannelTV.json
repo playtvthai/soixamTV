@@ -25,11 +25,6 @@
   "stream": "TV_PL_SCTV"
 },
 {
-  "name": "Kênh K+",
-  "logo": "logo_PL_Kplus",
-  "stream": "TV_PL_Kplus"
-},
-{
   "name": "Kênh Quốc Tế",
   "logo": "logo_PL_QToVN",
   "stream": "TV_PL_QToVN"
@@ -43,11 +38,6 @@
   "name": "Kênh Thể Thao Quốc Tế",
   "logo": "logo_PL_QT_SPORT",
   "stream": "TV_PL_QT_SPORT"
-},
-{
-  "name": "Sự Kiện ON SPORT",
-  "logo": "logo_e_onplus",
-  "stream": "TV_e_onplus"
 },
 {
   "name": "Sự Kiện TV360",
