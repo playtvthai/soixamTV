@@ -30,6 +30,11 @@
   "stream": "TV_PL_QToVN"
 },
 {
+  "name": "Kênh truyền hình Nga",
+  "logo": "logo_NN_RU",
+  "stream": "TV_NN_RU"
+},
+{
   "name": "Kênh Trẻ Em Quốc Tế",
   "logo": "logo_g_kids",
   "stream": "TV_g_kids"

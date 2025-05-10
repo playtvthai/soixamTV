@@ -68,115 +68,115 @@
   },
   "vtvconsportplus": {
     "name": "VTVC ON SPORT PLUS",
-    "streamLink": "https://livecdn.onsports.vn/onplus/HAY_TV/sc-gaFEQQ/v3_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click",
     "audio": "https://livecdn.onsports.vn/onplus/HAY_TV/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvcfootball": {
     "name": "VTVC FOOTBALL",
-    "streamLink": "https://livecdn.onsports.vn/onplus/BONGDA_HD/sc-gaFEQQ/v3_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click",
     "audio": "https://livecdn.onsports.vn/onplus/BONGDA_HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvconsportnews": {
     "name": "VTVC ON SPORT NEWS",
-    "streamLink": "https://livecdn.onsports.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/v2_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click",
     "audio": "https://livecdn.onsports.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvconsport": {
     "name": "VTVC ON SPORT",
-    "streamLink": "https://livecdn.onsports.vn/onplus/THETHAO_HD/sc-gaFEQQ/v2_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click",
     "audio": "https://livecdn.onsports.vn/onplus/THETHAO_HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvcongolf": {
     "name": "VTVC ON GOLF",
-    "streamLink": "https://livecdn.onsports.vn/onplus/THETHAO_GOLF_HD/sc-gaFEQQ/v3_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "https://livecdn.onsports.vn/onplus/THETHAO_GOLF_HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "vlc"
   },
   "vtvconphimviet": {
     "name": "VTVC ON PHIM VIỆT",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-phim-viet",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvcmovies": {
     "name": "VTVC ON MOVIES",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-movies",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconechanel": {
     "name": "VTVC ON E CHANEL",
-    "streamLink": "https://livecdn.onsports.vn/onplus/E_CHANNEL/sc-gaFEQQ/v3_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "https://livecdn.onsports.vn/onplus/E_CHANNEL/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvcondrama": {
     "name": "VTVC ON DRAMAS",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-vie-dramas",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconviegt": {
     "name": "VTVC ON VIE GIẢI TRÍ",
-    "streamLink": "https://livecdn.onsports.vn/onplus/GIAITRI_TV_HD/sc-gaFEQQ/v2_index.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "https://livecdn.onsports.vn/onplus/GIAITRI_TV_HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+    "style": "iframe"
   },
   "vtvconstyle": {
     "name": "VTVC ON STYLE",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-style",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconkids": {
     "name": "VTVC ON KIDS",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-kids",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
-    "style": "iframe"
+    "style": "vlc"
   },
   "vtvconbibi": {
     "name": "VTVC ON BIBI",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-bibi",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconinfo": {
     "name": "VTVC ON INFO",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-info",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvcono2tv": {
     "name": "VTVC ON O2TV",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-o2tv",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconlife": {
     "name": "VTVC ON LIFE",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-life",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvconmusic": {
     "name": "VTVC ON MUSIC",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-music",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },
   "vtvcfamily": {
     "name": "VTVC ON FAMILY",
-    "streamLink": "",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
-    "style": ""
+    "style": "iframe"
   },
   "vtvcontreanding": {
     "name": "VTVC ON TREANDING",
-    "streamLink": "https://202x.io.vn/tv/vclip/?id=on-trending",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8",
     "audio": "",
     "style": "iframe"
   },

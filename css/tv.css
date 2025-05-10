@@ -9,15 +9,29 @@
 }
 
 
-#video video, #player {
+#video video,#video >a, .ifvideo {
   width: 90%;
+  height: calc((100vw * 9 / 16) - 10px) ;
   border-radius: 5px;
   border:1px solid #fff;
   margin: 0 5%;
   
 }
 
-
+#video > a {
+  display: flex;
+  text-decoration: none;
+  color: #fff;
+  background-color: #264D59;
+  border-radius: 8px;
+  align-items: center;        /* Căn giữa theo chiều dọc */
+  justify-content: center;    /* Căn giữa theo chiều ngang */
+  font-size: 1.3rem;
+  font-weight: 700;
+  overflow-wrap: break-word;
+  padding: 0 10px;
+  text-align: center;
+}
 
 a {
   display: block;

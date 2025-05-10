@@ -1,0 +1,8 @@
+{
+  "channel1": {
+    "id": "channel1",
+    "name": "Channel One",
+    "streamLink": "https://onechannel.siliconweb.com/one/live_abr/one/stream/chunks_dvr.m3u8",
+    "style": "m3u8"
+  }
+}

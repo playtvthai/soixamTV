@@ -20,8 +20,8 @@ function play(idStream, tag) {
       if (data[idStream].style == "hls_multi") {
         hls_creat_multi(data[idStream].streamLink,data[idStream].audio )
       }
-      if (data[idStream].style == "vjs_multi") {
-        vjs_multi(data[idStream].streamLink)
+      if (data[idStream].style == "vlc") {
+        onVLC(data[idStream].streamLink)
       }
       
       
@@ -79,6 +79,14 @@ hls_multi(
      "myAudio"
     );
 }
+
+function onVLC(url) {
+      const idHTML = document.getElementById("video")
+  idHTML.innerHTML = `
+        <a class="video-section" href="vlc://${url}">Click vào đây để xem kênh  bằng vlc</a>
+        `;
+}
+
 
 
 function hls(videoSrc) {
