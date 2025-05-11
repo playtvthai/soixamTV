@@ -1,4 +1,16 @@
-[
+[  
+  {
+    "id": "Ksport1",
+    "name": "K+ Sport 1",
+    "logo": "https://i.imgur.com/6yiAtRg.png",
+    "nation": ""
+  },
+  {
+    "id": "Ksport2",
+    "name": "K+ Sport 2",
+    "logo": "https://i.imgur.com/EFeyqYX.png",
+    "nation": ""
+  },
   {
     "id": "KCine",
     "name": "K+ Cine",

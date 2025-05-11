@@ -5,6 +5,24 @@
     "name": "Channel One",
     "logo": "https://onechannel.gr/wp-content/themes/action24/assets/onechannel_logo.svg",
     "nation": "Rusia"
-  }
+  },
+  {
+  "id": "russia1",
+  "name": "Rusia 1",
+  "logo": "https://vgtrk.ru/i/logo-russia-one.svg",
+  "nation": "Rusia"
+},
+{
+  "id": "russia24",
+  "name": "Rusia 24",
+  "logo": "https://vgtrk.ru/i/logo-russia-24.svg",
+  "nation": "Rusia"
+},
+{
+  "id": "russiaK",
+  "name": "Rusia K",
+  "logo": "https://vgtrk.ru/i/logo-russia-k.svg",
+  "nation": "Rusia"
+}
   
 ]

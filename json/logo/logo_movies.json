@@ -1,0 +1,22 @@
+
+[
+  {
+    "id": "TVBvi",
+    "name": "TVB Việt Nam",
+    "logo": "https://yt3.googleusercontent.com/RekLA_1tI7hh8bmDTqx3FYrIYDcewysyz_mvqmulzD2sgOpFnafO_Vh_BzdSQipeG0Paqton2g=s900-c-k-c0x00ffffff-no-rj",
+    "nation": "Vietnam"
+  },
+  {
+  "id": "TV360MeKong",
+  "name": "Mekong",
+  "logo": "https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png",
+  "nation": "Vietnam"
+},
+{
+  "id": "TV360PhimAuMy",
+  "name": "Phim Âu Mỹ",
+  "logo": "https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",
+  "nation": "Vietnam"
+}
+]
+

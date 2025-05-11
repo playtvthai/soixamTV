@@ -25,6 +25,16 @@
   "stream": "TV_PL_SCTV"
 },
 {
+  "name": "Kênh K+",
+  "logo": "logo_PL_Kplus",
+  "stream": "TV_PL_Kplus"
+},
+{
+  "name": "Kênh Phim",
+  "logo": "logo_movies",
+  "stream": "TV_movies"
+},
+{
   "name": "Kênh Quốc Tế",
   "logo": "logo_PL_QToVN",
   "stream": "TV_PL_QToVN"
