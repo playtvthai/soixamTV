@@ -1,2 +1,2 @@
-var GL_domain = "/soixamTV/";
+var GL_domain = "/";
 

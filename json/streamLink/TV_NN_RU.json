@@ -5,20 +5,20 @@
     "streamLink": "https://onechannel.siliconweb.com/one/live_abr/one/stream/chunks_dvr.m3u8",
     "style": "m3u8"
   },
-  "rusia1": {
-  "id": "rusia1",
+  "russia1": {
+  "id": "russia1",
   "name": "Russia 1",
   "streamLink": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8",
   "style": "iframe"
 },
-"rusia24": {
-  "id": "rusia24",
+"russia24": {
+  "id": "russia24",
   "name": "Russia 24",
   "streamLink": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/rus_subs.m3u8",
   "style": "iframe"
 },
-"rusiaK": {
-  "id": "rusiaK",
+"russiaK": {
+  "id": "russiaK",
   "name": "Russia K",
   "streamLink": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
   "style": "iframe"
