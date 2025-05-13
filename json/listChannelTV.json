@@ -30,6 +30,11 @@
   "stream": "TV_PL_Kplus"
 },
 {
+  "name": "Kênh HBO",
+  "logo": "logo_QT_HBO",
+  "stream": "TV_QT_HBO"
+},
+{
   "name": "Kênh Phim",
   "logo": "logo_movies",
   "stream": "TV_movies"

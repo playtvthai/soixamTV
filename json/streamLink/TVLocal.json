@@ -1,8 +1,9 @@
 {
   "angiang": {
     "name": "Đài PTTH An Giang",
-    "streamLink": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8",
-    "style": "m3u8"
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+    "key":{ "rLTCNHEGMyetxzLig8CEfw": "6YaPX0c9D9hpnt5I1THCsA"},
+    "style": "key"
   },
   "baclieu": {
     "name": "Đài PTTH Bạc Liêu",

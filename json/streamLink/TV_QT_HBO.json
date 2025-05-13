@@ -1,0 +1,147 @@
+{
+  "hboVi": {
+    "name": "HBO Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "PeDzjc8BSCff1b7Dh0PGog",
+          "kid": "Cd3+PWOGPK+ut50FRrCYqw"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "cinemaxVi": {
+    "name": "Cinemax HD Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "6YaPX0c9D9hpnt5I1THCsA",
+          "kid": "rLTCNHEGMyetxzLig8CEfw"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "cinemaworldVi": {
+    "name": "Cinema World Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "s14Sp1pCpvkYRyOpD/QtnA",
+          "kid": "7nkVVk10OdCb01Vv/MyHpA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "cartoonnetworkVi": {
+    "name": "Cartoon Network HD Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "PMGt1Drszj/jHJxqKluMIQ",
+          "kid": "PCAWZmCpOnWsd9uBVnOJ9w"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "babytvVi": {
+    "name": "BabyTV Tiếng Việt",
+    "streamLink": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/65780",
+    "style": "none"
+  },
+  "dreamworksVi": {
+    "name": "Dreamworks Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "WTKPYh1WdnvF/5QEqJQGgw",
+          "kid": "Z9riBSfGPa2qrmCaqRV3yw"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "cbeebiesVi": {
+    "name": "BBC Cbeebies Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "uDPR9AwmHveIlvl+BvgM3A",
+          "kid": "zKc6AGtLOaWVIHzrXtnKCg"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "arirangVi": {
+    "name": "Arirang Tiếng Việt",
+    "streamLink": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
+    "style": "none"
+  },
+  "discoveryVi": {
+    "name": "Discovery Tiếng Việt",
+    "streamLink": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "vqWgcVfgxNF7Eas5lRf5Ug",
+          "kid": "60Fg6lU6Mh2JlVPk55b+wg"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "dmaxVi": {
+    "name": "DMAX Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "DGTM+5eOc5C9MzRAdUkq7A",
+          "kid": "U7JvkErgOiC1ZHfPucXcog"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "warnertvVi": {
+    "name": "Warner TV Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "NPGQjP4uBe4GAEbUDxSuyQ",
+          "kid": "CG0JpAv/OgCqbdTbr5wTsg"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  }
+}

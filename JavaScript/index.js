@@ -23,6 +23,9 @@ function play(idStream, tag) {
       if (data[idStream].style == "vlc") {
         onVLC(data[idStream].streamLink)
       }
+      if (data[idStream].style == "key") {
+        clearkey(data[idStream].streamLink,data[idStream].key )
+      }
       
       
     })
@@ -37,6 +40,40 @@ function play(idStream, tag) {
 
 
 ///////////
+
+
+
+
+function clearkey(url, key) {
+  const idHTML = document.getElementById("video")
+  idHTML.innerHTML = `
+      <video src="${GL_domain}wordspage/video/cho.mp4"  class="video-section" id="myVideo"  poster="${GL_domain}wordspage/image/poster/TV SHOW_20250120_172203_0000.png"   loop autoplay controls
+    </video>`;
+  
+     const manifestUri = url;
+     const clearkey = key
+     playShakaStream(manifestUri, clearkey,"myVideo");
+   
+  
+  //playShakaStream(url, key, "myVideo");
+/*  const clearkey = {
+  "keys": [
+    {
+      "kty": "oct",
+      "k": "WTKPYh1WdnvF/5QEqJQGgw",
+      "kid": "Z9riBSfGPa2qrmCaqRV3yw"
+    }
+  ],
+  "type": "temporary"
+};
+
+playShakaStream(
+  'https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd',
+  clearkey,
+  'myVideo'
+);*/
+}
+
 
 
 function iframe(linkStream) {
@@ -88,6 +125,84 @@ function onVLC(url) {
 }
 
 
+/*
+function playShakaStream(manifestUri, clearkey, id) {
+  if (!shaka.Player.isBrowserSupported()) {
+    alert('Trình duyệt không hỗ trợ Shaka Player!');
+    return;
+  }
+  
+  const video = document.getElementById(id);
+  const player = new shaka.Player(video);
+  
+  player.configure({
+    drm: {
+      clearKeys: clearkey
+    }
+  });
+  
+  player.load(manifestUri)
+    .then(() => {
+      console.log('Phát thành công!');
+    })
+    .catch(e => {
+      alert()
+      console.error('Lỗi phát:', e);
+    });
+    
+  
+    video.play();
+    video.autoplay = true
+    video.muted = false
+}
+*/
+function base64ToBase64Url(b64) {
+  return b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+
+function convertJWKS(jwks) {
+  const result = {};
+  jwks.keys.forEach(key => {
+    result[base64ToBase64Url(key.kid)] = base64ToBase64Url(key.k);
+  });
+  return result;
+}
+
+function playShakaStream(url, jwks, id) {
+  if (!shaka.Player.isBrowserSupported()) {
+    alert('Trình duyệt không hỗ trợ Shaka Player!');
+    return;
+  }
+
+  const video = document.getElementById(id);
+  const player = new shaka.Player(video);
+
+  const clearKeyMap = convertJWKS(jwks);
+
+  player.configure({
+    drm: {
+      clearKeys: clearKeyMap
+    }
+  });
+
+  player.load(url).then(() => {
+    console.log('Phát thành công!');
+    video.autoplay = true;
+    video.muted = false;
+    video.play();
+  }).catch(error => {
+    console.error('Lỗi phát:', error);
+    alert(`Lỗi phát: ${error.code}`);
+  });
+  
+  
+    video.play();
+    video.autoplay = true
+    video.muted = false
+}
+
+
+
 
 function hls(videoSrc) {
   const video = document.getElementById('myVideo');
@@ -106,7 +221,7 @@ function hls(videoSrc) {
     video.src = videoSrc;
     video.play();
     video.autoplay = true
-    video.muted = true
+    video.muted = false
   }
 }
 
