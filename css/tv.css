@@ -13,7 +13,6 @@
   width: 90%;
   height: auto;
   border-radius: 10px;
-  border:1px solid #fff;
   margin: 0 5%;
 }
 
@@ -167,6 +166,10 @@ a {
   
   .container {
     margin: calc((100vw * 9 / 16) + 10vh) auto 0;
+  }
+}
+
+) + 10vh) auto 0;
   }
 }
 
