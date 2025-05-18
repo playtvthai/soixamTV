@@ -1,0 +1,32 @@
+{
+  "htv1": {
+    "name": "HTV1",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  },
+  "htv2": {
+    "name": "HTV2",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  },
+  "htv3": {
+    "name": "HTV3",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  },
+  "htv4": {
+    "name": "HTV4",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  },
+  "htv7": {
+    "name": "HTV7",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv7hd_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  },
+  "htv9": {
+    "name": "HTV9",
+    "streamLink": "https://live.fptplay53.net/epzhd1/htv9hd_hls.smil/chunklist.m3u8",
+    "style": "m3u8"
+  }
+}

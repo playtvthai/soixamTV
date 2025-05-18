@@ -10,14 +10,24 @@
   "stream": "TV_PL_THTY"
 },
 {
-  "name": "VTV & VTVCAB ON",
-  "logo": "logo_PL_VTV_VTVC",
-  "stream": "TV_PL_VTV_VTVC"
+  "name": "Kênh VTV",
+  "logo": "logo_PL_VTV",
+  "stream": "TV_PL_VTV"
 },
 {
-  "name": "HTV & HTVCAB",
-  "logo": "logo_PL_HTV_HTVC",
-  "stream": "TV_PL_HTV_HTVC"
+  "name": "Kênh VTVCAB ON",
+  "logo": "logo_PL_VTVC",
+  "stream": "TV_PL_VTVC"
+},
+{
+  "name": "Kênh HTV",
+  "logo": "logo_PL_HTV",
+  "stream": "TV_PL_HTV"
+},
+{
+  "name": "Kênh HTV Cáp",
+  "logo": "logo_PL_HTVC",
+  "stream": "TV_PL_HTVC"
 },
 {
   "name": "SCTV",
@@ -28,11 +38,6 @@
   "name": "Kênh K+",
   "logo": "logo_PL_Kplus",
   "stream": "TV_PL_Kplus"
-},
-{
-  "name": "Kênh HBO",
-  "logo": "logo_QT_HBO",
-  "stream": "TV_QT_HBO"
 },
 {
   "name": "Kênh Phim",

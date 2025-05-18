@@ -1,5 +1,59 @@
 [
   {
+    "id": "hboVi",
+    "name": "HBO Tiếng Việt",
+    "logo": "https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "cinemaxVi",
+    "name": "Cinemax HD Tiếng Việt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "cinemaworldVi",
+    "name": "Cinema World Tiếng Việt",
+    "logo": "https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "cartoonnetworkVi",
+    "name": "Cartoon Network HD Tiếng Việt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+    "nation": "vietnam"
+  },
+  {
+    "id": "dreamworksVi",
+    "name": "Dreamworks Tiếng Việt",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg",
+    "nation": "vietnam"
+  },
+  {
+    "id": "cbeebiesVi",
+    "name": "BBC Cbeebies Tiếng Việt",
+    "logo": "https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "discoveryVi",
+    "name": "Discovery Tiếng Việt",
+    "logo": "https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "dmaxVi",
+    "name": "DMAX Tiếng Việt",
+    "logo": "https://i.imgur.com/vHmt91V.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "warnertvVi",
+    "name": "Warner TV Tiếng Việt",
+    "logo": "https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",
+    "nation": "vietnam"
+  },
+  {
     "id": "Asian_Food_Channel",
     "name": "Asian Food Channel",
     "logo": "https://i.imgur.com/hnKYaz4.png",

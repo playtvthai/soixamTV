@@ -15,17 +15,9 @@
   border-radius: 10px;
   border:1px solid #fff;
   margin: 0 5%;
-  animation: borderColorAnimation 2s linear infinite;
 }
 
 
-@keyframes borderColorAnimation {
-  0% { border-color: #00f0ff; }
-  25% { border-color: #8a00ff; }
-  50% { border-color: #ff00c8; }
-  75% { border-color: #ff9900; }
-  100% { border-color: #00f0ff; }
-}
 
 
 
