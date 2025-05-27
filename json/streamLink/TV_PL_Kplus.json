@@ -4,28 +4,34 @@
     "name": "K+ KSports1",
     "streamLink": "https://byvn.net/Nv2r",
     "audio": "https://livecdn.onsports.vn/onplus/K_CINE_7777/sc-gaFEQQ/a0_index.m3u8",
-    "style":"iframe"
+    "style":""
   },
   "KSports2": {
     "name": "K+ KSports2",
-    "streamLink": "https://sb-5.restream.su/preview/20131/6d9095f9-6e40-4407-b0ca-308722f95c6f/live.m3u8",
+    "streamLink": "https://wbd.x10.bz/tvmp?id=13",
     "audio": "https://livecdn.onsports.vn/onplus/K_CINE_7777/sc-gaFEQQ/a0_index.m3u8",
-    "style":"m3u8"
+    "style":""
   },
   "KCine": {
     "name": "K+ Cine",
-    "streamLink": "https://wbd.x10.bz/tvmp?id=16",
+    "streamLink": "https://byvn.net/Nv2r",
     "audio": "https://livecdn.onsports.vn/onplus/K_CINE_7777/sc-gaFEQQ/a0_index.m3u8",
-    "style":"iframe"
+    "style":"vlc"
   },
 "KAction": {
   "name": "K+ Action",
   "streamLink": "https://wbd.x10.bz/tvmp?id=14",
   "audio": "https://livecdn.onsports.vn/onplus/K_LIFE_7777/sc-gaFEQQ/a2_index.m3u8",
-  "style": "iframe"
+  "style": "vlc"
 },
 "KKids": {
   "name": "K+ Kids",
+  "streamLink": "https://byvn.net/SY2F",
+  "style": "vlc" 
+}
+  
+}
+": "K+ Kids",
   "streamLink": "https://wbd.x10.bz/tvmp?id=15",
   "style": "iframe" 
 }
