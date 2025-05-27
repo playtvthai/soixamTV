@@ -120,7 +120,7 @@ hls_multi(
 function onVLC(url) {
       const idHTML = document.getElementById("video")
   idHTML.innerHTML = `
-        <a class="video-section" href="vlc://${url}">Click vào đây để xem kênh  bằng vlc</a>
+        <a class="video-section" tagret="_bank"  href="${url}">Click vào đây để xem</a>
         `;
 }
 
