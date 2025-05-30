@@ -1,32 +1,33 @@
+
 {
   "tv360plus1": {
     "name": "SK TV360 PLUS 1",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus2": {
     "name": "SK TV360 PLUS 2",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus3": {
     "name": "SK TV360 PLUS 3",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus4": {
     "name": "SK TV360 PLUS 4",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus5": {
     "name": "SK TV360 PLUS 5",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus6": {
     "name": "SK TV360 PLUS 6",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus7": {
@@ -36,12 +37,12 @@
   },
   "tv360plus8": {
     "name": "SK TV360 PLUS 8",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "tv360plus9": {
     "name": "SK TV360 PLUS 9",
-    "streamLink": "https://xem.TruyenHinh.Click/coban2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   }
 }
