@@ -405,6 +405,12 @@
     "name": "FPT Thể thao 26",
     "streamLink": "https://live.fptplay53.net/fnxsport/thethao23_vhls.smil/chunklist.m3u8",
     "style": "m3u8"
+  },
+  "fptThethao144": {
+    "id": "fptThethao144",
+    "name": "FPT Thể thao 144",
+    "streamLink": "https://live.fptplay53.net/fnxsport/thethao144_vhls.smil/chunklist.m3u8",
+    "style": "m3u8"
   }
 }
 
