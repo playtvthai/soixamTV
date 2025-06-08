@@ -45,6 +45,11 @@
   "stream": "TV_movies"
 },
 {
+  "name": "In The BOX",
+  "logo": "logo_inTheBox",
+  "stream": "TV_inTheBox"
+},
+{
   "name": "Kênh Quốc Tế",
   "logo": "logo_PL_QToVN",
   "stream": "TV_PL_QToVN"

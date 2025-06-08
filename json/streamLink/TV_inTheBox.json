@@ -1,47 +1,47 @@
 {
   "boxhits": {
     "name": "Box Hits",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/239/index.m3u8",
     "style": "iframe"
   },
   "boxmovie1hd": {
     "name": "Box Movie 1 HD",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/159/index.m3u8",
     "style": "iframe"
   },
   "hollywoodclassichd": {
     "name": "Hollywood Classic HD",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/160/index.m3u8",
     "style": "iframe"
   },
   "inthebox": {
     "name": "In The Box",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/235/index.m3u8",
     "style": "iframe"
   },
   "happykidshd": {
     "name": "Happy Kids HD",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "womanhd": {
     "name": "Woman HD",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   },
   "man": {
     "name": "Man",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/237/index.m3u8",
     "style": "iframe"
   },
   "musicbox": {
     "name": "Music Box",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://sgchill.io.vn/360/289/index.m3u8",
     "style": "iframe"
   },
   "historyhd": {
     "name": "History HD",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh",
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8",
     "style": "iframe"
   }
 }

@@ -1,33 +1,33 @@
 {
 "vtvconsportplus": {
   "name": "VTVC ON SPORT PLUS",
-  "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click",
+  "streamLink": "https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus",
   "audio": "https://livecdn.onsports.vn/onplus/HAY_TV/sc-gaFEQQ/a0_index.m3u8",
-  "style": "iframe"
+  "style": "m3u8"
 },
 "vtvcfootball": {
   "name": "VTVC FOOTBALL",
-  "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click",
+  "streamLink": "https://freem3u.xyz/api/live/play.m3u8?oid=onfootball",
   "audio": "https://livecdn.onsports.vn/onplus/BONGDA_HD/sc-gaFEQQ/a0_index.m3u8",
-  "style": "iframe"
+  "style": "m3u8"
 },
 "vtvconsportnews": {
   "name": "VTVC ON SPORT NEWS",
-  "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click",
+  "streamLink": "https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews",
   "audio": "https://livecdn.onsports.vn/onplus/THETHAO_TINTUC_HD/sc-gaFEQQ/a0_index.m3u8",
-  "style": "iframe"
+  "style": "m3u8"
 },
 "vtvconsport": {
   "name": "VTVC ON SPORT",
-  "streamLink": "https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click",
+  "streamLink": "https://freem3u.xyz/api/live/play.m3u8?oid=onsports",
   "audio": "https://livecdn.onsports.vn/onplus/THETHAO_HD/sc-gaFEQQ/a0_index.m3u8",
-  "style": "iframe"
+  "style": "m3u8"
 },
 "vtvcongolf": {
   "name": "VTVC ON GOLF",
   "streamLink": "https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8",
   "audio": "https://livecdn.onsports.vn/onplus/THETHAO_GOLF_HD/sc-gaFEQQ/a0_index.m3u8",
-  "style": "vlc"
+  "style": "iframe"
 },
 "vtvconphimviet": {
   "name": "VTVC ON PHIM VIỆT",
@@ -69,7 +69,7 @@
   "name": "VTVC ON KIDS",
   "streamLink": "https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8",
   "audio": "",
-  "style": "vlc"
+  "style": "iframe"
 },
 "vtvconbibi": {
   "name": "VTVC ON BIBI",

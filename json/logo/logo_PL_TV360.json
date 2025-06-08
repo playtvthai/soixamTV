@@ -1,4 +1,10 @@
 [
+   {
+        "id": "tv360live",
+        "name": "TV360 Live",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/08/13/13/1723531106804/97595285eba7_180_180.png",
+         "nation": "vietnam"
+    },
     {
         "id": "tv360plus1",
         "name": "TV360 1",

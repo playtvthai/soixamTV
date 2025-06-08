@@ -2,55 +2,55 @@
   {
     "id": "ClubbingTV",
     "name": "Clubbing TV",
-    "logo": "http://img.zaltv.gq/logo/clubbingtv.webp",
+    "logo": "https://img.zaltv.gq/logo/clubbingtv.webp",
     "nation": ""
   },
   {
     "id": "M2OTV",
     "name": "M2O TV",
-    "logo": "http://img.zaltv.gq/logo/m2o.webp",
+    "logo": "https://img.zaltv.gq/logo/m2o.webp",
     "nation": ""
   },
   {
     "id": "StingrayClassica",
     "name": "Stingray Classica",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingrayHitList",
     "name": "Stingray Hit List",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingrayRockAlternative",
     "name": "Stingray Rock Alternative",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingrayRomancesLatino",
     "name": "Stingray Romance Latino",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingraySmoothJazz",
     "name": "Stingray Smooth Jazz",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingrayTodayisKPop",
     "name": "Stingray Today's K-Pop",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   },
   {
     "id": "StingrayTodayisLatinPop",
     "name": "Stingray Today's Latin Pop",
-    "logo": "http://img.zaltv.gq/logo/stingray-music.webp",
+    "logo": "https://img.zaltv.gq/logo/stingray-music.webp",
     "nation": ""
   }
 ]
