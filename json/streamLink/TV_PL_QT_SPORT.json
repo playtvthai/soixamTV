@@ -35,21 +35,6 @@
     "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.ts.m3u8",
     "style": "m3u8"
   },
-  "skysportsf1uk": {
-    "name": "UK: SKY SPORTS F1",
-    "streamLink": "https://stream1.freetv.fun/skysports-9.ctv",
-    "style": "m3u8"
-  },
-  "skysportsgolfuk": {
-    "name": "UK: SKY SPORTS Golf",
-    "streamLink": "https://stream1.freetv.fun/skysports-4.ctv",
-    "style": "m3u8"
-  },
-  "skysportsnewsuk": {
-    "name": "UK: Sky Sports News",
-    "streamLink": "https://stream1.freetv.fun/skysports-3.ctv",
-    "style": "m3u8"
-  },
   "skysportsarenauk": {
     "name": "UK: SKY SPORTS Arena",
     "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_ARENA/tracks-v1a1/mono.ts.m3u8",
