@@ -31,7 +31,73 @@
   },
   "v2beat": {
     "name": "V2BEAT HD",
-    "streamLink": "http://de1se01.v2beat.live/playlist.m3u8",
+    "streamLink": "https://de1se01.v2beat.live/playlist.m3u8",
+    "style": "m3u8"
+  },
+  
+  "USBD300011KQ": {
+    "name": "Vevo '70s",
+    "streamLink": "https://jmp2.uk/sam-USBD300011KQ.m3u8",
+    "style": "m3u8"
+  },
+  "USBD300012YC": {
+    "name": "Vevo '80s",
+    "streamLink": "https://jmp2.uk/sam-USBD300012YC.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3000133M": {
+    "name": "Vevo '90s",
+    "streamLink": "https://jmp2.uk/sam-USBD3000133M.m3u8",
+    "style": "m3u8"
+  },
+  "USBD120002431": {
+    "name": "Vevo 2010s",
+    "streamLink": "https://jmp2.uk/sam-USBD120002431.m3u8",
+    "style": "m3u8"
+  },
+  "USBB320000647": {
+    "name": "XITE 80s Flashback",
+    "streamLink": "https://jmp2.uk/sam-USBB320000647.m3u8",
+    "style": "m3u8"
+  },
+  "USBB3200007AK": {
+    "name": "XITE 90s Throwback",
+    "streamLink": "https://jmp2.uk/sam-USBB3200007AK.m3u8",
+    "style": "m3u8"
+  },
+  "USBD350003932": {
+    "name": "XITE Celebrates",
+    "streamLink": "https://jmp2.uk/sam-USBD350003932.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3500022DN": {
+    "name": "Stingray Greatest Hits",
+    "streamLink": "https://jmp2.uk/sam-USBD3500022DN.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3500010MT": {
+    "name": "Stingray Hip Hop",
+    "streamLink": "https://jmp2.uk/sam-USBD3500010MT.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3300021KV": {
+    "name": "Stingray Hot Country",
+    "streamLink": "https://jmp2.uk/sam-USBD3300021KV.m3u8",
+    "style": "m3u8"
+  },
+  "USBD35000149S": {
+    "name": "Stingray Nothin' But 90s",
+    "streamLink": "https://jmp2.uk/sam-USBD35000149S.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3300022QK": {
+    "name": "Stingray Remember the 80s",
+    "streamLink": "https://jmp2.uk/sam-USBD3300022QK.m3u8",
+    "style": "m3u8"
+  },
+  "USBD3500017CE": {
+    "name": "Stingray Romance Latino",
+    "streamLink": "https://jmp2.uk/sam-USBD3500017CE.m3u8",
     "style": "m3u8"
   },
  "ClubbingTV": {

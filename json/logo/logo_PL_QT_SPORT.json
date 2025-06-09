@@ -1,4 +1,194 @@
 [
+
+  {
+    "id": "btsport1uk",
+    "name": "UK: TNT SPORTS 1",
+    "logo": "https://cdam.work/logo/sport/tn1.png"
+  },
+  {
+    "id": "btsport2uk",
+    "name": "UK: TNT SPORTS 2",
+    "logo": "https://cdam.work/logo/sport/tn2.png"
+  },
+  {
+    "id": "btsport3uk",
+    "name": "UK: TNT SPORTS 3",
+    "logo": "https://cdam.work/logo/sport/tn3.png"
+  },
+  {
+    "id": "btsport4uk",
+    "name": "UK: TNT SPORTS 4",
+    "logo": "https://cdam.work/logo/sport/tn4.png"
+  },
+  {
+    "id": "skysportspremiereleagueuk",
+    "name": "UK: SKY SPORTS Premier League",
+    "logo": "https://cdam.work/logo/sport/sepl.png"
+  },
+  {
+    "id": "skysportsmaineventuk",
+    "name": "UK: SKY SPORTS Main Event",
+    "logo": "https://cdam.work/logo/sport/smain.png"
+  },
+  {
+    "id": "skysportsfootballuk",
+    "name": "UK: SKY SPORTS Football",
+    "logo": "https://cdam.work/logo/sport/sfoot.png"
+  },
+  {
+    "id": "skysportsarenauk",
+    "name": "UK: SKY SPORTS Arena",
+    "logo": "https://cdam.work/logo/sport/sarena.png"
+  },
+  {
+    "id": "skysportsmixuk",
+    "name": "UK: SKY SPORTS Mix",
+    "logo": "https://cdam.work/logo/sport/smix.png"
+  },
+  {
+    "id": "skysportsnfluk",
+    "name": "UK: SKY SPORTS Action/NFL",
+    "logo": "https://cdam.work/logo/sport/saction.png"
+  },
+
+
+
+
+
+
+  {
+    "id": "sky1nz",
+    "name": "SKY SPORT 1 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png"
+  },
+  {
+    "id": "sky2nz",
+    "name": "SKY SPORT 2 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-2-459.png"
+  },
+  {
+    "id": "sky3nz",
+    "name": "SKY SPORT 3 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-3-460.png"
+  },
+  {
+    "id": "sky4nz",
+    "name": "SKY SPORT 4 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-4-461.png"
+  },
+  {
+    "id": "sky5nz",
+    "name": "SKY SPORT 5 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-5-nz-1823.png"
+  },
+  {
+    "id": "sky6nz",
+    "name": "SKY SPORT 6 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-6-nz-1824.png"
+  },
+  {
+    "id": "sky7nz",
+    "name": "SKY SPORT 7 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-7-nz-1825.png"
+  },
+  {
+    "id": "sky8nz",
+    "name": "SKY SPORT 8 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-8-nz-1826.png"
+  },
+  {
+    "id": "sky9nz",
+    "name": "SKY SPORT 9 NZ",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-9-nz-1827.png"
+  },
+  {
+    "id": "novaepl",
+    "name": "NOVA EPL",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-premier-league-2781.png"
+  },
+  {
+    "id": "nova1",
+    "name": "NOVA 1",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-1-374.png"
+  },
+  {
+    "id": "nova2",
+    "name": "NOVA 2",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-2-375.png"
+  },
+  {
+    "id": "nova3",
+    "name": "NOVA 3",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-3-376.png"
+  },
+  {
+    "id": "nova4",
+    "name": "NOVA 4",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-4-377.png"
+  },
+  {
+    "id": "nova5",
+    "name": "NOVA 5",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-5-378.png"
+  },
+  {
+    "id": "nova6",
+    "name": "NOVA 6",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-nova-sports-6-2644.png"
+  },
+  {
+    "id": "cosmote1",
+    "name": "COSMOTE 1",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png"
+  },
+  {
+    "id": "cosmote2",
+    "name": "COSMOTE 2",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png"
+  },
+  {
+    "id": "cosmote3",
+    "name": "COSMOTE 3",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-3-385.png"
+  },
+  {
+    "id": "cosmote4",
+    "name": "COSMOTE 4",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-4-386.png"
+  },
+  {
+    "id": "cosmote5",
+    "name": "COSMOTE 5",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-5-387.png"
+  },
+  {
+    "id": "cosmote6",
+    "name": "COSMOTE 6",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-6-388.png"
+  },
+  {
+    "id": "cosmote7",
+    "name": "COSMOTE 7",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-7-389.png"
+  },
+  {
+    "id": "cosmote8",
+    "name": "COSMOTE 8",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-8-390.png"
+  },
+  {
+    "id": "cosmote9",
+    "name": "COSMOTE 9",
+    "logo": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-9-1590.png"
+  },
+
+  
+  
+  
+  
+  
+  
+  
   {
     "id": "UnitedStates30AGolfKingdom",
     "name": "30A Golf Kingdom",

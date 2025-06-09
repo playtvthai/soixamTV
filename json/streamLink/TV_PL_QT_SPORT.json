@@ -1,4 +1,208 @@
 {
+  
+  "btsport1uk": {
+    "name": "UK: TNT SPORTS 1",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "btsport2uk": {
+    "name": "UK: TNT SPORTS 2",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "btsport3uk": {
+    "name": "UK: TNT SPORTS 3",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_3/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "btsport4uk": {
+    "name": "UK: TNT SPORTS 4",
+    "streamLink": "https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_4/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportspremiereleagueuk": {
+    "name": "UK: SKY SPORTS Premier League",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportsmaineventuk": {
+    "name": "UK: SKY SPORTS Main Event",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportsfootballuk": {
+    "name": "UK: SKY SPORTS Football",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_FOOTBALL/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportsf1uk": {
+    "name": "UK: SKY SPORTS F1",
+    "streamLink": "https://stream1.freetv.fun/skysports-9.ctv",
+    "style": "m3u8"
+  },
+  "skysportsgolfuk": {
+    "name": "UK: SKY SPORTS Golf",
+    "streamLink": "https://stream1.freetv.fun/skysports-4.ctv",
+    "style": "m3u8"
+  },
+  "skysportsnewsuk": {
+    "name": "UK: Sky Sports News",
+    "streamLink": "https://stream1.freetv.fun/skysports-3.ctv",
+    "style": "m3u8"
+  },
+  "skysportsarenauk": {
+    "name": "UK: SKY SPORTS Arena",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_ARENA/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportsmixuk": {
+    "name": "UK: SKY SPORTS Mix",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MIX/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  "skysportsnfluk": {
+    "name": "UK: SKY SPORTS Action/NFL",
+    "streamLink": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_TENNIS/tracks-v1a1/mono.ts.m3u8",
+    "style": "m3u8"
+  },
+  
+  
+  
+  
+  
+  
+  "sky1nz": {
+    "name": "SKY SPORT 1 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky2nz": {
+    "name": "SKY SPORT 2 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky3nz": {
+    "name": "SKY SPORT 3 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky4nz": {
+    "name": "SKY SPORT 4 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky5nz": {
+    "name": "SKY SPORT 5 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky6nz": {
+    "name": "SKY SPORT 6 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky7nz": {
+    "name": "SKY SPORT 7 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky8nz": {
+    "name": "SKY SPORT 8 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8",
+    "style": "m3u8"
+  },
+  "sky9nz": {
+    "name": "SKY SPORT 9 NZ",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8",
+    "style": "m3u8"
+  },
+  "novaepl": {
+    "name": "NOVA EPL",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://windnew.newkso.ru/wind/premium599/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova1": {
+    "name": "NOVA 1",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova2": {
+    "name": "NOVA 2",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova3": {
+    "name": "NOVA 3",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova4": {
+    "name": "NOVA 4",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova5": {
+    "name": "NOVA 5",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8",
+    "style": "m3u8"
+  },
+  "nova6": {
+    "name": "NOVA 6",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote1": {
+    "name": "COSMOTE 1",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote2": {
+    "name": "COSMOTE 2",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote3": {
+    "name": "COSMOTE 3",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote4": {
+    "name": "COSMOTE 4",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote5": {
+    "name": "COSMOTE 5",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote6": {
+    "name": "COSMOTE 6",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote7": {
+    "name": "COSMOTE 7",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote8": {
+    "name": "COSMOTE 8",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8",
+    "style": "m3u8"
+  },
+  "cosmote9": {
+    "name": "COSMOTE 9",
+    "streamLink": "https://josh9456-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8",
+    "style": "m3u8"
+  },
+
+  
+  
+  
+  
+  
+  
   "UnitedStates30AGolfKingdom": {
     "name": "30A Golf Kingdom",
     "streamLink": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
