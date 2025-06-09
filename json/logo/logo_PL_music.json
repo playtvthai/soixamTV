@@ -1,5 +1,105 @@
 [
   {
+    "id": "giatv-kpoptvplay",
+    "name": "Kpop TV Play",
+    "logo": "https://i.imgur.com/Tf0vweF.png"
+  },
+  {
+    "id": "USAJ3000013FJ",
+    "name": "NEW KPOP",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png"
+  },
+  {
+    "id": "US39000038W",
+    "name": "K-POP by CJ ENM",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png"
+  },
+  {
+    "id": "traceurban",
+    "name": "Trace Urban",
+    "logo": "https://i.imgur.com/VRazo4V.png"
+  },
+  {
+    "id": "vibetobeat1-x",
+    "name": "VIBE TO BEAT",
+    "logo": "https://i.imgur.com/r7ylVnG.png"
+  },
+  {
+    "id": "kloopy",
+    "name": "Kaloopy",
+    "logo": "https://i.ibb.co/JR1nZYb/Kaloopy-cc.png"
+  },
+  {
+    "id": "v2beat",
+    "name": "V2BEAT HD",
+    "logo": "http://images.zaltv.club/logo/v2.jpg"
+  },
+  {
+    "id": "USBD300011KQ",
+    "name": "Vevo '70s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png"
+  },
+  {
+    "id": "USBD300012YC",
+    "name": "Vevo '80s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png"
+  },
+  {
+    "id": "USBD3000133M",
+    "name": "Vevo '90s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png"
+  },
+  {
+    "id": "USBD120002431",
+    "name": "Vevo 2010s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png"
+  },
+  {
+    "id": "USBB320000647",
+    "name": "XITE 80s Flashback",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png"
+  },
+  {
+    "id": "USBB3200007AK",
+    "name": "XITE 90s Throwback",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png"
+  },
+  {
+    "id": "USBD350003932",
+    "name": "XITE Celebrates",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png"
+  },
+  {
+    "id": "USBD3500022DN",
+    "name": "Stingray Greatest Hits",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240611T050259SQUARE.png"
+  },
+  {
+    "id": "USBD3500010MT",
+    "name": "Stingray Hip Hop",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240520T212836SQUARE.png"
+  },
+  {
+    "id": "USBD3300021KV",
+    "name": "Stingray Hot Country",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240826T191205SQUARE.png"
+  },
+  {
+    "id": "USBD35000149S",
+    "name": "Stingray Nothin' But 90s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png"
+  },
+  {
+    "id": "USBD3300022QK",
+    "name": "Stingray Remember the 80s",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png"
+  },
+  {
+    "id": "USBD3500017CE",
+    "name": "Stingray Romance Latino",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png"
+  },
+  {
     "id": "ClubbingTV",
     "name": "Clubbing TV",
     "logo": "https://img.zaltv.gq/logo/clubbingtv.webp",

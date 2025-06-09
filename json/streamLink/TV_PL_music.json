@@ -1,5 +1,40 @@
 {
-  "ClubbingTV": {
+  "kpoptvplay": {
+    "name": "Kpop TV Play",
+    "streamLink": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+    "style": "m3u8"
+  },
+  "USAJ3000013FJ": {
+    "name": "NEW KPOP",
+    "streamLink": "https://jmp2.uk/sam-USAJ3000013FJ.m3u8",
+    "style": "m3u8"
+  },
+  "US39000038W": {
+    "name": "K-POP by CJ ENM",
+    "streamLink": "https://jmp2.uk/sam-US39000038W.m3u8",
+    "style": "m3u8"
+  },
+  "traceurban": {
+    "name": "Trace Urban",
+    "streamLink": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+    "style": "m3u8"
+  },
+  "vibetobeat": {
+    "name": "VIBE TO BEAT",
+    "streamLink": "https://de1se01.v2beat.live/playlist.m3u8",
+    "style": "m3u8"
+  },
+  "kaloopy": {
+    "name": "Kaloopy",
+    "streamLink": "https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8",
+    "style": "m3u8"
+  },
+  "v2beat": {
+    "name": "V2BEAT HD",
+    "streamLink": "http://de1se01.v2beat.live/playlist.m3u8",
+    "style": "m3u8"
+  },
+ "ClubbingTV": {
     "name": "Clubbing TV",
     "streamLink": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
     "style": "m3u8"
