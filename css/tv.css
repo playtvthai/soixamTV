@@ -1,3 +1,4 @@
+
 #video{
   width: 100vw;
   max-height: 100% ;
@@ -163,13 +164,17 @@ a {
   #content {
     margin-top: 50px;
   }
-  
   .container {
     margin: calc((100vw * 9 / 16) + 10vh) auto 0;
   }
+ 
+
 }
 
-) + 10vh) auto 0;
-  }
-}
 
+
+@media (min-width: 786px) {
+  #video >a, .ifvideo {
+  height: calc((50vw * 9 / 16) - 20px) ; 
+}
+}
