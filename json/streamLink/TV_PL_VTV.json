@@ -65,5 +65,10 @@
     "streamLink": "https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8",
     "audio": "",
     "style": "m3u8"
+  },
+  "vtvlive":{
+    "name": "VTV livestream",
+    "streamLink": "https://events.vtvdigital.vn/livestream/thethao-manifest.m3u8",
+    "style": "m3u8"
   }
 }

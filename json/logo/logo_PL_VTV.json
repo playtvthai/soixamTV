@@ -64,6 +64,11 @@
     "name": "VTV9",
     "logo": "VTV9_logo.png",
     "nation": "vietnam"
+    },
+    {
+      "id": "vtvlive",
+      "name": "VTV livestream",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vietnam_Television_logo_from_2013.svg/500px-Vietnam_Television_logo_from_2013.svg.png"
     }
 
 ]
