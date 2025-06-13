@@ -1,14 +1,72 @@
 [
     {
+    "id": "warner_tv",
+    "name": "WARNER TV",
+    "logo": "https://i.imgur.com/vGEL2Ne.png"
+  },
+  {
+    "id": "action_hollywood_movies",
+    "name": "ACTION HOLLYWOOD MOVIES",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png"
+  },
+  
+  {
+    "id": "HoreeHD",
+    "name": "Horee!",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440"
+  },
+  {
+    "id": "DreamWorksHD",
+    "name": "Dreamworks HD",
+    "logo": "https://1000logos.net/wp-content/uploads/2021/04/DreamWorks-logo.png"
+  },
+  {
+    "id": "AdultSwim",
+    "name": "Adult Swim",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png"
+  },
+  {
+    "id": "Treehouse",
+    "name": "Treehouse",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1920px-Treehouse_TV_logo.svg.png"
+  },
+  
+  
+  
+  
+  
+  
+  
+  {
+    "id": "YTV",
+    "name": "YTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png"
+  },
+  {
+    "id": "PBSKidsAsia",
+    "name": "PBS KIDS ASIA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png?20220814214903"
+  },
+  {
+    "id": "BBCKids",
+    "name": "BBC Kids",
+    "logo": "https://i.imgur.com/BbdlqWg.png"
+  },
+  {
+    "id": "BabyFirstTV",
+    "name": "USA: BABY FIRST TV",
+    "logo": "http://apkip.tv/logos/USA/BabyFirst.us.png"
+  },
+    
+    
+    
+    
+    
+    
+    {
         "id": "3ABNKids.us",
         "name": "3ABN Kids",
         "logo": "https://i.imgur.com/SUPQAok.png",
-        "nation": ""
-    },
-    {
-        "id": "4FunKids.pl",
-        "name": "4 Fun Kids",
-        "logo": "https://i.imgur.com/2JO5Y8c.png",
         "nation": ""
     },
     {
@@ -60,12 +118,6 @@
         "nation": ""
     },
     {
-        "id": "ATVKhaghaliqTV.am",
-        "name": "like Gecko) Mobile/15E148\",ATV Khaghaliq TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512",
-        "nation": ""
-    },
-    {
         "id": "BabyFirst.us",
         "name": "BabyFirst",
         "logo": "https://i.imgur.com/WxLHBwu.png",
@@ -78,27 +130,9 @@
         "nation": ""
     },
     {
-        "id": "CarouselInternational.ru",
-        "name": "Carousel International",
-        "logo": "https://i.imgur.com/DnlngRZ.png",
-        "nation": ""
-    },
-    {
-        "id": "CartoonNetwork.uk",
-        "name": "Cartoon Network",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
-        "nation": ""
-    },
-    {
         "id": "ChinolaTV.do",
         "name": "Chinola TV",
         "logo": "https://i.imgur.com/ybud4dI.png",
-        "nation": ""
-    },
-    {
-        "id": "ChristianYouthChannelCYC.us",
-        "name": "Christian Youth Channel CYC",
-        "logo": "https://i.imgur.com/61eV77C.png",
         "nation": ""
     },
     {
@@ -114,45 +148,9 @@
         "nation": ""
     },
     {
-        "id": "Detskimir.ru",
-        "name": "like Gecko) Mobile/15E148\",Detski mir",
-        "logo": "https://i.imgur.com/bBVEP0S.png",
-        "nation": ""
-    },
-    {
         "id": "DiosTeVeKids.hn",
         "name": "Dios Te Ve Kids",
         "logo": "https://i.imgur.com/GnZicVH.png",
-        "nation": ""
-    },
-    {
-        "id": "DisneyChannel.pl",
-        "name": "Disney Channel",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "DisneyChannelEast.us",
-        "name": "Disney Channel East",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "DisneyJunior.ca",
-        "name": "Disney Junior",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "DisneyXD.pl",
-        "name": "Disney XD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "DisneyXDEast.us",
-        "name": "Disney XD East",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",
         "nation": ""
     },
     {
@@ -228,45 +226,9 @@
         "nation": ""
     },
     {
-        "id": "MiniMiniPlus.pl",
-        "name": "MiniMini+",
-        "logo": "https://i.imgur.com/1AdUC53.png",
-        "nation": ""
-    },
-    {
         "id": "Mult.ru",
         "name": "Mult",
         "logo": "https://i.imgur.com/xi351Fx.png",
-        "nation": ""
-    },
-    {
-        "id": "Nickelodeon.es",
-        "name": "Nickelodeon",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "nation": ""
-    },
-    {
-        "id": "Nickelodeon.pl",
-        "name": "Nickelodeon",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "nation": ""
-    },
-    {
-        "id": "NickelodeonCIS.ru",
-        "name": "Nickelodeon CIS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
-        "nation": ""
-    },
-    {
-        "id": "NickelodeonEast.us",
-        "name": "Nickelodeon East",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "nation": ""
-    },
-    {
-        "id": "NickJr.pl",
-        "name": "Nick Jr.",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png",
         "nation": ""
     },
     {
@@ -279,12 +241,6 @@
         "id": "NicktoonsCIS.ru",
         "name": "Nicktoons CIS",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
-        "nation": ""
-    },
-    {
-        "id": "NicktoonsEast.us",
-        "name": "Nicktoons East",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",
         "nation": ""
     },
     {
@@ -306,12 +262,6 @@
         "nation": ""
     },
     {
-        "id": "Ryzhiy.ru",
-        "name": "like Gecko) Mobile/15E148\",Ryzhiy",
-        "logo": "https://i.imgur.com/QlncxbD.png",
-        "nation": ""
-    },
-    {
         "id": "Sat7Kids.cy",
         "name": "Sat 7 Kids",
         "logo": "https://i.imgur.com/M0ik0i2.png",
@@ -324,12 +274,6 @@
         "nation": ""
     },
     {
-        "id": "STSkids.ru",
-        "name": "STS kids",
-        "logo": "https://i.imgur.com/o9kLpAL.png",
-        "nation": ""
-    },
-    {
         "id": "SuperSimpleSongs.us",
         "name": "Super Simple Songs",
         "logo": "https://i.imgur.com/3k4F7O9.png",
@@ -339,18 +283,6 @@
         "id": "Tamyr.ru",
         "name": "Tamyr",
         "logo": "https://i.imgur.com/Ia3acCB.png",
-        "nation": ""
-    },
-    {
-        "id": "TeletoonPlus.pl",
-        "name": "Teletoon+",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/512px-T%C3%A9l%C3%A9toon%2B_Logo.png",
-        "nation": ""
-    },
-    {
-        "id": "TiJi.ru",
-        "name": "like Gecko) Mobile/15E148\",TiJi",
-        "logo": "https://i.imgur.com/QCOUJ30.png",
         "nation": ""
     },
     {

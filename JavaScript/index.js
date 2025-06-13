@@ -23,8 +23,13 @@ function play(idStream, tag) {
       if (data[idStream].style == "vlc") {
         onVLC(data[idStream].streamLink)
       }
-      if (data[idStream].style == "key") {
-        clearkey(data[idStream].streamLink,data[idStream].key )
+      if (data[idStream].style == "key" || data[idStream].style == "key-hex" ) {
+        clearkey(
+          data[idStream].streamLink,
+          data[idStream].key,
+          data[idStream].style
+          
+        )
       }
       
       
@@ -38,42 +43,53 @@ function play(idStream, tag) {
 
 
 
+function clearkey(url, key, style) {
+  const container = document.getElementById("video");
 
-///////////
+  // Tạo lại thẻ <video>
+  container.innerHTML = `
+    <video id="myVideo"
+           class="video-section"
+           poster="${GL_domain}wordspage/image/poster/TV SHOW_20250120_172203_0000.png"
+           controls autoplay loop muted playsinline>
+    </video>
+  `;
 
+  let clearkeyData;
 
+  if (style === "key") {
+    clearkeyData = key;
 
-
-function clearkey(url, key) {
-  const idHTML = document.getElementById("video")
-  idHTML.innerHTML = `
-      <video src="${GL_domain}wordspage/video/cho.mp4"  class="video-section" id="myVideo"  poster="${GL_domain}wordspage/image/poster/TV SHOW_20250120_172203_0000.png"   loop autoplay controls
-    </video>`;
-  
-     const manifestUri = url;
-     const clearkey = key
-     playShakaStream(manifestUri, clearkey,"myVideo");
-   
-  
-  //playShakaStream(url, key, "myVideo");
-/*  const clearkey = {
-  "keys": [
-    {
-      "kty": "oct",
-      "k": "WTKPYh1WdnvF/5QEqJQGgw",
-      "kid": "Z9riBSfGPa2qrmCaqRV3yw"
+  } else if (style === "key-hex") {
+    if (!key?.keys?.length) {
+      console.error("Dữ liệu key không hợp lệ:", key);
+      alert("Lỗi: Key không hợp lệ.");
+      return;
     }
-  ],
-  "type": "temporary"
-};
 
-playShakaStream(
-  'https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd',
-  clearkey,
-  'myVideo'
-);*/
+    const item = key.keys[0];
+
+    clearkeyData = {
+      type: "temporary",
+      keys: [
+        {
+          kty: "oct",
+          k: hexToBase64(item.k),
+          kid: hexToBase64(item.kid)
+        }
+      ]
+    };
+
+    console.log("ClearKey đã chuyển từ hex:", clearkeyData);
+
+  } else {
+    console.warn("Style không hợp lệ:", style);
+    alert("Style không hợp lệ.");
+    return;
+  }
+
+  playShakaStream(url, clearkeyData, "myVideo");
 }
-
 
 
 function iframe(linkStream) {
@@ -124,38 +140,6 @@ function onVLC(url) {
         `;
 }
 
-
-/*
-function playShakaStream(manifestUri, clearkey, id) {
-  if (!shaka.Player.isBrowserSupported()) {
-    alert('Trình duyệt không hỗ trợ Shaka Player!');
-    return;
-  }
-  
-  const video = document.getElementById(id);
-  const player = new shaka.Player(video);
-  
-  player.configure({
-    drm: {
-      clearKeys: clearkey
-    }
-  });
-  
-  player.load(manifestUri)
-    .then(() => {
-      console.log('Phát thành công!');
-    })
-    .catch(e => {
-      alert()
-      console.error('Lỗi phát:', e);
-    });
-    
-  
-    video.play();
-    video.autoplay = true
-    video.muted = false
-}
-*/
 function base64ToBase64Url(b64) {
   return b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
 }
@@ -195,13 +179,11 @@ function playShakaStream(url, jwks, id) {
     alert(`Lỗi phát: ${error.code}`);
   });
   
-  
     video.play();
-    video.autoplay = true
     video.muted = false
+    video.autoplay = true
+    
 }
-
-
 
 
 function hls(videoSrc) {
@@ -224,8 +206,6 @@ function hls(videoSrc) {
     video.muted = false
   }
 }
-
-
 function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 2000) { // syncTime is now a parameter
     const videoPlayer = document.getElementById(idV);
     const audioPlayer = document.getElementById(idA);
@@ -342,4 +322,21 @@ function hls_multi(videoSrc, audioSrc, idV, idA, tolerance = 0.1, syncTime = 200
         audioPlayer.currentTime = videoPlayer.currentTime;
     });
 
+}
+
+function hexToBase64(hexString) {
+  // Loại bỏ dấu cách và chữ hoa/thường nếu cần
+  hexString = hexString.replace(/\s+/g, '').toLowerCase();
+
+  // Chuyển hex thành một mảng byte
+  const byteArray = [];
+  for (let i = 0; i < hexString.length; i += 2) {
+    byteArray.push(parseInt(hexString.substr(i, 2), 16));
+  }
+
+  // Tạo chuỗi nhị phân từ mảng byte
+  const binaryString = String.fromCharCode(...byteArray);
+
+  // Mã hóa base64
+  return btoa(binaryString);
 }

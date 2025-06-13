@@ -1,4 +1,8 @@
 [
+  
+  
+  
+  
   {
     "id": "hboVi",
     "name": "HBO Tiếng Việt",
@@ -15,12 +19,6 @@
     "id": "cinemaworldVi",
     "name": "Cinema World Tiếng Việt",
     "logo": "https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",
-    "nation": "vietnam"
-  },
-  {
-    "id": "cartoonnetworkVi",
-    "name": "Cartoon Network HD Tiếng Việt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
     "nation": "vietnam"
   },
   {

@@ -1,5 +1,94 @@
 [
 
+
+
+  {
+    "id": "abu_dhabi_sports_premium_1",
+    "name": "Abu Dhabi Sports Premium 1",
+    "logo": "https://iili.io/2MEFJt9.png"
+  },
+  {
+    "id": "abu_dhabi_sports_premium_2",
+    "name": "Abu Dhabi Sports Premium 2",
+    "logo": "https://iili.io/2MEFJt9.png"
+  },
+  {
+    "id": "starzplay_sports",
+    "name": "Starzplay Sports",
+    "logo": "https://iili.io/2MEFfFj.png"
+  },
+  {
+    "id": "ssc_1",
+    "name": "SSC 1",
+    "logo": "http://guki.my.id/logo/sports/sc1.jpg"
+  },
+  {
+    "id": "ssc_2",
+    "name": "SSC 2",
+    "logo": "http://guki.my.id/logo/sports/sc2.jpg"
+  },
+  {
+    "id": "ssc_3",
+    "name": "SSC 3",
+    "logo": "http://guki.my.id/logo/sports/sc3.jpg"
+  },
+  {
+    "id": "ssc_4",
+    "name": "SSC 4",
+    "logo": "http://guki.my.id/logo/sports/sc4.jpg"
+  },
+  {
+    "id": "ssc_5",
+    "name": "SSC 5",
+    "logo": "http://guki.my.id/logo/sports/sc5.jpg"
+  },
+  {
+    "id": "ssc_extra_1",
+    "name": "SSC EXTRA 1",
+    "logo": "http://guki.my.id/logo/sports/scex1.jpg"
+  },
+  {
+    "id": "ssc_extra_2",
+    "name": "SSC EXTRA 2",
+    "logo": "http://guki.my.id/logo/sports/scex2.jpg"
+  },
+  {
+    "id": "ssc_extra_3",
+    "name": "SSC EXTRA 3",
+    "logo": "http://guki.my.id/logo/sports/scex3.jpg"
+  },
+  {
+    "id": "daznrise",
+    "name": "DAZN RISE",
+    "logo": "https://i.ibb.co/BL5vq04/image-removebg-preview-2.png"
+  },
+  {
+    "id": "rai_sport",
+    "name": "Rai Sport",
+    "logo": "https://iili.io/2rWV8ml.png"
+  },
+  {
+    "id": "one_sports_hd",
+    "name": "ONE SPORTS HD",
+    "logo": "https://i.ibb.co.com/Q7q3zQmq/Onesport.png"
+  },
+  {
+    "id": "one_sports_plus_hd",
+    "name": "ONE SPORTS+ HD",
+    "logo": "https://i.ibb.co.com/rftyvxcd/Onesports.png"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "id": "btsport1uk",
     "name": "UK: TNT SPORTS 1",

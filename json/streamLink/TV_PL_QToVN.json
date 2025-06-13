@@ -1,5 +1,8 @@
 {
-  "hboVi": {
+  
+
+  
+   "hboVi": {
     "name": "HBO Tiếng Việt",
     "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
     "key": {
@@ -38,21 +41,6 @@
           "kty": "oct",
           "k": "s14Sp1pCpvkYRyOpD/QtnA",
           "kid": "7nkVVk10OdCb01Vv/MyHpA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "style": "key"
-  },
-  "cartoonnetworkVi": {
-    "name": "Cartoon Network HD Tiếng Việt",
-    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
-    "key": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "PMGt1Drszj/jHJxqKluMIQ",
-          "kid": "PCAWZmCpOnWsd9uBVnOJ9w"
         }
       ],
       "type": "temporary"

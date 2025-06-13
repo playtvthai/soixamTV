@@ -1,0 +1,48 @@
+{
+  
+  "DisneyChannel": {
+    "name": "DISNEY CHANNEL",
+    "streamLink": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "3d40f2990ec5362ca5be3a3c9bb8f8b4",
+          "kid": "be9caaa813c5305e761c66ac63645901"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "DisneyJR": {
+    "name": "DISNEY JR",
+    "streamLink": "https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "6a97b8d4beed4d4b1697c1488706c6ca",
+          "kid": "221e176f3dfabb84ff506d65dd93b09f"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "DisneyXD": {
+    "name": "USA: DISNEY XD",
+    "streamLink": "https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "fad936249e036830aa5bef41bec05326",
+          "kid": "39cebece8b36640f9ba3f248ecfdf86a"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  }
+}

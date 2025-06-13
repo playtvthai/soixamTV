@@ -1,12 +1,128 @@
 {
+  
+  "warner_tv": {
+    "name": "WARNER TV",
+    "streamLink": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "kid": "RQPPhryjSUq5WnftkTYZoA",
+          "k": "r8nI9if7P7JV3ujjsP4dcQ"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "action_hollywood_movies": {
+    "name": "ACTION HOLLYWOOD MOVIES",
+    "streamLink": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "key": null,
+    "style": "m3u8"
+  },
+  "HoreeHD": {
+    "name": "Horee!",
+    "streamLink": "https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "440e1c1ce9ba337844409c8bcad5a268",
+          "kid": "0a3aaee779e940db8ff24f9f3eb5c98a"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "DreamWorksHD": {
+    "name": "Dreamworks HD",
+    "streamLink": "https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "a33d496875d04510a9b3116ba51ae65d",
+          "kid": "f08c30b7ee114399b72e77b0c099244b"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "AdultSwim": {
+    "name": "Adult Swim",
+    "streamLink": "https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "4a2e5782e26a3e2d7dd0431205c14518",
+          "kid": "cc26110bb0d29d0e4452d42602846080"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "Treehouse": {
+    "name": "Treehouse",
+    "streamLink": "https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "a2d94fdff16e9c332164a73f8b170bd3",
+          "kid": "de9b995d2aba32bae1c5dbe38a46f2d9"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "YTV": {
+    "name": "YTV",
+    "streamLink": "https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "7bcef3cf93de00e3daeb190d15b1ec05",
+          "kid": "6f0aeae5779f1dcaef23f0bfbc828220"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  "PBSKidsAsia": {
+    "name": "PBS KIDS ASIA",
+    "streamLink": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+    "style": "m3u8"
+  },
+  "BBCKids": {
+    "name": "BBC Kids",
+    "streamLink": "https://jmp2.uk/sam-US800003JM.m3u8",
+    "style": "m3u8"
+  },
+  "BabyFirstTV": {
+    "name": "USA: BABY FIRST TV",
+    "streamLink": "https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+    "style": "m3u8"
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "3ABNKids.us": {
     "name": "3ABN Kids",
     "streamLink": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
-    "style": "m3u8"
-  },
-  "4FunKids.pl": {
-    "name": "4 Fun Kids",
-    "streamLink": "http://178.219.128.68:64888/4FUNKIDS",
     "style": "m3u8"
   },
   "AfarinTV.iq": {
@@ -24,34 +140,14 @@
     "streamLink": "https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8",
     "style": "m3u8"
   },
-  "AmouYazidTV.dz": {
-    "name": "Amou Yazid TV",
-    "streamLink": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
-    "style": "m3u8"
-  },
-  "Ani.ru": {
-    "name": "Ani",
-    "streamLink": "http://31.148.48.15/Ani/index.m3u8",
-    "style": "m3u8"
-  },
   "ARBGunes.az": {
     "name": "ARB Gunes",
     "streamLink": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
     "style": "m3u8"
   },
-  "ArmeniaTownTownik.am": {
-    "name": "Armenia Town Townik",
-    "streamLink": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "style": "m3u8"
-  },
   "AtfalMawahebTV.sa": {
     "name": "Atfal & Mawaheb TV",
     "streamLink": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-    "style": "m3u8"
-  },
-  "ATVKhaghaliqTV.am": {
-    "name": "ATV Khaghaliq TV",
-    "streamLink": "http://ott-cdn.ucom.am/s74/index.m3u8",
     "style": "m3u8"
   },
   "BabyFirst.us": {
@@ -64,24 +160,9 @@
     "streamLink": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
     "style": "m3u8"
   },
-  "CarouselInternational.ru": {
-    "name": "Carousel International",
-    "streamLink": "http://stream02.vnet.am/Karusel/mono.m3u8",
-    "style": "m3u8"
-  },
-  "CartoonNetwork.uk": {
-    "name": "Cartoon Network",
-    "streamLink": "http://92.114.85.72:8000/play/a07h",
-    "style": "m3u8"
-  },
   "ChinolaTV.do": {
     "name": "Chinola TV",
     "streamLink": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
-    "style": "m3u8"
-  },
-  "ChristianYouthChannelCYC.us": {
-    "name": "Christian Youth Channel CYC",
-    "streamLink": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
     "style": "m3u8"
   },
   "Clan.es": {
@@ -94,39 +175,9 @@
     "streamLink": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
     "style": "m3u8"
   },
-  "Detskimir.ru": {
-    "name": "Detski mir",
-    "streamLink": "http://ott-cdn.ucom.am/s58/index.m3u8",
-    "style": "m3u8"
-  },
   "DiosTeVeKids.hn": {
     "name": "Dios Te Ve Kids",
     "streamLink": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
-    "style": "m3u8"
-  },
-  "DisneyChannel.pl": {
-    "name": "Disney Channel",
-    "streamLink": "http://109.233.89.170/Disney_Channel/mono.m3u8",
-    "style": "m3u8"
-  },
-  "DisneyChannelEast.us": {
-    "name": "Disney Channel East",
-    "streamLink": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
-    "style": "m3u8"
-  },
-  "DisneyJunior.ca": {
-    "name": "Disney Junior",
-    "streamLink": "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
-    "style": "m3u8"
-  },
-  "DisneyXD.pl": {
-    "name": "Disney XD",
-    "streamLink": "http://178.219.128.68:64888/DISNXD",
-    "style": "m3u8"
-  },
-  "DisneyXDEast.us": {
-    "name": "Disney XD East",
-    "streamLink": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
     "style": "m3u8"
   },
   "EBSKids.kr": {
@@ -189,41 +240,12 @@
     "streamLink": "https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8",
     "style": "m3u8"
   },
-  "MiniMiniPlus.pl": {
-    "name": "MiniMini+",
-    "streamLink": "http://178.219.128.68:64889/MINIHD",
-    "style": "m3u8"
-  },
   "Mult.ru": {
     "name": "Mult",
     "streamLink": "http://stream01.vnet.am/Mult/mono.m3u8",
     "style": "m3u8"
   },
-  "Nickelodeon.es": {
-    "name": "Nickelodeon",
-    "streamLink": "http://185.189.225.150:85/nickelodeon/index.m3u8",
-    "style": "m3u8"
-  },
-  "Nickelodeon.pl": {
-    "name": "Nickelodeon",
-    "streamLink": "http://178.219.128.68:64889/NICK",
-    "style": "m3u8"
-  },
-  "NickelodeonCIS.ru": {
-    "name": "Nickelodeon CIS",
-    "streamLink": "http://31.148.48.15/Nickelodeon/index.m3u8",
-    "style": "m3u8"
-  },
-  "NickelodeonEast.us": {
-    "name": "Nickelodeon East",
-    "streamLink": "http://143.244.60.30/NICKELODEON/index.m3u8",
-    "style": "m3u8"
-  },
-  "NickJr.pl": {
-    "name": "Nick Jr.",
-    "streamLink": "http://178.219.128.68:64888/NICKJR",
-    "style": "m3u8"
-  },
+  
   "NickJrEast.us": {
     "name": "Nick Jr. East",
     "streamLink": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8",
@@ -232,11 +254,6 @@
   "NicktoonsCIS.ru": {
     "name": "Nicktoons CIS",
     "streamLink": "https://stream01.vnet.am/Boomerang/mono.m3u8",
-    "style": "m3u8"
-  },
-  "NicktoonsEast.us": {
-    "name": "Nicktoons East",
-    "streamLink": "http://143.244.60.30/NICKTOONS/index.m3u8",
     "style": "m3u8"
   },
   "NinjaKidzTV.us": {
@@ -254,11 +271,6 @@
     "streamLink": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
     "style": "m3u8"
   },
-  "Ryzhiy.ru": {
-    "name": "Ryzhiy",
-    "streamLink": "http://ott-cdn.ucom.am/s57/index.m3u8",
-    "style": "m3u8"
-  },
   "Sat7Kids.cy": {
     "name": "Sat 7 Kids",
     "streamLink": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
@@ -269,11 +281,6 @@
     "streamLink": "https://s1.cystream.net/live/smile/playlist.m3u8",
     "style": "m3u8"
   },
-  "STSkids.ru": {
-    "name": "STS kids",
-    "streamLink": "http://stream02.vnet.am/DisneyChannel/mono.m3u8",
-    "style": "m3u8"
-  },
   "SuperSimpleSongs.us": {
     "name": "Super Simple Songs",
     "streamLink": "https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8",
@@ -282,16 +289,6 @@
   "Tamyr.ru": {
     "name": "Tamyr",
     "streamLink": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
-    "style": "m3u8"
-  },
-  "TeletoonPlus.pl": {
-    "name": "Teletoon+",
-    "streamLink": "http://178.219.128.68:64889/TELEHD",
-    "style": "m3u8"
-  },
-  "TiJi.ru": {
-    "name": "TiJi",
-    "streamLink": "http://ott-cdn.ucom.am/s59/index.m3u8",
     "style": "m3u8"
   },
   "TRTCocuk.tr": {

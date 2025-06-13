@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cartoonnetworkVi",
+    "name": "Cartoon Network HD Tiếng Việt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+    "nation": "vietnam"
+  },
+  {
+    "id": "CartoonNetWHD",
+    "name": "Cartoon Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg"
+  },
+  {
+    "id": "CartoonitoHD",
+    "name": "Cartoonito",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/500px-Cartoonito_-_Logo_2021.svg.png"
+  },
+  {
+    "id": "CartoonNet2",
+    "name": "Cartoon Network 2",
+    "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png"
+  }
+]

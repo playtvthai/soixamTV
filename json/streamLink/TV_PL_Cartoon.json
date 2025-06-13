@@ -1,0 +1,67 @@
+{
+  
+  "cartoonnetworkVi": {
+    "name": "Cartoon Network HD Tiếng Việt",
+    "streamLink": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "PMGt1Drszj/jHJxqKluMIQ",
+          "kid": "PCAWZmCpOnWsd9uBVnOJ9w"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key"
+  },
+  "CartoonNetWHD": {
+    "name": "Cartoon Network",
+    "streamLink": "https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "656071dbdffbda440a6fde4fda56de21",
+          "kid": "12fee297311f4bab91367d0e9c3a0a2f"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  
+  "CartoonNet2": {
+    "name": "Cartoon Network 2",
+    "streamLink": "https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "0ac6d617095fbe0ca7f4c9ae72fa5f51",
+          "kid": "7ef57f7f3e8cf0efe4f3d5772a7cbb35"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  },
+  
+  
+  "CartoonitoHD": {
+    "name": "Cartoonito",
+    "streamLink": "https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd",
+    "key": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "51d2893619bdd062fb4c0cdaafefbf27",
+          "kid": "955574ee2b674f0fbbad818fb384c233"
+        }
+      ],
+      "type": "temporary"
+    },
+    "style": "key-hex"
+  }
+  
+}

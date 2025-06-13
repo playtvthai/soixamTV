@@ -1,0 +1,19 @@
+[
+  
+  {
+    "id": "DisneyChannel",
+    "name": "DISNEY CHANNEL",
+    "logo": "http://apkip.tv/logos/Canada/DisneyChannel.ca.png"
+  },
+  {
+    "id": "DisneyJR",
+    "name": "DISNEY JR",
+    "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png"
+  },
+  {
+    "id": "DisneyXD",
+    "name": "USA: DISNEY XD",
+    "logo": "http://apkip.tv/logos/USA/DisneyXD.us.png"
+  }
+  
+]

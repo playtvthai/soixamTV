@@ -35,6 +35,11 @@
   "stream": "TV_PL_SCTV"
 },
 {
+  "name": "Sự Kiện TV360",
+  "logo": "logo_PL_TV360",
+  "stream": "TV_PL_TV360"
+},
+{
   "name": "Kênh K+",
   "logo": "logo_PL_Kplus",
   "stream": "TV_PL_Kplus"
@@ -45,14 +50,24 @@
   "stream": "TV_movies"
 },
 {
+  "name": "Kênh Quốc Tế 🇻🇳",
+  "logo": "logo_PL_QToVN",
+  "stream": "TV_PL_QToVN"
+},
+{
+  "name": "Cartoon Network",
+  "logo": "logo_PL_Cartoon",
+  "stream": "TV_PL_Cartoon"
+},
+{
+  "name": "Disney",
+  "logo": "logo_PL_Disney",
+  "stream": "TV_PL_Disney"
+},
+{
   "name": "In The BOX",
   "logo": "logo_inTheBox",
   "stream": "TV_inTheBox"
-},
-{
-  "name": "Kênh Quốc Tế",
-  "logo": "logo_PL_QToVN",
-  "stream": "TV_PL_QToVN"
 },
 {
   "name": "Kênh truyền hình Nga",
@@ -69,11 +84,7 @@
   "logo": "logo_PL_QT_SPORT",
   "stream": "TV_PL_QT_SPORT"
 },
-{
-  "name": "Sự Kiện TV360",
-  "logo": "logo_PL_TV360",
-  "stream": "TV_PL_TV360"
-},
+
 {
   "name": "Kênh Âm Nhạc",
   "logo": "logo_PL_music",
