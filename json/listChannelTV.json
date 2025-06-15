@@ -55,6 +55,11 @@
   "stream": "TV_PL_QToVN"
 },
 {
+  "name": "Kênh Đối Tác",
+  "logo": "logo_doiTac",
+  "stream": "TV_doiTac"
+},
+{
   "name": "Cartoon Network",
   "logo": "logo_PL_Cartoon",
   "stream": "TV_PL_Cartoon"
