@@ -399,6 +399,12 @@
     "name": "FPT Thể thao 1",
     "streamLink": "https://live.fptplay53.net/epzch1/thethao01_mx.smil/chunklist.m3u8",
     "style": "m3u8"
+  }, 
+  "fptThethao04": {
+    "id": "fptThethao04",
+    "name": "FPT Thể thao 4",
+    "streamLink": "https://live.fptplay53.net/epzch1/thethao04_mx.smil/chunklist.m3u8",
+    "style": "m3u8"
   },
   "fptThethao026": {
     "id": "fptThethao026",
