@@ -3,5 +3,10 @@
     "name": "Nino Network",
     "streamLink": "https://viettel.khanggtivi.xyz/live/ninochannel/index.m3u8",
     "style": "m3u8"
+  },
+   "hdaLive1": {
+    "name": "Hoangducanh - Live 1",
+    "streamLink": "http://viettel.khanggtivi.xyz/live/live1/index.m3u8",
+    "style": "m3u8"
   }
 }
