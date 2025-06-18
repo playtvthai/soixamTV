@@ -49,7 +49,7 @@
   },
   "ssc_1": {
     "name": "SSC 1",
-    "streamLink": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+    "streamLink": "https://api.allorigins.win/raw?url=https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
     "key": {
       "keys": [
         {
