@@ -1,5 +1,11 @@
 [
   {
+    "id": "sctv4k",
+    "name": "SCTV1 4k",
+    "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp",
+    "nation": "vietnam"
+  },
+  {
     "id": "sctv1",
     "name": "SCTV1",
     "logo": "SCTV1.png",
