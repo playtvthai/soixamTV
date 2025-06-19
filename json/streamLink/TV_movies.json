@@ -8,14 +8,14 @@
     "TV360MeKong": {
     "id": "TV360MeKong",
     "name": "Mekong",
-    "streamLink": "https://api.allorigins.win/raw?url=https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8",
-    "style": "m3u8"
+    "streamLink": "https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8",
+    "style": "iframe"
   },
   "TV360PhimAuMy": {
   "id": "TV360PhimAuMy",
   "name": "Phim Âu Mỹ",
-  "streamLink": "https://api.allorigins.win/raw?url=https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8",
-  "style": "m3u8"
+  "streamLink": "https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8",
+  "style": "iframe"
 }
 }
 

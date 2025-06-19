@@ -1,13 +1,86 @@
 [
   {
+    "id": "sctv1",
+    "name": "SCTV1",
+    "logo": "SCTV1.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv2",
+    "name": "SCTV2",
+    "logo": "SCTV2.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv3",
+    "name": "SCTV3",
+    "logo": "SCTV3.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv4",
+    "name": "SCTV4",
+    "logo": "SCTV4.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctvPhimTongHop",
+    "name": "SCTV Phim Tổng Hợp",
+    "logo": "SCTVPTH.png",
+    "nation": "vietnam"
+  },
+  {
     "id": "sctv6",
     "name": "SCTV6 - fim360",
     "logo": "SCTV6.png",
     "nation": "vietnam"
-  },{
-    "id": "sctv9",
-    "name": "SCTV6 - fim360",
-    "logo": "SCTV9.png",
+  },
+  {
+    "id": "sctv7",
+    "name": "SCTV7",
+    "logo": "SCTV7.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv8",
+    "name": "SCTV8",
+    "logo": "SCTV8.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv10",
+    "name": "SCTV10",
+    "logo": "SCTV10.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv11",
+    "name": "SCTV11",
+    "logo": "SCTV11.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv12",
+    "name": "SCTV12",
+    "logo": "SCTV12.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv13",
+    "name": "SCTV13",
+    "logo": "SCTV13.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv14",
+    "name": "SCTV14",
+    "logo": "SCTV14.png",
+    "nation": "vietnam"
+  },
+  {
+    "id": "sctv18",
+    "name": "SCTV18",
+    "logo": "SCTV18.png",
     "nation": "vietnam"
   }
 ]

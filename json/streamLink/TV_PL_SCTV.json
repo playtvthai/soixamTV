@@ -1,30 +1,72 @@
 {
+  "sctv1": {
+    "name": "SCTV",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8",
+    "style": "m3u8"
+  },
   "sctv2": {
     "name": "SCTV2",
-    "streamLink": "https://tv.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh",
-    "style": "iframe"
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV2/index.m3u8",
+    "style": "m3u8"
+  },
+  "sctv3": {
+    "name": "SCTV3",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV3/index.m3u8",
+    "style": "m3u8"
+  },
+  "sctv4": {
+    "name": "SCTV4",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8",
+    "style": "m3u8"
+  },
+  "sctvPhimTongHop": {
+    "name": "SCTV Phim Tổng Hợp",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8",
+    "style": "m3u8"
   },
   "sctv6": {
     "name": "SCTV6 - fim360",
     "streamLink": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8",
     "style": "m3u8"
   },
-  "sctv9": {
-    "name": "SCTV9",
-    "streamLink": "http://113.177.113.147:4022/rtp/232.84.3.34:11848",
-    "audio": "https://livecdn.onsports.vn/onplus/SCTV9/sc-gaFEQQ/a0_index.m3u8",
-    "style": "vlc"
+  "sctv7": {
+    "name": "SCTV7",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV7/index.m3u8",
+    "style": "m3u8"
+  }, 
+  "sctv8": {
+    "name": "SCTV8",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV8/index.m3u8",
+    "style": "m3u8"
   },
-  "sctv15": {
-    "name": "SCTV15HD",
-    "streamLink": "https://livecdn.onsports.vn/onplus/SCTV15HD/sc-gaFEQQ/v3_index.m3u8",
-    "audio": "https://livecdn.onsports.vn/onplus/SCTV15HD/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+  "sctv10": {
+    "name": "SCTV10",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV10/index.m3u8",
+    "style": "m3u8"
   },
-  "sctv17": {
-    "name": "SCTV17",
-    "streamLink": "https://livecdn.onsports.vn/onplus/SCTV17/sc-gaFEQQ/v2_index.m3u8",
-    "audio": "https://livecdn.onsports.vn/onplus/SCTV17/sc-gaFEQQ/a0_index.m3u8",
-    "style": "hls_multi"
+  "sctv11": {
+    "name": "SCTV4",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV11/index.m3u8",
+    "style": "m3u8"
+  }, 
+  "sctv12": {
+    "name": "SCTV12",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV12/index.m3u8",
+    "style": "m3u8"
+  },
+  "sctv13": {
+    "name": "SCTV4",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV13/index.m3u8",
+    "style": "m3u8"
+  }, 
+  "sctv14": {
+    "name": "SCTV4",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV14/index.m3u8",
+    "style": "m3u8"
+  },
+  "sctv18": {
+    "name": "SCTV4",
+    "streamLink": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8",
+    "style": "m3u8"
   }
 }
