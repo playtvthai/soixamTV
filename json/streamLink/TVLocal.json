@@ -126,7 +126,7 @@
   },
   "hanoi2": {
     "name": "Đài PTTH Hà Nội 2",
-    "streamLink": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist_w630283272_b3128000_slen.m3u8",
+    "streamLink": "https://cloudstreamhntv.tek4tv.vn/events/HN2/index.m3u8",
     "style": "m3u8"
   },
   "hatinh": {
